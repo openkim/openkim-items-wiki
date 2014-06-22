@@ -11,7 +11,9 @@ a, A, B, rh, sig, lam, gam, b, c, mu, Qo, eta, bet, alp, u1, u2, u3, u4
 
 ## Details
 
-The total potential energy of a system of $N$ atoms is assumed to take the form $$ E = \sum_{i=1}^N E_i $$, where the contribution to the energy of atom $$ i $$ is given by
+The total potential energy of a system of $$N$$ atoms is assumed to take the form $$ E = \sum_{i=1}^N E_i $$, where the contribution to the energy of atom $$ i $$ is given by
+
+$$ E_i $$
 
 $$ E_i = \sum_{j \neq i} V_2(R_{ij},Z_i) + \sum_{j \neq i} \sum_{k \neq i, k > j} V_3 (\vec{R}_{ij},\vec{R}_{ik},Z_i) .$$
 
