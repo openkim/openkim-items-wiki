@@ -4,7 +4,7 @@ This **Model Driver** implements the original Stillinger-Weber potential of Baza
 ## Parameters
 Symbols:
 
-$$ \hspace{-5.05in} a, A, B, \rho, \sigma, \lambda, \gamma, b, c, \mu, Q_0, \eta, \beta, \alpha, u_1, u_2, u_3, u_4$$
+$$ a, A, B, \rho, \sigma, \lambda, \gamma, b, c, \mu, Q_0, \eta, \beta, \alpha, u_1, u_2, u_3, u_4$$
 
 Corresponding variables in code:
 a, A, B, rh, sig, lam, gam, b, c, mu, Qo, eta, bet, alp, u1, u2, u3, u4
