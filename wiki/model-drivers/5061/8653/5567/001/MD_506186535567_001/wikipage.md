@@ -40,7 +40,7 @@ $$ V_3(\vec{R}_{ij}, \vec{R}_{ik}, Z_{i}) = g(R_{ij})g(R_{ik}) h(l_{ijk},Z_i) $$
 
 where the bond angle of triplet $$ijk$$ is contained in $$l_{ijk} = \cos \theta_{ijk} = \vec{R}_{ij} \cdot \vec{R}_{ik} / R_{ij} R_{ik}$$.  The radial contribution is given by the function $$g(r) = \exp\left(\dfrac{\gamma}{r-a}\right)$$.  The angular contribution to $$V_3$$ is given by 
 
-$$ h(l,Z) = \lambda \left[ \left( 1 - e^{-Q(Z)(l+\tau(Z))^2)}\right)  + \eta Q(Z)\left(l+\tau(Z)\right)^2\right]$$
+$$ h(l,Z) = \lambda \left[ \left( 1 - e^{-Q(Z)(l+\tau(Z))^2}\right)  + \eta Q(Z)\left(l+\tau(Z)\right)^2\right]$$
 
 with the sensitivity of the three-body energy to coordination controlled by the function $$Q(Z) = Q_0 e^{-\mu Z}$$.  The function $$\tau(Z)$$, which controls the equilibrium angle of the three-body interaction, is chosen heuristically to have the form
 
