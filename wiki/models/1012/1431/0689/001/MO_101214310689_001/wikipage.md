@@ -9,7 +9,7 @@ C44 is 132 Gpa
 
 EAM fitting result:
 lattice constant is 3.571A
-C11 is 236 Gap
+C11 is 236 Gpa
 C12 is 154 Gpa
 C44 is 127 Gpa
 
