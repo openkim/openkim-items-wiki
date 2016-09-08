@@ -2,11 +2,12 @@ Data used in fitting:
 
 All parameters were fit to experimental data.
 
-The Al-Al pair potential and aluminum electron density (up to a scaling constant; see next paragraph) were fit to the shear elastic constants, vacancy formation energy, and stacking fault energy in pure Al.  The embedding energy for Al was fitted using the bulk modulus, cohesive energy, and lattice constant of pure Al.
+The Al-Al pair potential and aluminum electron density (up to a scaling constant; see next paragraph) were fit to the shear elastic constants, vacancy formation energy, 
+and stacking fault energy in pure Al.  The embedding energy for Al was fitted using the bulk modulus, cohesive energy, and lattice constant of pure Al.
 
 The Al-Ni pair potential and the scaling factor used in the aluminum electron density function were fit to the lattice constant and cohesive energy of Ni$$_3$$Al and NiAl, as well as to "...a number of planar fault energies in Ni$$_3$$Al."
 
-The Al-H pair potentialwas fitted to the activation energy for solution and to diffusion properties of hydrogen in aluminum.
+The Al-H pair potential was fitted to the activation energy for solution and to diffusion properties of hydrogen in aluminum.
 
 The H-H pair potential was fit to the equilibrium bond length and energy of a H$$_2$$, while the embedding energy function for hydrogen was fit based on "...interactions of nickel with hydrogen and not on any molecular properties of hydrogen."
 
