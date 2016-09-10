@@ -1,4 +1,4 @@
-Data used in fitting:
+**Data used in fitting:**
 
 All parameters were fit to experimental data.
 
@@ -11,7 +11,7 @@ The Al-H pair potential was fitted to the activation energy for solution and to 
 
 The H-H pair potential was fit to the equilibrium bond length and energy of a H$$_2$$, while the embedding energy function for hydrogen was fit based on "...interactions of nickel with hydrogen and not on any molecular properties of hydrogen."
 
-Source citation DOI:
+**Source citation DOI:**
 
 * J.E. Angelo, N.R. Moody, and M.I. Baskes, "Trapping of hydrogen to lattice-defects in nickel," Modelling Simul. Mater. Sci. Engr. 3, 289-307 (1995). 
     - http://dx.doi.org/10.1088/0965-0393/3/3/001
