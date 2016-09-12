@@ -1,4 +1,7 @@
-Source citation DOI:
+**Data used in fitting:**
+The articles cited below are vague as to what specific quantities were used in the fitting process.  They state that, "These potentials are well fitted to basic material properties such as lattice constants, elastic constants, bulk moduli, vacancy formation energies, and sublimation energies...".
+
+**Source citation DOI:**
 
 * X. W. Zhou, R. A. Johnson, and H. N. G. Wadley, Physical Review B 69, 144113 (2004).
     - http://dx.doi.org/10.1103/PhysRevB.69.144113
