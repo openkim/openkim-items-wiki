@@ -1,4 +1,4 @@
-The Fe-Fe interactions in this potential are based upon those of  [EAM_Dynamo_Mendelev_Han_Fe_2__MO_769582363439_002](https://openkim.org/cite/MO_769582363439_002).  However, as Bonny *et al.* point out, there are two transformations in the EAM paradigm that leave the total energy invariant:
+The Fe-Fe interactions in this potential are based upon those of  [EAM_Dynamo_Mendelev_Han_Fe_2__MO_769582363439_002](https://openkim.org/cite/MO_769582363439_002) and are identical to those of [EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_002](https://openkim.org/cite/MO_469343973171_002).  However, as Bonny *et al.* point out, there are two transformations in the EAM paradigm that leave the total energy invariant:
 
 $$
 \begin{align}
