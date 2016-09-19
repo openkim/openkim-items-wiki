@@ -1,6 +1,6 @@
 **Notes:**
 
-This potential is identical to [model_Fe_PF_mendelev__MO_856295952425_001](https://openkim.org/cite/MO_856295952425_001).  They differ only in terms of their specific implementation.
+This potential is identical to [model_Fe_PF_mendelev__MO_856295952425_001](https://openkim.org/cite/MO_856295952425_001).  They differ only in terms of their specific implementation.  The Fe-Fe interactions of [EAM_Dynamo_Bonny_Pasianot_FeNi__MO_267721408934_002](https://openkim.org/cite/MO_267721408934_002) and [EAM_Dynamo_Bonny_Pasianot_FeCuNi__MO_469343973171_002](https://openkim.org/cite/MO_469343973171_002) are similar to those of this potential but were altered to account for certain invariances of the energy inherent to the EAM formalism.
 
 **Data used in fitting:**
 
