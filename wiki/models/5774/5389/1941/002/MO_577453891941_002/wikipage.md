@@ -1,5 +1,10 @@
 **Notes:**
-The Fe-Fe interactions in this potential are nearly identical to those found in [EAM_Dynamo_Ackland_Mendelev_FeP__MO_884343146310_002](https://openkim.org/cite/MO_884343146310_002), although seem to vary slightly due to the specific tabulation of each which was performed.
+
+The Fe-Fe interactions in this potential are approximately identical to those of the following potentials (although seem to vary slightly due to the specific tabulation which was performed):
+
+* [EAM_Dynamo_Ackland_Mendelev_FeP__MO_884343146310_002](https://openkim.org/cite/MO_884343146310_002)
+* [EAM_Dynamo_Hepburn_Ackland_FeC__MO_143977152728_002](https://openkim.org/cite/MO_143977152728_002)
+* [EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_002](https://openkim.org/cite/MO_249706810527_002)
 
 **Data used in fitting:**
 
