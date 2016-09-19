@@ -4,6 +4,12 @@ Parameters of this potential are given in Table 5 of the article cited below.  N
 
 It is also stated in the article that the Fe-Fe interactions of this potential are taken directly from [M.I. Mendelev, S. Han, D.J. Srolovitz, G.J. Ackland, D.Y. Sun and M. Asta, Phil. Mag. 83, 3977-3994 (2003).](http://dx.doi.org/10.1080/14786430310001613264).  However, the predictions of this potential for properties of pure Fe do not appear to match those of any of the five parametrizations found in this reference.
 
+The following potentials feature identical (or approximately identical) Fe-Fe interactions to this potential:
+
+* [EAM_Dynamo_Hepburn_Ackland_FeC__MO_143977152728_002](https://openkim.org/cite/MO_143977152728_002)
+* [EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_002](https://openkim.org/cite/MO_249706810527_002)
+* [EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_002](https://openkim.org/cite/MO_577453891941_002)
+
 **Data used in fitting:**
 
 This potential was fitted to point defects in iron, their interactions with phosphorous atoms, and hypothetical Fe-rich structures of FeP.  Unless stated explicitly, all results below were computed using GGA DFT.
