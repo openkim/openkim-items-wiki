@@ -1,4 +1,4 @@
-Parameters of this potential are given in Table 5 of the article cited below.  Note that the authors warn that this potential is specifically intended for studying radiation damage and point defects in Fe-rich compounds of FeP, and ahsould not necessarily be expected to be transferable to other scenarios.  Specifically, they note that no properties of pure phosphorous or phosphorous-rich FeP were used in the fitting process.
+Parameters of this potential are given in Table 5 of the article cited below.  Note that the authors warn that this potential is specifically intended for studying radiation damage and point defects in Fe-rich compounds of FeP, and should not necessarily be expected to be transferable to other scenarios.  Specifically, they note that no properties of pure phosphorous or phosphorous-rich FeP were used in the fitting process.
 
 **Data used in fitting:**
 
