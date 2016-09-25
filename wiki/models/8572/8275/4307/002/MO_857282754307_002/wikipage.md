@@ -8,6 +8,9 @@ The original form of this Fe pair potential was published by Johnson in 1964.  S
 
 The only material properties which were ever used in fitting this potential in any of its three forms (Johnson, Srolovitz *et al.*, and Morris *et al.*) are the elastic constants $$C_{11}$$, $$C_{12}$$, and $$C_{44}$$ of $$\alpha$$-iron (which has a bcc crystal structure).
 
+**Cutoffs:**
+This pair potential has a cutoff range of 3.44 Å.
+
 **Source citation DOI:**
 
 * J. R. Morris, R. S. Aga, V. Levashov and T. Egami, "Many-body effects in bcc metals: An embedded atom model extension of the modified Johnson pair potential for iron."  Phys. Rev. B 77, 174201 (2008).
