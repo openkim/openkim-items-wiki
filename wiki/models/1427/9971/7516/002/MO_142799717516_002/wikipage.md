@@ -4,6 +4,9 @@ The parameters of this potential correspond to those given in Tables 2 and 3 of 
 
 NOTE: In a later publication (M.I. Mendelev, S. Han, D.J. Srolovitz, G.J. Ackland, D.Y. Sun and M. Asta, Phil. Mag. 83, 3977-3994 (2003)), Ackland and coworkers warn that this potential may not be appropriate for simulating liquid iron, and gives rise to a more ordered overall structure than observed in experiment.  A number of properties predicted by this potential for which KIM Tests do not currently exist can also be found in Table 1 of this reference.
 
+**Cutoffs:**
+The pair potential and the density function of this Model both have a cutoff of 3.72645 Angstroms.
+
 **Source citation DOI:**
 
 * "Computer simulation of Point Defect Properties in dilute Fe-Cu alloy using a many-body interatomic potential" G.J. Ackland, D.J. Bacon, A.F. Calder and T. Harry Phil.Mag.A, 75 713-732 (1997) 
