@@ -15,6 +15,9 @@ This potential corresponds to the parameters found in Case Study II, where the f
     - cohesive energy
     - bulk modulus
 
+**Cutoffs:**
+Both the pair potential and the density function of this Finnis-Sinclair-type Model have a cutoff of 4.1 Angstroms.  This means that the effective range for *atomic forces* is 8.2 Angstroms. 
+
 **Source citation DOI:**
 
 * S. L. Dudarev and P. M. Derlet, 2005, J. Phys.: Condens. Matter, 17, 7097–7118
