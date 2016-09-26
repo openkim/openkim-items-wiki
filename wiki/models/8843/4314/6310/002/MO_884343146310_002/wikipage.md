@@ -60,6 +60,8 @@ This potential was fitted to point defects in iron, their interactions with phos
 
 * Liquid configurations generated using a simple pair potential
 
+**Cutoffs:**
+The pair potentials of this Model (for Fe-Fe, P-P, and Fe-P) all have a cutoff of 5.3 Angstroms.  The three density functions (Fe-Fe, P-P, Fe-P) all have a cutoff of 4.2 Angstroms.  The effective cutoff for all *atomic forces* is thus 9.5 Angstroms.
 
 **Source citation DOI:**
 
