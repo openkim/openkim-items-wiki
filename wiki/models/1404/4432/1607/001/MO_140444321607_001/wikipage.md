@@ -4,6 +4,9 @@ This potential, denoted "CS3-33" in the article cited below, was fitted to exper
 
 In addition to the above properties of ferromagnetic $$\alpha$$-iron, DFT values of the bulk equilibrium properties of non-magnetic $$\alpha$$-iron are included in the fitting database.  Finally, the average cohesive energy per atom in the ferromagnetic FCC ($$\gamma$$-iron) phase was required to be greater than that of the BCC phase during fitting.
 
+**Cutoffs:**
+Both the pair potential and the density function of this Finnis-Sinclair-type Model have a cutoff of 4.0 Angstroms. This means that the effective range for *atomic forces* is 8.0 Angstroms.
+
 **Source citation DOI:**
 
 * Chiesa, Derlet, Dudarev and Van Swygenhoven, J. Phys.: Condens. Matter 23 (2011) 206001.
