@@ -1,6 +1,6 @@
 **Notes:**
 
-Parameters of this potential are given in Table 5 of the article cited below.  Note that the authors warn that this potential is specifically intended for studying radiation damage and point defects in Fe-rich compounds of FeP, and should not necessarily be expected to be transferable to other scenarios.  Specifically, they note that no properties of pure phosphorous or phosphorous-rich FeP were used in the fitting process.
+Parameters of this potential are given in Table 5 of the article cited below.  Note that the authors warn that this potential is specifically intended for studying radiation damage and point defects in Fe-rich compounds of FeP, and should not necessarily be expected to be transferable to other scenarios.  Specifically, they note that no properties of pure phosphorus or phosphorus-rich FeP were used in the fitting process.
 
 It is also stated in the article that the Fe-Fe interactions of this potential are taken directly from [M.I. Mendelev, S. Han, D.J. Srolovitz, G.J. Ackland, D.Y. Sun and M. Asta, Phil. Mag. 83, 3977-3994 (2003)](http://dx.doi.org/10.1080/14786430310001613264).  However, the predictions of this potential for properties of pure Fe do not appear to match those of any of the five parametrizations found in this reference.  Therefore, it is not completely clear which properties were used to fit the Fe-Fe interactions.
 
@@ -12,19 +12,19 @@ The following potentials feature identical (or approximately identical) Fe-Fe in
 
 **Data used in fitting:**
 
-This potential was fitted to point defects in iron, their interactions with phosphorous atoms, and hypothetical Fe-rich structures of FeP.  Unless stated explicitly, all results below were computed using GGA DFT.
+This potential was fitted to point defects in iron, their interactions with phosphorus atoms, and hypothetical Fe-rich structures of FeP.  Unless stated explicitly, all results below were computed using GGA DFT.
 
 * Perfect crystals
   * Experimental values of the cohesive energy and elastic constants (C$$_{11}$$, C$$_{12}$$, C$$_{44}$$) of body-centered cubic (bcc) Fe ($$\alpha$$-Fe)
-  * A bcc Fe lattice where every fourth (001) plane of atoms is replaced with phosphorous atoms.  The authors refer to this as a "stripe" structure.
+  * A bcc Fe lattice where every fourth (001) plane of atoms is replaced with phosphorus atoms.  The authors refer to this as a "stripe" structure.
   * The Fe$$_2$$P crystal lattice.  Although the authors state has been observed experimentally, they compute its equilibrium geometry, energy, and magnetic moment using GGA DFT.
   * Hypothetical crystal lattices with composition Fe$$_{3}$$P
     * L1$$_{2}$$
-      This lattice is formed by replacing the corner atom in a conventional face-centered cubic (fcc) unit cell of iron atoms with a phosphorous atom
+      This lattice is formed by replacing the corner atom in a conventional face-centered cubic (fcc) unit cell of iron atoms with a phosphorus atom
     * DO$$_{3}$$
-      Imagine assembling a set of eight adjacent conventional bcc unit cells of Fe atoms in a 2 x 2 x 2 configuration.  Among the top four unit cells, select two of them which are opposite one another, i.e. do not share any edges, and replace the Fe atoms in the centers of these cells with phosphorous atoms.  Now proceed to the bottom four unit cells and do the same, but for the two unit cells opposite one another which do not lie beneath the two chosen in the top layer.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.  See also "Intermetallic phases with D0$$_3$$-structure: a statistical-thermodynamic model," Ipser, Semenova, and Krachler. J. Alloys Compd. 338 (1-2), pp.20-25, 2002.
+      Imagine assembling a set of eight adjacent conventional bcc unit cells of Fe atoms in a 2 x 2 x 2 configuration.  Among the top four unit cells, select two of them which are opposite one another, i.e. do not share any edges, and replace the Fe atoms in the centers of these cells with phosphorus atoms.  Now proceed to the bottom four unit cells and do the same, but for the two unit cells opposite one another which do not lie beneath the two chosen in the top layer.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.  See also "Intermetallic phases with D0$$_3$$-structure: a statistical-thermodynamic model," Ipser, Semenova, and Krachler. J. Alloys Compd. 338 (1-2), pp.20-25, 2002.
     * DO$$_{32}$$
-      Imagine the same set of eight bcc unit cells as in the case of the DO$$_{3}$$ lattice above, this time leaving all of the atoms in the centers of the indivudal conventional unit cells to be Fe.  Instead, replace Fe atoms in the remaining layers of atoms with phosphorous so that when one proceeds along any two edges of the individual conventional bcc unit cells, the species of the atoms encountered alternates between Fe and P.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.
+      Imagine the same set of eight bcc unit cells as in the case of the DO$$_{3}$$ lattice above, this time leaving all of the atoms in the centers of the indivudal conventional unit cells to be Fe.  Instead, replace Fe atoms in the remaining layers of atoms with phosphorus so that when one proceeds along any two edges of the individual conventional bcc unit cells, the species of the atoms encountered alternates between Fe and P.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.
 
 * Vacancies
   * Monovacancy in 16-atom and 32-atom $$\alpha$$-Fe supercells
