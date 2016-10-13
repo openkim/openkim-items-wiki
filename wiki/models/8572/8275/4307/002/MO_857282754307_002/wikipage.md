@@ -17,5 +17,5 @@ This pair potential has a cutoff range of 3.44 Å.
     - http://dx.doi.org/10.1103/PhysRevB.77.174201
 * D. J. Srolovitz, K. Maeda, V. Vitek, and T. Egami, "Structural defects in amorphous solids Statistical analysis of a computer model."  Philos. Mag. A 44, 847 (1981).
     - http://dx.doi.org/10.1080/01418618108239553
-* R. A. Johnson, "Interstitials and Vacancies in $$\alpha$ Iron." Phys. Rev. A 134, 1329 (1964).
+* R. A. Johnson, "Interstitials and Vacancies in $$\alpha$$ Iron." Phys. Rev. A 134, 1329 (1964).
     - http://dx.doi.org/10.1103/PhysRev.134.A1329
