@@ -63,6 +63,8 @@ This potential was fitted to point defects in iron, their interactions with phos
 **Cutoffs:**
 The pair potentials of this Model (for Fe-Fe, P-P, and Fe-P) all have a cutoff of 5.3 Angstroms.  The three density functions (Fe-Fe, P-P, Fe-P) all have a cutoff of 4.2 Angstroms.  The effective cutoff for all *atomic forces* is thus 9.5 Angstroms.
 
+For the case of pure Fe, the pair potential decays to an absolute value of less than 0.01 eV at approximately 4.5 Angstroms and the electron density decays to a value of 0.01 at approximately 4.0 Angstroms, yielding an effective force range of 8.5 Angstroms.
+
 **Source citation DOI:**
 
 * G.J. Ackland, M.I. Mendelev, D.J. Srolovitz, S. Han and A.V. Barashev, J. Phys.: Condens. Matter 16, S2629-S2642 (2004).
