@@ -16,7 +16,7 @@ This potential corresponds to the parameters found in Case Study II, where the f
     - bulk modulus
 
 **Cutoffs:**
-Both the pair potential and the density function of this Finnis-Sinclair-type Model have a cutoff of 4.1 Angstroms.  This means that the effective range for *atomic forces* is 8.2 Angstroms. 
+Both the pair potential and the density function of this Finnis-Sinclair-type Model have a cutoff of 4.1 Angstroms.  This means that the effective range for *atomic forces* is 8.2 Angstroms.  In practical terms, the pair potential interactions of this Model decay to an absolute value of less than 0.01 eV at 3.93 Angstroms and the density function decays to an absolute value of less than 0.01 at 2.9 Angstroms, yielding an effective force cutoff of 6.83 Angstroms.
 
 **Source citation DOI:**
 
