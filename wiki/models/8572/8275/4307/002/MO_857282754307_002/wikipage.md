@@ -6,7 +6,7 @@ The original form of this Fe pair potential was published by Johnson in 1964.  S
 
 **Data used in fitting:**
 
-The only material properties which were ever used in fitting this potential in any of its three forms (Johnson, Srolovitz *et al.*, and Morris *et al.*) are the elastic constants $$C_{11}$$, $$C_{12}$$, and $$C_{44}$$ of $$\alpha$$-iron (which has a bcc crystal structure).
+The only material properties which were ever used in fitting this potential in any of its three forms (Johnson, Srolovitz *et al.*, and Morris *et al.*) are the lattice constant $$a$$ and elastic constants $$C_{11}$$, $$C_{12}$$, and $$C_{44}$$ of $$\alpha$$-iron (which has a bcc crystal structure).
 
 **Cutoffs:**
 This pair potential has a cutoff range of 3.44 Å.
