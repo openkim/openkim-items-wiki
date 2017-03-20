@@ -16,6 +16,8 @@ Warning: The model uses other parameters DIM, SPECCODE and MODEL_CUTOFF denoting
 
 The total potential energy of a system of $$N$$ atoms is assumed to take the form $$E = \sum_{i=1}^N E_i$$, such that
 
+![](/wimage/MO_887933271505_001/ibarr041/Electron_density_f_vs_radius)
+
 $$E_i= \sum_{i=1}^N \left[F(\rho_i) + \frac{1}{2}\sum_{j=1}^m  \phi(r_{ij})\right],$$
 
 and
