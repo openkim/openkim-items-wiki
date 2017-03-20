@@ -38,12 +38,11 @@ Finally, the embedding function is given by
 
 $$F(\rho_{ij})=-E_c\left[1-\frac{\alpha}{\beta}\:\text{ln}\left(\frac{\rho_{ij}}{\rho_e}\right)\right]\left(\frac{\rho_{ij}}{\rho_e}\right)^{\alpha/\beta}-6 \phi_e \left(\frac{\rho_{ij}}{\rho_e}\right)^{\gamma/\beta}.$$
 
-Below we present plots for the functions electron density $$f(r_{ij})$$, potential $$\phi(r_{ij})$$ and the embedding function $$F(\rho)$$.  The parameters employed in these plots are:  $$\rho_e=2.556$$ [Angstrom], $$\phi_e =0.59$$ [eV], $$\gamma =8.00$$, $$F_e =0.30$$ [eV],
-$$\beta =5.85$$, $$E_c=3.54$$ [eV/atom], $$\alpha =5.09$$, $$\rho_e =3.60$$ [eV] (i.e. $$\rho_0 =12*f_e$$).
+Below we present plots for the functions electron density $$f(r_{ij})$$, potential $$\phi(r_{ij})$$ and the embedding function $$F(\rho)$$.  The parameters employed in these plots are:  $$\rho_e=2.556$$ [Angstrom], $$\phi_e =0.59$$ [eV], $$\gamma =8.00$$, $$f_e =0.30$$ [eV], $$\beta =5.85$$, $$E_c=3.54$$ [eV/atom], $$\alpha =5.09$$, $$\rho_e =3.60$$ [eV] (i.e. $$\rho_0 =12*f_e$$).
 
 ![](/wimage/MO_887933271505_001/ibarr041/Electron_density_f_vs_radius)
 
 ![](/wimage/MO_887933271505_001/ibarr041/Potential_phi_vs_radius-v2)
 
-![](/wimage/MO_887933271505_001/ibarr041/Embedding_function_F_vs_radius)
+![](/wimage/MO_887933271505_001/ibarr041/Embedding_function_F_vs_rho)
 
