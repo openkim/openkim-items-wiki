@@ -43,7 +43,7 @@ $$\beta =5.85$$, $$E_c=3.54$$ [eV/atom], $$\alpha =5.09$$, $$\rho_e =3.60$$ [eV]
 
 ![](/wimage/MO_887933271505_001/ibarr041/Electron_density_f_vs_radius)
 
-![](/wimage/MO_887933271505_001/ibarr041/Potential_phi_vs_radius)
+![](/wimage/MO_887933271505_001/ibarr041/Potential_phi_vs_radius-v2)
 
 ![](/wimage/MO_887933271505_001/ibarr041/Embedding_function_F_vs_radius)
 
