@@ -7,8 +7,7 @@ Symbols (matching the reference):
 $$ r_{e}, \phi_e, \gamma, f_e, \beta, E_c, \alpha, \rho_e.$$
 
 Corresponding variables in code:
-JEAM\_R0, JEAM\_PHI0, JEAM\_GAM, JEAM\_G0, JEAM\_BET, JEAM\_EC, JEAM\_ALF, JEAM\_RHO0, 
-where the prefix JEAM emphasizes the fact that each variable corresponds to the "Johnson Embedded Atom Potential".
+JEAM\_R0, JEAM\_PHI0, JEAM\_GAM, JEAM\_G0, JEAM\_BET, JEAM\_EC, JEAM\_ALF, JEAM\_RHO0, where the prefix JEAM emphasizes the fact that each variable corresponds to the "Johnson Embedded Atom Potential".
 
 Warning: The model uses other parameters DIM, SPECCODE and MODEL_CUTOFF denoting the dimensionality of the space (3 by default), the number of species (1, by default) and the cut-off radius (3.5 Angstrom by default), respectively. Default values have been hardcoded and, in principle, they should not be modified.
 
