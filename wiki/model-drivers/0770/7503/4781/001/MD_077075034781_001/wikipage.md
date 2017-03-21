@@ -1,5 +1,5 @@
 ## Description
-This **Model Driver** utilizes the Tersoff T2 bond order potential, originally used for Silicon in its seminal publication by Tersoff in 1988. 
+This **Model Driver** utilizes the Tersoff potential, originally used for Silicon in its seminal publication by Tersoff in 1988. It can be applied to the T2 and T3 bond order models.
 
 ## Parameters
 Symbols used in the model (noting that $$\alpha$$ is set to zero for this implementation of the model):
