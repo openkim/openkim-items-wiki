@@ -2,7 +2,7 @@ This 4-body potential is a modification of the Stillinger-Weber model for silico
 Functional form of this potential:
 $$
 \begin{align*}
-  & \phi(1,2,...,N) =\sum_{1 \leq i \leq N} V_{1}(\textbf{r}_i)+\sum_{1 \leq i \leq j \leq N} V_{2}(\textbf{r}_i,\textbf{r}_j)+\sum_{1 \leq i \leq j \leq k \leq N} V_{3}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k)+\sum_{1 \leq i \leq j \leq k \leq l \leq N} V_{4}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k,\textbf{r}_l)&
+ & \phi(1,2,...,N) =\sum_{1 \leq i \leq N} V_{1}(\textbf{r}_i)+\sum_{1 \leq i \leq j \leq N} V_{2}(\textbf{r}_i,\textbf{r}_j)+\sum_{1 \leq i \leq j \leq k \leq N} V_{3}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k)+\sum_{1 \leq i \leq j \leq k \leq l \leq N} V_{4}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k,\textbf{r}_l)&
 \end{align*}
 $$
 where
@@ -11,6 +11,7 @@ $$
 &V_{1}(\textbf{r}_i)=0
 \end{align*}
 $$
+
 
 $$ 
 \begin{align*}
