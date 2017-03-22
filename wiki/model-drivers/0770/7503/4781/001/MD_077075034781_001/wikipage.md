@@ -4,11 +4,11 @@ This **Model Driver** utilizes the Tersoff potential, originally used for Silico
 ## Parameters
 Symbols used in the model (noting that $$\alpha$$ is set to zero for this implementation of the model):
 
-$$ A, B, \lambda_1, \lambda_2, \lambda_3, \alpha, \beta, n, c, d, h, R, D $$
+$$ A, B, \lambda_1, \lambda_2, \lambda_3, \gamma_{ijk}, \beta, n, c, d, h, R, D $$
 
 These correspond to the following variables in the code:
 
-A, B, lambda1, lambda2, lambda3, gamma?, beta, n, c, d, h, Rc, & Dc.
+A, B, lambda1, lambda2, lambda3, gamma, beta, n, c, d, h, Rc, & Dc.
 
 ## Details
 The interatomic potential is given as:
