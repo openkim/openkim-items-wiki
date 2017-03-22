@@ -8,9 +8,9 @@ $$ A, B, \lambda_1, \lambda_2, \lambda_3, \gamma_{ijk}, \beta, n, c, d, h, R, D 
 
 These correspond to the following variables in the code:
 
-A, B, lambda1, lambda2, lambda3, gamma, beta, n, c, d, h, Rc, & Dc.
+$$ \text{A, B, lambda1, lambda2, lambda3, gamma, beta, n, c, d, h, Rc, & Dc.} $$
 
-Additionally, the code requires three other variables for the element being used:
+Additionally, the code requires three other variables to determine the elements being used:
 
 $$ \text{Element 1}: \text{The center atom in a 3-body interaction} $$
 $$ \text{Element 2}: \text{The atom bonded to the center atom} $$
