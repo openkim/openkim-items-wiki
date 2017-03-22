@@ -33,11 +33,11 @@ The graph of function f_2 with the parameter values suggested by Stillinger and 
 
 The function f_3 takes the form
 
-$$ f_3(r_i,r_j,r_k) = h(r_{ij),r_{ik},\theta_{jik}) + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
+$$ f_3(r_i,r_j,r_k) =  h(r_{ij),r_{ik},\theta_{jik}) + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
 
 $$  h(r_{ij),r_{ik},\theta_{jik}) = \lambda exp[\gamma(r_{ij}-a)^{-1} + \gamma(r_{ik}-a)^{-1}]*(\cos\theta_{jik} + 1/3)^2 $$
 
  
-
+ $$h(r_{ij),r_{ik},\theta_{jik})$$
 
 
