@@ -28,6 +28,8 @@ $$ f_2(r) = \begin{cases}
       
     \end{cases} $$
 
+The graph of function f_2 with the parameter values suggested by Stillinger and Weber is given in Figure 
+![](/wimage/MD_335816936951_002/taru4uce/Figure1)
 
 
  
