@@ -90,3 +90,16 @@ $$
 &
 \end{align*}
 $$
+The following figure shows the plot of $$v_{2}(r_{ij})$$:
+![](/wimage/MD_514777050453_000/butnowdevil/2BodyPotential){:height="400px"}
+The following figure shows the plot of $$v_{3r}\left(r_{ij},r_{ik}\right)$$:
+![](/wimage/MD_514777050453_000/butnowdevil/3BodyPotentialPart1){:height="400px"}
+The following figure shows the plot of $$v_{3\theta}\left(\theta_{jik}\right)$$:
+![](/wimage/MD_514777050453_000/butnowdevil/3BodyPotentialPart2){:height="400px"}
+The following figure shows the plot of $$v_{4r}\left(r_{ij},r_{ik},r_{il}\right)$$:
+![](/wimage/MD_514777050453_000/butnowdevil/4BodyPotentialPart1){:height="400px"}
+The following figure shows the plot of $$vv_{4\theta}\left(\theta_{jik},\theta_{jil},\theta_{kil}\right)$$:
+![](/wimage/MD_514777050453_000/butnowdevil/4BodyPotentialPart2){:height="400px"}
+
+Reference:
+A. D. Mistriotis, N. Flytzanis, and S. C. Farantos, "Potential model for silicon clusters", Phys. Rev. B, vol. 39, 1212-1218, 1989
