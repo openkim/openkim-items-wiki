@@ -1,17 +1,18 @@
 This 4-body potential is a modification of the Stillinger-Weber model for silicon, where a four-body term is added and angle dependence of the 3-body and 4-body terms has been changed. These modifications results in qualitative improvement for silicon. More specifically, good values for the energy of ground states of clusters obtained for a large range of the parameters of the 3-body and 4-body terms. 
 Functional form of this potential:
+
 $$
 \begin{align*}
  & \phi(1,2,...,N) =\sum_{1 \leq i \leq N} V_{1}(\textbf{r}_i)+\sum_{1 \leq i \leq j \leq N} V_{2}(\textbf{r}_i,\textbf{r}_j)+\sum_{1 \leq i \leq j \leq k \leq N} V_{3}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k)+\sum_{1 \leq i \leq j \leq k \leq l \leq N} V_{4}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k,\textbf{r}_l)&
 \end{align*}
 $$
+
 where
 $$ 
 \begin{align*}
 &V_{1}(\textbf{r}_i)=0
 \end{align*}
 $$
-
 
 $$ 
 \begin{align*}
