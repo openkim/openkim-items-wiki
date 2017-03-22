@@ -73,7 +73,7 @@ v_{4r}\left(r_{ij},r_{ik},r_{il}\right)=\left\{
 $$
 $$ 
 \begin{align*}
-v_{4\theta}\left(\theta_{jik},\theta_{jil},\theta_{kil}\right)=\lambda_{3}\left\{1-\exp\left[-Q\left(\cos\theta_{jik}+1/3\right)^2-Q\left(\cos\theta_{jil}+1/3\right)^2-Q\left(\cos\theta_{kil}+1/3\right)^2\right]\right\}
+v_{4\theta}\left(\theta_{jik},\theta_{jil},\theta_{kil}\right)=\lambda_{4}\left\{1-\exp\left[-Q\left(\cos\theta_{jik}+1/3\right)^2-Q\left(\cos\theta_{jil}+1/3\right)^2-Q\left(\cos\theta_{kil}+1/3\right)^2\right]\right\}
 \end{align*}
 $$
 For silicon, the parameters are recommended to be
