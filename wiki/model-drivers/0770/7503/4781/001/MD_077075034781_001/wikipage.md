@@ -13,7 +13,9 @@ $$ \text{A, B, lambda1, lambda2, lambda3, gamma, beta, n, c, d, h, Rc, & Dc.} $$
 Additionally, the code requires three other variables to determine the elements being used:
 
 $$ \text{Element 1}: \text{The center atom in a 3-body interaction} $$
+
 $$ \text{Element 2}: \text{The atom bonded to the center atom} $$
+
 $$ \text{Element 3}: \text{The atom influencing the 1-2 bond in a bond-order sense} $$
 
 ## Details
