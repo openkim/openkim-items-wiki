@@ -39,5 +39,6 @@ $$  h(r_{ij},r_{ik},\theta_{jik}) = \lambda exp[\gamma(r_{ij}-a)^{-1} + \gamma(r
 
  The term $$ (\cos\theta_{jik} + 1/3)^2 $$ is a penalty term which makes $$ h $$ vanish for 'ideal' tetrahedral angle i.e. $$ \cos\theta = -1/3 $$
 
+for a constant \theta, the contour plot of the function $$ h $$ with r_{ij} and r_{ik} look like the following Figure
 
-
+![](/wimage/MD_335816936951_002/taru4uce/Figure2)
