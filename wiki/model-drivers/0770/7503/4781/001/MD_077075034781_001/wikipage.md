@@ -72,7 +72,7 @@ $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for
 $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
 
 ### **Note:** 
-This model driver is ported from LAMMPS, which uses a few function modifications to allow for commonly used variants of the Tersoff potential ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)). The differences are as follows:
+This model driver is ported from LAMMPS, which uses a few function modifications to allow for commonly used variants of the Tersoff potential (as documented [here](http://lammps.sandia.gov/doc/pair_tersoff.html)). The differences are as follows:
 
 $$\zeta_{ij}$$ is modified to use the factor m:
 
