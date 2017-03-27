@@ -2,13 +2,13 @@
 This **Model Driver** utilizes the Tersoff potential, originally used for Silicon in its seminal publication by Tersoff in 1988. It can be used for both the T2 and T3 bond order models, which are simply different parameter sets for the form given below.
 
 ## Parameters
-Symbols used in the model (taking into account $$\alpha$$ is set to zero for this implementation of the model, and the modifications given in the note at the bottom of this documentation):
+Symbols used in the model (taking into account $$\alpha_{ij}$$ is set to zero for this implementation of the model, and the modifications given in the note at the bottom of this documentation):
 
-$$ A, B, \lambda_1, \lambda_2, \lambda_3, \gamma_{ijk}, \beta, n, c, d, h, R, D $$
+$$ m, \gamma_{ijk}, \lambda_3, c, d, cos\theta_0, n, \beta, \lambda_2, B, R, D, \lambda_1, A$$
 
 These correspond to the following variables in the code:
 
-$$ \text{A, B, lambda1, lambda2, lambda3, gamma, beta, n, c, d, h, Rc, & Dc.} $$
+$$ \text{m, gamma, lambda3, c, d, costheta0, n,  beta, lambda2, B, Rc, Dc, lambda1, & A.} $$
 
 Additionally, the code requires three other variables to determine the elements being used:
 
