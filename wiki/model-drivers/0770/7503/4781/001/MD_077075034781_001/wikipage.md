@@ -70,6 +70,6 @@ $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for
 
 $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
 
-Additionally, the form of $$g(\theta)$$ takes a different form for this model than the above from the Tersoff paper (as documented in LAMMPS):
+Additionally, the form of $$g(\theta)$$ takes a different form for this model than the above from the Tersoff paper ([as documented in LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)):
 
 $$ g(\theta) = \gamma_{ijk}(1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}) $$
