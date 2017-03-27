@@ -66,9 +66,11 @@ where $$\eta_{ij}$$ is:
 
 $$ \eta_{ij} = \sum_{k \neq i,j} f_c(r_{ik})exp[\lambda_3^3(r_{ij}-r_{ik})^3] $$
 
+
 $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for most of the work presented in the paper by Tersoff in 1988, as well as this model, $$\alpha=0$$ such that $$a_{ij}=1$$, and thus $$V_{ij}$$ reduces to the form:
 
 $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
+
 
 Additionally,  $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)):
 
