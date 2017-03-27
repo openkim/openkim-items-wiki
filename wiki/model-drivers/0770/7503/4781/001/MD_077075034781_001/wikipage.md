@@ -72,6 +72,6 @@ $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for
 $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
 
 
-Additionally,  $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)):
+Additionally,  $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)) to allow for commonly used variants of the Tersoff potential:
 
 $$ g(\theta) = \gamma_{ijk}(1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}) $$
