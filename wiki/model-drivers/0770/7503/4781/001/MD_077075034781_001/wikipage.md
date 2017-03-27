@@ -80,6 +80,6 @@ $$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^m(r_{ij
 
 Additionally, $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below  to allow for commonly used variants of the Tersoff potential:
 
-$$ g(\theta) = \gamma_{ijk}(1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}) $$
+$$ g(\theta) = \gamma_{ijk}({1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}}) $$
 
 where it can be noted that setting $$\gamma_{ijk} = 1$$ gives the original Tersoff form for $$g(\theta)$$.
