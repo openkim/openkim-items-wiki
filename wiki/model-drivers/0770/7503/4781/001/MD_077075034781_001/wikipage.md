@@ -10,6 +10,8 @@ These correspond to the following variables in the code:
 
 $$ \text{m, gamma, lambda3 (1/distance units), c, d, costheta0 (must be a valid value between -1 & 1), n,  beta, lambda2 (1/distance units), B (energy units), Rc (distance units), Dc (distance units), lambda1 (1/distance units), & A (energy units).} $$
 
+The parameters n, beta, lambda2, B, lambda1, & A are used for two-body interactions, while m, gamma, lambda3, c, d, costheta0 are only used for three-body interactions.
+
 Additionally, the code requires three other variables to determine the elements being used:
 
 $$ \text{Element 1}: \text{The center atom in a 3-body interaction} $$
