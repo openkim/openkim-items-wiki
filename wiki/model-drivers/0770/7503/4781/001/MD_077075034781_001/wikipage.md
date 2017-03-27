@@ -74,9 +74,9 @@ $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
 ### **Note:** 
 This model driver is ported from LAMMPS, which uses a few function modifications to allow for commonly used variants of the Tersoff potential ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)). The differences are as follows:
 
-$$\eta_{ij}$$ is modified to use the factor m:
+$$\zeta_{ij}$$ is modified to use the factor m:
 
-$$ \eta_{ij} = \sum_{k \neq i,j} f_c(r_{ik})exp[\lambda_3^m(r_{ij}-r_{ik})^m] $$
+$$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^m(r_{ij}-r_{ik})^m] $$
 
 Additionally, $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below  to allow for commonly used variants of the Tersoff potential:
 
