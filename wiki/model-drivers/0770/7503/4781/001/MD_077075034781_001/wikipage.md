@@ -1,5 +1,5 @@
 ## Description
-This **Model Driver** utilizes the Tersoff potential, originally used for Silicon in its seminal publication by Tersoff in 1988. It is ported from LAMMPS and used for both the T2 and T3 bond order models, which are simply different parameter sets for the form given below.
+This **Model Driver** utilizes the Tersoff potential, originally used for Silicon in its seminal publication by Tersoff in 1988. It can be used for both the T2 and T3 bond order models, which are simply different parameter sets for the form given below.
 
 ## Parameters
 Symbols used in the model (noting that $$\alpha$$ is set to zero for this implementation of the model):
@@ -72,8 +72,9 @@ $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for
 $$ V_{ij} =  f_c(r_{ij})[f_R(r_{ij})+b_{ij}f_A(r_{ij})]. $$
 
 ### **Note:** 
+This model driver is ported from LAMMPS, which uses a few function modifications to allow for commonly used variants of the Tersoff potential ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)).
 
-Additionally,  $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below ([as documented for LAMMPS](http://lammps.sandia.gov/doc/pair_tersoff.html)) to allow for commonly used variants of the Tersoff potential:
+$$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below  to allow for commonly used variants of the Tersoff potential:
 
 $$ g(\theta) = \gamma_{ijk}(1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}) $$
 
