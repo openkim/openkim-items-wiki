@@ -86,4 +86,4 @@ Additionally, $$g(\theta)$$ used in this model driver is modified by the factor 
 
 $$ g(\theta) = \gamma_{ijk}({1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}}) $$
 
-It can be noted that setting $$m = 3$$ and $$\gamma_{ijk} = 1$$ gives the original Tersoff form shown above.
+It can be noted that setting $$m = 3$$ and $$\gamma_{ijk} = 1$$ gives the original Tersoff form (from the 1988 papers) shown above.
