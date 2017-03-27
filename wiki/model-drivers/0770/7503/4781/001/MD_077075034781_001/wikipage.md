@@ -78,7 +78,7 @@ $$\zeta_{ij}$$ is modified to use the factor m:
 
 $$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^m(r_{ij}-r_{ik})^m] $$
 
-Additionally, $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$ to take the form below  to allow for commonly used variants of the Tersoff potential:
+Additionally, $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$:
 
 $$ g(\theta) = \gamma_{ijk}({1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]}}) $$
 
