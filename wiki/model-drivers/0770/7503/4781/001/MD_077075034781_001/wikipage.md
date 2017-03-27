@@ -53,7 +53,7 @@ $$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^3(r_{ij
 
 $$g(\theta_{ijk})$$ is as follows:
 
-$$ g(\theta_{ijk}) =  1+ {c^2 \over d^2}- {c^2 \over [d^2+(cos\theta -cos\theta_0)^2]} $$
+$$ g(\theta_{ijk}) =  1+ {c^2 \over d^2}- {c^2 \over [d^2+(h -cos\theta_0)^2]} $$
 
 where $$\theta_{ijk}$$ is the bond angle between bonds $$i-j$$ and $$j-k$$.
 
