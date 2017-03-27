@@ -8,7 +8,7 @@ $$ m, \gamma_{ijk}, \lambda_3, c, d, cos\theta_0, n, \beta, \lambda_2, B, R, D, 
 
 These correspond to the following variables in the code:
 
-$$ \text{m, gamma, lambda3 (1/distance units), c, d, costheta0 (must be a valid value between -1 & 1), n,  beta, lambda2 (1/distance units), B (energy), Rc (distance units), Dc (distance units), lambda1 (1/distance units), & A (energy units).} $$
+$$ \text{m, gamma, lambda3 (1/distance units), c, d, costheta0 (must be a valid value between -1 & 1), n,  beta, lambda2 (1/distance units), B (energy units), Rc (distance units), Dc (distance units), lambda1 (1/distance units), & A (energy units).} $$
 
 Additionally, the code requires three other variables to determine the elements being used:
 
