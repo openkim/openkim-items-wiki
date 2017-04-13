@@ -26,7 +26,7 @@ $$
 &v_{2}(r_{ij})=\left\{
 \begin{aligned}
 &A\left(B/r_{ij}^4-1\right)\exp\left[\alpha(r_{ij}-R)^{-1}\right] , r_{ij}<R \\
-&0 , otherwise \\
+&0 , \text{otherwise} \\
 \end{aligned}
 \right.
 \end{align*}
@@ -49,7 +49,7 @@ $$
 &v_{3r}\left(r_{ij},r_{ik}\right)=\left\{
 \begin{aligned}
 &\exp\left[\gamma(r_{ij}-R)^{-1}+\gamma(r_{ik}-R)^{-1}\right] ,  r_{ij}<R \quad   r_{ik}<R\\
-&0  ,  otherwise
+&0  ,  \text{otherwise}
 \end{aligned}
 \right.
 \end{align*}
@@ -78,7 +78,7 @@ $$
 &v_{4r}\left(r_{ij},r_{ik},r_{il}\right)=\left\{
 \begin{aligned}
 &\exp\left[\gamma(r_{ij}-R)^{-1}+\gamma(r_{ik}-R)^{-1}+\gamma(r_{il}-R)^{-1}\right] ,  r_{ij}<R \quad r_{ik}<R\quad r_{il}<R\\
-&0  ,  otherwise
+&0  ,  \text{otherwise}
 \end{aligned}
 \right.
 \end{align*}
