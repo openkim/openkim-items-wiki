@@ -21,7 +21,7 @@ $$ v_2(r_{ij}) = \epsilon f_2(r_{ij}/\sigma) $$
 
 $$ v_3(\mathbf{r}_i ,\mathbf{r}_j, \mathbf{r}_k) = \epsilon f_3(\mathbf{r}_i/\sigma, \mathbf{r}_j/\sigma, \mathbf{r}_k/\sigma) $$
 
-The function $$f_2$$ belongs to five parameter family and takes the following form:
+The function $$f_2$$ has the following form:
 
 $$ f_2(r) = \begin{cases}
       A(Br^{-p} - r^{-q})\exp[(r-a)^{-1}] &  \text{if  } r < a\\
