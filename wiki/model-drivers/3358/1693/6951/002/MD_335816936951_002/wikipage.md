@@ -36,9 +36,11 @@ The function $$f_3$$ takes the form:
 
 $$ f_3(\mathbf{r}_i, \mathbf{r}_j, \mathbf{r}_k) =  h(r_{ij},r_{ik},\theta_{jik}) + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
 
-$$  h(r_{ij},r_{ik},\theta_{jik}) = \lambda exp[\gamma(r_{ij}-a)^{-1} + \gamma(r_{ik}-a)^{-1}]*(\cos\theta_{jik} + 1/3)^2 $$
+where
 
- The term $$ (\cos\theta_{jik} + 1/3)^2 $$ is a penalty term which makes $$ h $$ vanish for 'ideal' tetrahedral angle i.e. $$ \cos\theta = -1/3 $$
+$$  h(r_{ij},r_{ik},\theta_{jik}) = \lambda \exp[\gamma(r_{ij}-a)^{-1} + \gamma(r_{ik}-a)^{-1}]*(\cos\theta_{jik} + \frac{1}{3})^2 $$
+
+ The term $$ (\cos\theta_{jik} + 1/3)^2 $$ is a penalty term which makes $$h$$ vanish for the ideal tetrahedral angle i.e. $$ \cos\theta = -1/3 $$.
 
 for a constant \theta, the contour plot of the function $$ h $$ with r_{ij} and r_{ik} look like the following Figure
 
