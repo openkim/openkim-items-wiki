@@ -1,5 +1,6 @@
-This 4-body potential is a modification of the Stillinger-Weber model for silicon, where a four-body term is added and angle dependence of the 3-body and 4-body terms has been changed. These modifications results in qualitative improvement for silicon. More specifically, good values for the energy of ground states of clusters obtained for a large range of the parameters of the 3-body and 4-body terms. 
-Functional form of this potential:
+This 4-body potential is a modification of the Stillinger-Weber model originally developed for silicon, where a four-body term has been added, and the angle dependence of the 3-body and 4-body terms have been changed. These modifications result in a qualitative improvement when the model was fit to silicon. More specifically, good values for the ground state energies of clusters were obtained for a large range of the parameters of the 3-body and 4-body terms. 
+
+The functional form of this potential:
 
 $$
 \begin{align*}
