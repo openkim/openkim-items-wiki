@@ -64,7 +64,7 @@ $$
 
 $$ 
 \begin{align*}
-&V_{4}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k,\textbf{r}_l)=v_{4}\left(r_{ij},r_{ik},r_{il},\theta_{jik},\theta_{jil},\theta_{kil}\right)+v_{4}\left(r_{ji},r_{jk},r_{jl},\theta_{ijk},\theta_{ijl},\theta_{kjl}\right)+v_{4}\left(r_{ki},r_{kj},r_{kl},\theta_{ikj},\theta_{ikl},\theta_{jkl}\right)+v_{4}\left(r_{li},r_{lj},r_{lk},\theta_{ilj},\theta_{ilj},\theta_{jlk}\right)
+&V_{4}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k,\textbf{r}_l)=v_{4}\left(r_{ij},r_{ik},r_{il},\theta_{jik},\theta_{jil},\theta_{kil}\right)+v_{4}\left(r_{ji},r_{jk},r_{jl},\theta_{ijk},\theta_{ijl},\theta_{kjl}\right)+v_{4}\left(r_{ki},r_{kj},r_{kl},\theta_{ikj},\theta_{ikl},\theta_{jkl}\right)+v_{4}\left(r_{li},r_{lj},r_{lk},\theta_{ilj},\theta_{ilk},\theta_{jlk}\right)
 \end{align*}
 $$
 
