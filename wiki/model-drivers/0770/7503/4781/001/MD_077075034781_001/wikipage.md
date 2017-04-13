@@ -53,7 +53,7 @@ $$b_{ij} = (1+\beta^n\zeta^n_{ij})^{-1 / 2n} $$
 
 Where $$\zeta_{ij}$$ is the coordination function, which gives the bond coordination of the environment:
 
-$$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^3(r_{ij}-r_{ik})^3] $$
+$$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})\exp[\lambda_3^3(r_{ij}-r_{ik})^3] $$
 
 $$g(\theta_{ijk})$$ is as follows:
 
