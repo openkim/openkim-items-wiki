@@ -19,9 +19,9 @@ Where
 
 $$ v_2(r_{ij}) = \epsilon f_2(r_{ij}/\sigma) $$
 
-$$ v_3(r_i,r_j,r_k) = \epsilon f_3(r_i/\sigma,r_j/\sigma,r_k/\sigma) $$
+$$ v_3(\mathbf{r}_i ,\mathbf{r}_j, \mathbf{r}_k) = \epsilon f_3(\mathbf{r}_i/\sigma, \mathbf{r}_j/\sigma, \mathbf{r}_k/\sigma) $$
 
-The function f_2 belongs to five parameter family and takes the following form:
+The function $$f_2$$ belongs to five parameter family and takes the following form:
 
 $$ f_2(r) = \begin{cases}
       A(Br^{-p} - r^{-q})\exp[(r-a)^{-1}] &  \text{if  } r < a\\
@@ -29,12 +29,12 @@ $$ f_2(r) = \begin{cases}
       
     \end{cases} $$
 
-The graph of function f_2 with the parameter values suggested by Stillinger and Weber is given in Figure 
+The graph of function $$f_2$$ with the parameter values suggested by Stillinger and Weber is given in Figure 
 ![](/wimage/MD_335816936951_002/taru4uce/Figure1)
 
 The function f_3 takes the form
 
-$$ f_3(\mathbf{r}_i,r_j,r_k) =  h{(r_{ij},r_{ik},\theta_{jik})} + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
+$$ f_3(\mathbf{r}_i, \mathbf{r}_j, \mathbf{r}_k) =  h(r_{ij},r_{ik},\theta_{jik}) + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
 
 $$  h(r_{ij},r_{ik},\theta_{jik}) = \lambda exp[\gamma(r_{ij}-a)^{-1} + \gamma(r_{ik}-a)^{-1}]*(\cos\theta_{jik} + 1/3)^2 $$
 
