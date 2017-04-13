@@ -68,7 +68,7 @@ $$ a_{ij} = (1+\alpha^n\eta^n_{ij})^{-1/2n} $$
 
 where $$\eta_{ij}$$ is:
 
-$$ \eta_{ij} = \sum_{k \neq i,j} f_c(r_{ik})exp[\lambda_3^3(r_{ij}-r_{ik})^3] $$
+$$ \eta_{ij} = \sum_{k \neq i,j} f_c(r_{ik})\exp[\lambda_3^3(r_{ij}-r_{ik})^3] $$
 
 
 $$\alpha$$ is generally small enough such that $$a_{ij} \simeq 1$$; however, for most of the work presented in the paper by Tersoff in 1988, as well as this model, $$\alpha=0$$ such that $$a_{ij}=1$$, and thus $$V_{ij}$$ reduces to the form:
@@ -80,7 +80,7 @@ This model driver is ported from LAMMPS, which uses a few function modifications
 
 $$\zeta_{ij}$$ is modified to use the factor m:
 
-$$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})exp[\lambda_3^m(r_{ij}-r_{ik})^m] $$
+$$ \zeta_{ij} = \sum_{k \neq i,j}f_c(r_{ik})g(\theta_{ijk})\exp[\lambda_3^m(r_{ij}-r_{ik})^m] $$
 
 Additionally, $$g(\theta)$$ used in this model driver is modified by the factor $$\gamma_{ijk}$$:
 
