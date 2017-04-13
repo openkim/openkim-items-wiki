@@ -35,7 +35,7 @@ $$
 
 $$ 
 \begin{align*}
-&V_{3}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k)=v_{3}\left(r_{ij},r_{ik},\theta_{jik}\right)+v_{3}\left(r_{jk},r_{ji},\theta_{ijk}\right)+v_{3}\left(r_{ki},r_{kj},\theta_{ikj}\right)
+&V_{3}(\textbf{r}_i,\textbf{r}_j,\textbf{r}_k)=v_{3}\left(r_{ij},r_{ik},\theta_{jik}\right)+v_{3}\left(r_{ji},r_{jk},\theta_{ijk}\right)+v_{3}\left(r_{ki},r_{kj},\theta_{ikj}\right)
 \end{align*}
 $$
 
