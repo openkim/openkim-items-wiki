@@ -1,5 +1,5 @@
 ## Description
-This **Model Driver** implements the Stillinger-Weber three-body potential for Si
+This **Model Driver** implements the Stillinger-Weber three-body potential 
 
 ## Parameters
 Symbols:
@@ -29,10 +29,6 @@ $$ f_2(r) = \begin{cases}
       
     \end{cases} $$
 
-The graph of function $$f_2$$ with the parameter values suggested by Stillinger and Weber is given in the following Figure:
-
-![](/wimage/MD_335816936951_002/taru4uce/Figure1)
-
 The function $$f_3$$ takes the form:
 
 $$ f_3(\mathbf{r}_i, \mathbf{r}_j, \mathbf{r}_k) =  h(r_{ij},r_{ik},\theta_{jik}) + h(r_{ji},r_{jk},\theta_{ijk}) + h(r_{ki},r_{kj},\theta_{ikj}) $$
@@ -42,7 +38,4 @@ where
 $$  h(r_{ij},r_{ik},\theta_{jik}) = \lambda \exp[\gamma(r_{ij}-a)^{-1} + \gamma(r_{ik}-a)^{-1}](\cos\theta_{jik} + 1/3)^2 $$
 
  The term $$ (\cos\theta_{jik} + 1/3)^2 $$ is a penalty term which makes $$h$$ vanish for the ideal tetrahedral angle i.e. $$ \cos\theta = -1/3 $$.
-
-Below is a contour plot of the function $$h$$ for a constant $$\theta$$ as a function of $$r_{ij}$$ and $$r_{ik}$$:
-
-![](/wimage/MD_335816936951_002/taru4uce/Figure2)
+ 
