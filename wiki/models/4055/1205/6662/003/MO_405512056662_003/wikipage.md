@@ -2,7 +2,7 @@ The graph of function $$f_2$$ with the parameter values suggested by Stillinger 
 
 ![](/wimage/MO_405512056662_003/taru4uce/Figure1)
 
-contour plot of the function $$h$$ in $$f_3$$ for a constant $$\theta$$  such that $$cos\theta = -0.25 $$ as a function of $$r_{ij}$$ and $$r_{ik}$$ is given below:
+contour plot of the function $$h$$ in $$f_3$$ for a constant $$\theta$$, $$cos\theta = -0.25 $$, as a function of $$r_{ij}$$ and $$r_{ik}$$ is given below:
 
 ![](/wimage/MO_405512056662_003/taru4uce/Figure2)
 
