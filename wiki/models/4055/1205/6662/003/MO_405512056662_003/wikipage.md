@@ -1,3 +1,6 @@
+
+See the Stillinger-Weber Model page for the definition of the model and functions involved in. Here graphs of the functions are shown.
+
 The graph of function $$f_2$$ with the parameter values suggested by Stillinger and Weber i.e.$$A=7.049556277$$, $$B=0.6022245584$$, $$p=4$$, $$q=0$$, $$a=1.80$$ is given in the following Figure:
 
 ![](/wimage/MO_405512056662_003/taru4uce/Figure1)
