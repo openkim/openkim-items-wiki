@@ -91,3 +91,6 @@ $$
 \end{align*}
 $$
 
+Reference:
+
+A. D. Mistriotis, N. Flytzanis, and S. C. Farantos, “Potential model for silicon clusters”, Phys. Rev. B, vol. 39, 1212-1218, 1989
