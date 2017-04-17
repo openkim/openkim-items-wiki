@@ -10,7 +10,6 @@ $$
 &\gamma=2.4\\
 &\lambda_3=4.0\\
 &\lambda_4=47.0\\
-&
 \end{align*}
 $$
 
