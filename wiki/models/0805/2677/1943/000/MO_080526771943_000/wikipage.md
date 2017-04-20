@@ -1,4 +1,4 @@
-The Mistriotis-Flytzanis-Farantos 4-body potential parameters for Si and plots of the potential functions are given below. See the model driver page (linked to above) for the definitions of these functions.
+The Mistriotis-Flytzanis-Farantos 4-body potential parameters for Si and plots of the potential functions are given below. See the model driver page (linked to above) for the definitions of these parameters and functions.
 
 $$
 \begin{align*}
