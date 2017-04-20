@@ -1,4 +1,4 @@
-For silicon, the parameters are recommended to be
+The Mistriotis-Flytzanis-Farantos 4-body potential parameters for Si and plots of the potential functions are given below. See the model driver page (linked to above) for the definitions of these functions.
 
 $$
 \begin{align*}
