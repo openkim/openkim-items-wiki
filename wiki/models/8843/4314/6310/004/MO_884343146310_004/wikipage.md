@@ -6,9 +6,9 @@ It is also stated in the article that the Fe-Fe interactions of this potential a
 
 The following potentials feature identical (or approximately identical) Fe-Fe interactions to this potential:
 
-* [EAM_Dynamo_Hepburn_Ackland_FeC__MO_143977152728_002](https://openkim.org/cite/MO_143977152728_002)
-* [EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_002](https://openkim.org/cite/MO_249706810527_002)
-* [EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_002](https://openkim.org/cite/MO_577453891941_002)
+* [EAM_Dynamo_Hepburn_Ackland_FeC__MO_143977152728_004](https://openkim.org/cite/MO_143977152728_004)
+* [EAM_Dynamo_Mendelev_Han_VFe__MO_249706810527_004](https://openkim.org/cite/MO_249706810527_004)
+* [EAM_Dynamo_Mendelev_Srolovitz_AlFe__MO_577453891941_004](https://openkim.org/cite/MO_577453891941_004)
 
 **Data used in fitting:**
 
