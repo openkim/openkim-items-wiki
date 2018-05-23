@@ -1,5 +1,5 @@
 ## Description
-This **Model Driver** implements the original Stillinger-Weber potential of Bazant and Kaxiras (used for silicon in its seminal publication).
+This **Model Driver** implements the original EDIP potential of Bazant and Kaxiras (used for silicon in its seminal publication).
 
 ## Parameters
 Symbols:
