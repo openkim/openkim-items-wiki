@@ -22,7 +22,7 @@ As noted above, both values have been used in simulations that cite the original
 
 epsilon = 8.30269461E-23 kcal_th
 
-or in eV units (reduced to 4-digit accuracy):
+or in eV units (reduced to 5-digit significant digits):
 
 epsilon = 2.1682 eV
 
