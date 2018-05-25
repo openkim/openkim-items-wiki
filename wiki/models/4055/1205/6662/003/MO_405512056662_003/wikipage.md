@@ -28,7 +28,7 @@ epsilon = 2.1682 eV
 
 Note that in the Si.sw parameterization for this potential distributed with LAMMPS, a value of epsilon=2.1683 is used, which appears to be due to slightly different unit conversion.
 
-Another source of confusion is that in [SW85] the potential is fitted to an incorrect value for the cohesive energy of silicon. This is corrected by Balamane in a 1992 paper. See the KIM Model Three_Body_Stillinger_Weber_Balamane_Si__MO_113686039439 for more details.
+Another source of confusion is that in [SW85] the potential is fitted to an incorrect value for the cohesive energy of silicon. This is corrected by Balamane in a 1992 paper. See https://openkim.org/cite/MO_113686039439_002 for more details.
 
 ## SW Functions
 
