@@ -1,4 +1,4 @@
-## Parameter Choices in the SW Potential
+## Parameter Choices in Balamane et al. Rescaled SW Potential
 
 In the original Stillinger-Weber paper (SW85: PRB 31:5262, 1985) it is stated that in order to obtain the correct “atomization energy” (cohesive energy) the following choice for epsilon must be made (see Eqn. (2.9) in [SW85]):
 
