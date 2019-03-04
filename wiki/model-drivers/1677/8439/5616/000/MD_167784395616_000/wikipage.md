@@ -1,1 +1,1 @@
-The Tunable Intrinsic Ductility Potential (TIDP) of Rajan, Warner and Curtin is based on standard Morse potential. The ductility is tuned by altering the tail of $\phi(r)$ while leaving the energy well unchanged. The functional form is
+The Tunable Intrinsic Ductility Potential (TIDP) of Rajan, Warner and Curtin is based on standard Morse potential. The ductility is tuned by altering the tail of $$\phi(r)$$ while leaving the energy well unchanged. The functional form is
