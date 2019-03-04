@@ -12,4 +12,4 @@ $$
 
 The TIDP model has 12 parameters: 
 
-$$\alpha, \quad r_1, \quad r_2, \quad r_3, \quad, A_1, \quad B_1, \quad C_1, \quad, D_1, \quad A_2, \quad B_2, \quad C_2, \quad, D_2.$$
+$$\alpha, \quad r_1, \quad r_2, \quad r_3, \quad A_1, \quad B_1, \quad C_1, \quad D_1, \quad A_2, \quad B_2, \quad C_2, \quad D_2.$$
