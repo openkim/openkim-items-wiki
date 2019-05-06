@@ -48,7 +48,7 @@ where $$\theta_{ijk}$$ is the angle between bonds i-j and i-k.
 
 **Plot of each function
 
-
+![](/wimage/MD_184422512875_000/MKChoi/plot_of_fc)
 
 **Reference:**
 
