@@ -6,7 +6,7 @@ Ganga Purja Pun and Yuri Mishin developed this potential of silicon.
 
 The potential was improved from previous Tersoff-type potential to overcome limitations such as, overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, basic energy equation is same as the Tersoff potential [3]. 
 
-** Potential **
+**Equation**
 Potential was improved from previous Tersoff-type potential to overcome limitations such as, overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, basic energy equation is same as the Tersoff potential [3]. 
 
 Total energy,
@@ -46,7 +46,7 @@ $$
 
 where $$\theta_{ijk}$$ is the angle between bonds i-j and i-k.
 
-**Plot of each function
+**Plot of each function**
 
 ![](/wimage/MD_184422512875_000/MKChoi/plot_of_fc)
 
