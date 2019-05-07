@@ -1,29 +1,24 @@
 **Author and purpose of this potential**
 
-Ganga Purja Pun and Yuri Mishin developed this potential of silicon.
-1.  Previous potentials such as MEAM potential [1], SW potential [2], and Tersoff potential [3] have limitations on mechanical and thermal properties for bulk of Silicon (specially at the high temperature). 
-2. Also, this paper test the four potentials (MEAN, SW, Tersoff, and present) using their properties to predict the mechanical and energy properties of low-dimensional structure such as Si clusters and layer forms (single and double) of silicene (2D allotrope of Si)
+Ganga Purja Pun and Yuri Mishin developed this potential of silicon. Previous potentials such as MEAM potential [1], SW potential [2], and Tersoff potential [3] have limitations on performing mechanical and thermal properties for the bulk of Silicon (specially at the high temperature). In this paper, four potentials (MEAN, SW, Tersoff, and present) are tested using their properties to predict the mechanical and energy properties of low-dimensional structure such as Si clusters and layer forms (single and double) of silicene (2D allotrope of Si). The potential was improved from previous Tersoff-type potential to overcome limitations such as overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, the basic energy equation is the same as the Tersoff potential [3]. 
 
-The potential was improved from previous Tersoff-type potential to overcome limitations such as, overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, basic energy equation is same as the Tersoff potential [3]. 
+**Potential**
 
-**Equation**
-Potential was improved from previous Tersoff-type potential to overcome limitations such as, overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, basic energy equation is same as the Tersoff potential [3]. 
+The total energy is given by 
 
-Total energy,
-
-$$E = \frac{1}{2} \sum_{i \ne j}\phi_{ij}(r_{ij})$$
+$$E = \frac{1}{2} \sum_{i \ne j}\phi_{ij}(r_{ij})$$,
 
 where $$r_{ij}$$ is the distance between atom i and j and the bond energy $$\phi_{ij}$$ is taken as
 
-$$\phi_{ij}=f_{c}(r_{ij})[A\space exp(-\lambda_{1}r_{ij})-b_{ij}\space B\space exp(-\lambda_{2}r_{ij})+c_0]$$
+$$\phi_{ij}=f_{c}(r_{ij})[A\space exp(-\lambda_{1}r_{ij})-b_{ij}\space B\space exp(-\lambda_{2}r_{ij})+c_0]$$.
 
 The bond order $$b_{ij}$$ is given by 
 
-$$b_{ij} = (1+\xi_{ij}^\eta)^{-\delta}$$
+$$b_{ij} = (1+\xi_{ij}^\eta)^{-\delta}$$,
 
 where 
 
-$$\eta_{ij} = \sum_{k\ne i,j}f_{c}(r_{ij})g(\theta_{ijk})exp[\alpha(r_{ij}-r_{ik})^\beta]$$
+$$\eta_{ij} = \sum_{k\ne i,j}f_{c}(r_{ij})g(\theta_{ijk})exp[\alpha(r_{ij}-r_{ik})^\beta]$$,
 
 where $$f_{c} (r_{ij})$$ has the form
 
@@ -36,19 +31,31 @@ $$
 \end{aligned}
 \right.
 \end{align*}
-$$
+$$.
 
-where $$R_1$$and $$r_2$$ is are cutoff radius. The outer cutoff  $$R_2$$  is chosen between the first and second coordination shells of the diamond cubic structure. The angular function $$g(\theta_{ijk})$$ has an equation form as
+Here, $$R_1$$and $$r_2$$ is are cutoff radius. The outer cutoff  $$R_2$$  is chosen between the first and second coordination shells of the diamond cubic structure. The angular function $$g(\theta_{ijk})$$ has an equation form as
 
 $$
 g(\theta) = c_1 + \frac{c_2 (h - cos\theta)^2}{c_3 + (h - cos\theta)^2} \times \{ 1 + c_4 exp[-c_5 (h-cos\theta)^2] \} 
-$$
+$$,
 
 where $$\theta_{ijk}$$ is the angle between bonds i-j and i-k.
 
 **Plot of each function**
 
+$$\boldsymbol{f_c(r_{ij})}$$
 ![](/wimage/MD_184422512875_000/MKChoi/plot_of_fc)
+$$\boldsymbol{g(\theta)}$$
+![](/wimage/MD_184422512875_000/MKChoi/plot_of_g)
+
+$$\boldsymbol{\xi(r_{ij},\theta,r_{ik})}$$
+![](/wimage/MD_184422512875_000/MKChoi/plot_of_xi)
+
+$$\boldsymbol{b(r_{ij},\theta,r_{ik})}$$
+![](/wimage/MD_184422512875_000/MKChoi/plot_of_xi)
+
+$$\boldsymbol{\phi(r_{ij},\theta,r_{ik})}$$
+![](/wimage/MD_184422512875_000/MKChoi/plot_of_E)
 
 **Reference:**
 
