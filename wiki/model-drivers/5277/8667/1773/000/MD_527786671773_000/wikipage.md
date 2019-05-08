@@ -13,11 +13,3 @@ $$ V_{ijk}=\exp[-\beta(r_{ij}^2+r_{ik}^2\ )] [Bg^2 (θ)+Dg^4 (θ)] $$
 $$ g(\theta)=(cos\theta+1/3) $$
 
 where $$ \theta $$ is the angle at the $$ i $$ vertex of the $$ ijk $$ triangle, subtended by the bonds $$ r_{ij} $$ and $$ r_{ik} $$.  The radial dependence of the three-body term is a Gaussian, and the angular dependence is of the generalized Keating-form.  The two-body and three-body terms both vanish at $$ r_c = 5.5\ Å. $$  
-
-The seven parameters for the potential were fitted to quantum mechanical results based on a large quantum-mechanical data base, namely, the energy surface of atomic exchange for Si.  The values of the seven fitted parameters are given below:
-
-$$ A_1=57.316072\ eV,\ \ A_2=6.4373054\ eV $$
-
-$$ \alpha_1=0.82335230\ Å^{-2},\ \ \alpha_2=0.19061589\ Å^{-2} $$
-
-$$ B=10.188418\ eV,\ \ D=-9.113678\ eV,\ \ \beta=0.18642554\ Å^{-2} $$
