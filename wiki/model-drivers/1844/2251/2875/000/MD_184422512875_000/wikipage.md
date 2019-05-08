@@ -41,22 +41,6 @@ $$,
 
 where $$\theta_{ijk}$$ is the angle between bonds i-j and i-k.
 
-**Plot of each function**
-
-$$\boldsymbol{f_c(r_{ij})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_fc)
-$$\boldsymbol{g(\theta)}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_g)
-
-$$\boldsymbol{\xi(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_xi)
-
-$$\boldsymbol{b(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_xi)
-
-$$\boldsymbol{\phi(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_E)
-
 **Reference:**
 
 [1] S. Ryu, C. R. Weinberger, M. I. Baskes, and W. Cai, Improved modified embedded-atom method potentials for gold and silicon, Modell. Simul. Mater. Sci. Eng. 17, 075008 (2009).
