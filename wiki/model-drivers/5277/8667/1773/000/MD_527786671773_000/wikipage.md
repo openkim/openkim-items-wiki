@@ -2,7 +2,7 @@ This potential was developed by Efthimios Kaxiras and K. C. Pandey and published
 
 The Kaxiras and Pandey potential is a three-body potential.  The two-body term is the difference of two Gaussians and is as follows:
 
-$$ V_{ij}=A_1\ \exp(-\alpha_1\ r_{ij}^2\ )-A_2\ \exp(-\alpha_2\ r_{ij}^2\ ) $$
+$$ V_{ij}=A_1\exp(-\alpha_1r_{ij}^2\ )-A_2\exp(-\alpha_2r_{ij}^2\ ) $$
 
 where $$ r_{ij} $$ is the distance between atoms $$ i $$ and $$ j $$.  The full three-body term is a symmetrized sum over all atom triplets, as shown below:
 
