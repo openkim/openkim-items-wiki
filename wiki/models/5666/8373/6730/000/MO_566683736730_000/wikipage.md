@@ -20,17 +20,17 @@ $$R_2$$  = 3.320569403 $$\unicode{x212B}$$
 **Plot of each function**
 
 $$\boldsymbol{f_c(r_{ij})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_fc)
+![](/wimage/MO_566683736730_000/MKChoi/plot_of_fc)
 $$\boldsymbol{g(\theta)}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_g)
+![](/wimage/MO_566683736730_000/MKChoi/plot_of_g)
 
 $$\boldsymbol{\xi(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_xi)
+![](/wimage/MO_566683736730_000/MKChoi/plot_of_xi)
 
 $$\boldsymbol{b(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_br)
+![](/wimage/MO_566683736730_000/MKChoi/plot_of_br)
 
 $$\boldsymbol{\phi(r_{ij},\theta,r_{ik})}$$
-![](/wimage/MD_184422512875_000/MKChoi/plot_of_E)
+![](/wimage/MO_566683736730_000/MKChoi/plot_of_E)
 
 
