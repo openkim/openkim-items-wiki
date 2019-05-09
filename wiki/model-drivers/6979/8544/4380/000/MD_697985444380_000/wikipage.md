@@ -47,3 +47,7 @@ Z^{\rm KDS}_i &= \sum_j \exp[-\beta(r_{ij}-R)^\gamma]
 
 \end{align*}
 $$
+
+Here R is the nearest neighbor distance in the lattice structure, for instance, R is equal to $$ a\sqrt{3}/4 $$ where a is the equilibrium lattice parameter. $$r_{ij}$$ is the distance between atoms, $$\theta_{jik}$$ is the angle between the bond between i, j and i, k atoms, $$\theta_{\circ}$$ is the equilibrium bond angle and $$Z_i$$ is the coordination number of the atom. All the summations in the above set of equations are carried over the nearest neighbors of atom i. In the above set of equations, only a simple angular factor has been introduced for simplicity. 
+
+$$\beta$$ and $$\gamma$$ were evaluated to give the correct coordination number of bcc and $$\beta$$ tin structures. $$\eta$$ was fitted to the bond bending force constant of the diamond structure. Furthermore, the rest of the parameters were evaluated by fitting to the slopes and intercepts of the graphs of De vs re and re vs ln(Z) and the bulk modulus. The technique used to fit the parameters was not mentioned in the research paper.
