@@ -15,3 +15,35 @@ $$
 \end{align*}
 $$
 
+$$
+\begin{align*}
+
+b^{\rm KDS}_{ij} &= \frac{B_0}{(Z^{\rm KDS}_i)^\alpha}
+[ 1+\sum_k g^{\rm KDS}(\theta_{jik}) ]
+
+\end{align*}
+$$
+
+$$
+\begin{align*}
+
+g^{\rm KDS}(\theta_{jik})&= \cos\eta(\theta_{jik}-\theta_\circ)-1
+
+\end{align*}
+$$
+
+$$
+\begin{align*}
+
+f_{\rm c}^{\rm KDS}(r_{ij}) &= \exp[-\beta(r_{ij}-R)^\gamma]
+
+\end{align*}
+$$
+
+$$
+\begin{align*}
+
+Z^{\rm KDS}_i &= \sum_j \exp[-\beta(r_{ij}-R)^\gamma]
+
+\end{align*}
+$$
