@@ -2,12 +2,7 @@ In 1984, G.C. Abell noted that the bond energies of a particular structure can b
 
 Khor and Das Sarma based on the work of Abell and identified a linear relationship between ln(De/Z) and the equilibrium distance, re, and as well as between re and ln(Z), where De is the cohesive energy at equilibrium and Z is the coordination number. Based on this concept they derived a bond-order potential function, consisting of eleven parameters, that worked well in the case of C, Si, Ge and likewise also for tetrahedrally bonded semiconductors. The potential function has the following form:-
 
-$$
-\begin{align*}
-
-Energy of system = Cohesive Energy = \sum_{ij} \phi^{\rm KDS}(r_{ij})
-\end{align*}
-$$
+Energy of system = Cohesive Energy = 0.5 $$ (\sum_{ij} \phi^{\rm KDS}(r_{ij})) $$
 
 $$
 \begin{align*}
