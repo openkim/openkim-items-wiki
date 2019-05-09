@@ -54,4 +54,4 @@ B_{ij} & r > R_a + D_a
 
 <br/>
 #### Note:
-$$\alpha$$ which was used in the original Tersoff potential is not used in this potential. However, to keep the functional form same, $$\alpha$$ appears in the Wang-Rockett driver code, but is set to zero and does not affect the calculations.
+$$\alpha$$, which is a parameter defined in the original Tersoff potential is not used in this potential. However, to keep the functional form same, $$\alpha$$ appears in the Wang-Rockett driver code, but is set to zero and does not affect the calculations.
