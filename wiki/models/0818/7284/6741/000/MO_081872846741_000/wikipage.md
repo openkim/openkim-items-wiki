@@ -1,6 +1,6 @@
 ## Parametrization
 
-There are a total of 14 parameters in the Wang-Rockett potential. The first ten parameter values (first ten in the table below) were directly
+There are a total of fourteen parameters in the Wang-Rockett potential. The first ten parameter values (first ten in the table below) were directly
 taken from the Tersoff Potential . To make the cut-off function smooth, $$R$$ and $$D$$ were modified. The value of $$R$$ was chosen as $$0.385$$ $$nm$$
 and $$D$$ as $$0.015$$ $$nm$$. $$R_a$$  and  $$D_a$$  are the two new parameters introduced in the modified Tersoff potential, and their values were determined by interpolating the repulsive term to an angle dependent screened form.  
 The first ten parameters were obtained by Tersoff in 1988 by fitting the cohesive energies of hypothetical and real bulk polytypes of silicon as
