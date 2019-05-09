@@ -45,7 +45,7 @@ $$
 
 Here $$R$$ is the nearest neighbor distance in the lattice structure, for instance for the diamond lattice, $$ R=a\sqrt{3}/4 $$ where $$a$$ is the equilibrium lattice parameter. $$r_{ij}$$ is the distance between atoms $$i$$ and $$j$$, $$\theta_{jik}$$ is the angle between the bond between i, j and i, k atoms, $$\theta_{\circ}$$ is the equilibrium bond angle and $$Z_i$$ is the coordination number of the atom. All the summations in the above set of equations are carried over the nearest neighbors of atom i. In the above set of equations, only a simple angular factor has been introduced for simplicity. 
 
-$$\beta$$ and $$\gamma$$ were evaluated to give the correct coordination number of bcc and $$\beta$$-tin structures. $$\eta$$ was fitted to the bond bending force constant of the diamond structure. The rest of the parameters were evaluated by fitting to the slopes and intercepts of the graphs of $$D_e$ vs $$R_e$$ and $$R_e$$ vs $$\ln(Z)$$ and the bulk modulus. The technique used to fit the parameters was not mentioned in the research paper.
+$$\beta$$ and $$\gamma$$ were evaluated to give the correct coordination number of bcc and $$\beta$$-tin structures. $$\eta$$ was fitted to the bond bending force constant of the diamond structure. The rest of the parameters were evaluated by fitting to the slopes and intercepts of the graphs of $$D_e$$ vs $$R_e$$ and $$R_e$$ vs $$\ln(Z)$$ and the bulk modulus. The technique used to fit the parameters was not mentioned in the research paper.
 
 The table below gives the values of the parameters for C, Si, and Ge.
 
