@@ -1,8 +1,8 @@
-# Parameters for the 'new' potential
+### Parameters for the 'new' potential
 
-The authors discuss that they obtained parameters for their ‘old’ potential by fitting their model to structural energies calculated using local-density approximation (LDA). The method used for determining the parameters for the ‘new’ potential is not mentioned explicitly, so we presume that the authors followed the same framework for both their models. The influence distance parameter $$D$$ is not reported originally by the authors, here we use a value of 6 angstroms for reasons of speedup. Also the values of parameters $$B_1$$ and $$B_2$$ reported in the original article correspond to half of the values given below. This is because in our model, the summation of three-body potential term is implemented in an asymmetric manner, while Biswas and Hamann assumed a symmetric form for the three-body potential in their original article.
+This parameterization is optimized for tetrahedral structures of silicon (referred to in the paper as the 'new' potential in contrast to an 'old' version published two years earlier more suitable for high-pressure phases of silicon. The parameters for the ‘old’ potential were by fitting the model to structural energies calculated using density functional theory within the local-density approximation (LDA). The method used for determining the parameters for the ‘new’ potential is not mentioned explicitly, so we presume that the authors followed the same framework for both of their models. The influence distance parameter $$D$$ is not reported originally by the authors, here we use a value of 6 angstroms for reasons of speedup. Also the values of parameters $$B_1$$ and $$B_2$$ reported in the original article correspond to half of the values given below. This is because in our model, the summation of three-body potential term is implemented more efficiently in an asymmetric manner, while Biswas and Hamann assumed a symmetric form for the three-body potential in their original article.
 
-# Table of parameters
+### Table of parameters
 
 Parameter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Units
 -------|-----------|-------------
