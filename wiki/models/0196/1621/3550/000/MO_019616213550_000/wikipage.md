@@ -4,11 +4,6 @@ The authors discuss that they obtained parameters for their ‘old’ potential 
 
 # Table of parameters
 
-
-
-
-
-
 Parameter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Units
 -------|-----------|-------------
 $$A_1$$ | $$142.2922$$ | $$eV$$
@@ -22,3 +17,10 @@ $$\alpha_2$$ | $$0.3191903$$ | $$\overset{\circ}{A}^{-2}$$
 $$r_c$$ | $$3.9527357$$ | $$\overset{\circ}{A}$$
 $$\mu$$ | $$0.3120580$$ | $$\overset{\circ}{A}$$
 $$D$$ | $$6.0$$ | $$\overset{\circ}{A}$$
+
+
+# Representative plots
+
+A plot from the original article depicting the angular variation of the three-body potential for the new classical Si model is shown. The bond lengths were set equal to 2.35 angstroms, which is the equilibrium bond length of Si.
+
+![](/wimage/MO_019616213550_000/dipghosh/plot.png){:height="500px"}
