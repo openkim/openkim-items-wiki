@@ -1,8 +1,8 @@
-**Author and purpose of this potential**
+### Background ###
 
-Ganga Purja Pun and Yuri Mishin developed this potential of silicon. Previous potentials such as MEAM potential [1], SW potential [2], and Tersoff-type potential [3] have limitations on performing mechanical and thermal properties for the bulk of Silicon (specially at the high temperature). In this paper, four potentials (MEAN, SW, Tersoff, and present) are tested to predict the mechanical and energy properties of low-dimensional structure such as Si clusters and layer forms (single and double) of silicene (2D allotrope of Si). The potential was improved from previous Tersoff-type potential to overcome limitations such as overestimated thermal expansion (at high temperature) and the volume effect of melting. Therefore, the basic energy equation is the same as the Tersoff-type potential [3]. 
+Ganga Purja Pun and Yuri Mishin developed this bond order potential form of silicon. Previous potentials such as the modified embedded-atom method (MEAM) potential [1], Stillinger-Weber (SW) potential [2], and modified Tersoff potential (MOD) [3] have some limitations in computing mechanical and thermal properties for bulk of Silicon (specially at high temperature). The new potential is an extension of the MOD Tersoff-type potential. The developers tested four potentials (MEAM, SW, MOD, and the new potential) with respect to the mechanical and energetic properties of bulk and low-dimensional structures including Si clusters and single and bilayer silicene (a 2D allotrope of Si). The new potential performed better than earlier potential overcoming limitations such as an overestimated thermal expansion (at high temperature) and the volume effect of melting.
 
-**Potential**
+### Potential ###
 
 The total energy is given by 
 
@@ -33,7 +33,7 @@ $$
 \end{align*}
 $$.
 
-Here, $$R_1$$and $$r_2$$ is are cutoff radius. The outer cutoff  $$R_2$$  is chosen between the first and second coordination shells of the diamond cubic structure. The angular function $$g(\theta_{ijk})$$ has an equation form as
+Here, $$R_1$$ and $$R_2$$ are cutoff radii. The outer cutoff  $$R_2$$  is chosen between the first and second coordination shells of the diamond cubic structure. The angular function $$g(\theta_{ijk})$$ is
 
 $$
 g(\theta) = c_1 + \frac{c_2 (h - cos\theta)^2}{c_3 + (h - cos\theta)^2} \times \{ 1 + c_4 exp[-c_5 (h-cos\theta)^2] \} 
@@ -41,7 +41,7 @@ $$,
 
 where $$\theta_{ijk}$$ is the angle between bonds i-j and i-k.
 
-**Reference:**
+### Reference: ###
 
 [1] S. Ryu, C. R. Weinberger, M. I. Baskes, and W. Cai, Improved modified embedded-atom method potentials for gold and silicon, Modell. Simul. Mater. Sci. Eng. 17, 075008 (2009).
 [2] F. H. Stillinger and T. A. Weber, Computer simulation of local order in condensed phases of silicon, Phys. Rev. B 31, 5262 (1985).
