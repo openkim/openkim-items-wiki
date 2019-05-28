@@ -26,7 +26,7 @@ A \left( \frac{B}{r_{ij}^{p}} - \frac{1}{r_{ij}^{q}} \right) \exp \left( \frac{\
 \right.
 $$
 
-where $$r_{ij} = r_{ij}^{*}/\sigma$$ is the dimensionless distance between atoms $$i$$ and $$j$$.  The only difference between SRS1996 and Stillinger-Weber is in the numerator of the exponential function, which SRS1996 parameterizes as $$\zeta$$ and Stillinger-Weber uses a value of one.
+where $$r_{ij} = r_{ij}^{*}/\sigma$$ is the dimensionless distance between atoms $$i$$ and $$j$$.  For the pairwise term, the only difference between SRS1996 and Stillinger-Weber is in the numerator of the exponential function, which SRS1996 parameterizes as $$\zeta$$ and Stillinger-Weber uses a value of one.
 
 
 The functional form of the three-body potential for SRS1996 is
