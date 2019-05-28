@@ -80,10 +80,11 @@ The authors do not precisely state how the eleven dimensionless parameters were 
 
 ## Two-Body Term
 
-
+![](/wimage/MO_604248666067_000/bdruecke/pairwise_svg)
 
 ## Three-Body Term
 
+![](/wimage/MO_604248666067_000/bdruecke/three_body_svg)
 
-
+![](/wimage/MO_604248666067_000/bdruecke/three_body_tetrahedral_svg)
 
