@@ -49,7 +49,7 @@ h(r,s,\theta) = \left\{ \begin{array}{lr}
 \end{array} \right.
 $$
 
-and $$\theta_{ijk}$$ is the angle between the position vectors $$\mathbf{r}_{ji}$$ and $$\mathbf{r}_{jk}$$. This differs from Stillinger-Weber in the use of three additional parameters ($$b$$, $$k$$ and $$c$$) for the angular dependence. (The Stillinger-Weber formulation is obtained by setting $$b = 1$$, $$c = 0$$ and $$k = 1/3$$.) The use of these additional parameters in this model allows more flexibility in tuning the bond angles for modeling the behavior of free surfaces. Specifically the value $$k$$ determines the bond angle with the minimum energy according to
+and $$\theta_{ijk}$$ is the angle between the position vectors $$\mathbf{r}_{ji}$$ and $$\mathbf{r}_{jk}$$. This differs from Stillinger-Weber in the use of three additional parameters ($$b$$, $$k$$ and $$c$$) for the angular dependence. (The Stillinger-Weber formulation is obtained by setting $$b = 1$$, $$k = 1/3$$ and $$c = 0$$.) The use of these additional parameters in this model allows more flexibility in tuning the bond angles for modeling the behavior of free surfaces. Specifically the value $$k$$ determines the bond angle with the minimum energy according to
 
 $$
 \theta_{\mathrm{min}} = \cos^{-1} \left( -k \right).
