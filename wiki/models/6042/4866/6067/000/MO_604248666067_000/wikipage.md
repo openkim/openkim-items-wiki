@@ -60,7 +60,9 @@ The model has eleven dimensionless parameters ($$A$$, $$B$$, $$p$$, $$q$$, $$\ze
 
 The authors do not precisely state how the eleven dimensionless parameters were chosen, but instead state that they were chosen to fit a combination of bulk lattice dynamic properties, equilibrium geometries of free surfaces, and bond energies on free surfaces with the constraint that the diamond structure is the most stable phase. Upon stating the values of the coefficients, which are tabulated in Table 1 (along with reference values for Stillinger-Weber), the authors then compared computed results for bond lengths and bond energies based on SRS1996 with results from Stillinger-Weber, ab initio calculations \cite{brommer1992ab,vstich1992ab,van1988interaction} and experiments \cite{tong1988low}. These ab initio calculations and experiments presumably were used in the fitting of the parameters for SRS1996, but the method for doing so was not explained.
 
-|-----------------+------------+-----------------+----------------|
+**Table 1: Parameter values for Stephenson-Radny-Smith and Stillinger-Weber**
+
+|-----------------+------------+----------------|
 | Parameter | SRS1996 | Stillinger-Weber|
 |:--------:|:-------:|:--------:|
 |$$A$$|6.8932|7.049 556 277|
@@ -80,11 +82,20 @@ The authors do not precisely state how the eleven dimensionless parameters were 
 
 ## Two-Body Term
 
-![](/wimage/MO_604248666067_000/bdruecke/pairwise_svg)
+The pairwise potential given by the functional form $$\phi_{2}$$ in conjunction with the parameters in Table 1 is plotted below. Curves for Stillinger-Weber and the Lennard-Jones potential are also plotted for reference. We note that both SRS1996 and Stillinger-Weber have a cutoff radius at $$r_{ij} = a = 1.8$$, but the Lennard-Jones potential has no inherent cutoff radius.
+
+![](/wimage/MO_604248666067_000/bdruecke/pairwise_png)
+
 
 ## Three-Body Term
+A contour plot of the three-body potential, $$h(r,s,\theta)$$ with parameter values in Table 1, for the case when $$r = s$$ is shown below. A contour plot for the Stillinger-Weber potential is also shown as a basis for comparison.
 
-![](/wimage/MO_604248666067_000/bdruecke/three_body_svg)
+![](/wimage/MO_604248666067_000/bdruecke/three_body_png)
 
-![](/wimage/MO_604248666067_000/bdruecke/three_body_tetrahedral_svg)
+Finally, the figure below shows the effect of changing $$r$$ and $$s$$ independently in $$h(r,s,\theta)$$ while the angle is fixed at the tetrahedral angle, $$\theta = \cos^{-1} \left( -1/3 \right)$$. The results for both SRS1996 and Stillinger-Weber as a reference are shown. (Although the three-body potential energy of Stillinger-Weber is identically zero for the tetrahedral angle, $$\theta = \cos^{-1} (-1/3)$$, its contour plot is shown to emphasize the contrast with SRS1996.)
 
+![](/wimage/MO_604248666067_000/bdruecke/three_body_tetrahedral_png)
+
+## Summary
+
+Perhaps the most significant departure of SRS1996 from Stillinger-Weber is the much shallower energy well in the three-body potential term as a function of the bond angle $$\theta$$. This makes sense in light of the fact that SRS1996 attempts to predict surface behavior, which is inherently anisotropic. Although the strong energy well at the tetrahedral angle, $$\theta \approx 109.5^{\circ}$$, makes sense for modeling of bulk phenomena using Stillinger-Weber, near the free surface bond angle energies depend on the orientation of the three atoms relative to the surface, and more flexibility in the changing of the bond angle becomes necessary. This increased flexibility in the rotational component of the three-body potential also explains why SRS1996 is not as good as Stillinger-Weber at predicting bulk phenomena. In short, Stillinger-Weber was fit to bulk crystal data and SRS1996 was fit to surface data (as well as some bulk data), and their respective accuracies for bulk versus surface phenomena reflect this.
