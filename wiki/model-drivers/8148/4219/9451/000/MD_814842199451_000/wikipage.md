@@ -1,6 +1,6 @@
 ## Description
 
-The Stephenson-Radny-Smith potential (SRS1996) is a three-body interatomic potential originally developed to model free surface behavior of silicon. It is a generalized form of the classic Stillinger-Weber potential (SW1985) with four additional parameters to allow for better tuning of free surface behavior. It was originally created to better match experimental observations and ab initio calculations of bond lengths and bond energies on the $$7 \times 7$$ unit cell of the (111)Si free surface.
+The [Stephenson-Radny-Smith potential](https://www.sciencedirect.com/science/article/pii/0039602896008011) (SRS1996) is a three-body interatomic potential originally developed to model free surface behavior of silicon. It is a generalized form of the classic [Stillinger-Weber potential](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.31.5262) with four additional parameters to allow for better tuning of free surface behavior. It was originally created to better match experimental observations and ab initio calculations of bond lengths and bond energies on the $$7 \times 7$$ unit cell of the (111)Si free surface.
 
 ## Parameters
 The model has eleven dimensionless parameters ($$A$$, $$B$$, $$p$$, $$q$$, $$a$$, $$\lambda$$, $$\gamma$$, $$\zeta$$, $$b$$, $$k$$ and $$c$$) and two characteristic scales ($$\sigma$$ the characteristic interatomic spacing, and $$\epsilon$$ the characteristic energy).
