@@ -29,7 +29,7 @@ $$f(r_{ij})=f_e\: e^{-\beta\; (r_{ij}/r_e-1)},$$
 
 while the two-body potential is obtained from
 
-$$\phi(r_{i})= \phi_e\: e^{-\gamma\;(r_{ij}/r_e-1)}.$$
+$$\phi(r_{ij})= \phi_e\: e^{-\gamma\;(r_{ij}/r_e-1)}.$$
 
 In both equations above, the distance between particles $$i$$ and $$j$$ must be smaller or equal to the cut-off (MODEL_CUTOFF).
 
