@@ -15,13 +15,13 @@ Warning: The model uses other parameters DIM, SPECCODE and MODEL_CUTOFF denoting
 
 The total potential energy of a system of $$N$$ atoms is assumed to take the form $$E = \sum_{i=1}^N E_i$$, such that
 
-$$E_i= \sum_{i=1}^N \left[F(\rho_i) + \frac{1}{2}\sum_{j=1}^m  \phi(r_{ij})\right],$$
+$$E_i = F(\rho_i) + \frac{1}{2}\sum_{j=1}^N  \phi(r_{ij}),$$
 
-and
+(where the sum skips over $$j=i$$), and
 
-$$\rho_i=\sum_{j=1}^m f(r_{ij}),$$
+$$\rho_i=\sum_{j=1}^N f(r_{ij}),$$
 
-where $$E_i$$ denotes the energy per atom $$i$$, $$F(\rho_i)$$ is the embedding function contribution, $$\frac{1}{2}\sum_{j=1}^m  \phi(r_{ij})$$ is the two-body contribution to the energy, $$\rho_i$$ stands for the electron density at atom $$i$$, and $$f(r_{ij})$$ is the atomic electron density of atom $$j$$ as a function of the distance from its center $$r_{ij}$$, while $$j$$ is one of the $$m$$ neighbors of the atom $$i$$.
+where $$E_i$$ denotes the energy per atom $$i$$, $$F(\rho_i)$$ is the embedding function contribution, $$\frac{1}{2}\sum_{j=1}^N  \phi(r_{ij})$$ is the two-body contribution to the energy, $$\rho_i$$ stands for the electron density at atom $$i$$, and $$f(r_{ij})$$ is the atomic electron density of atom $$j$$ as a function of the distance from its center $$r_{ij}$$.
 
 The electron density function is given by
 
