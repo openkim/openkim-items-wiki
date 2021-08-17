@@ -257,7 +257,7 @@ $$
 $$
 
 $$\tau(Z)$$ describes the variation in ideal bonding angle and is defined by, $$\tau(Z)=1-\frac{Z}{12}\tanh[t_1(Z-t_2)].$$ The spherical coordination contribution $$z_i$$ is
-determined by the sum $$z_i=\sumf(R_{ij}),$$ where $$f(R)$$ is a three-parameter function defined by,
+determined by the sum $$z_i=\sum{f(R_{ij})},$$ where $$f(R)$$ is a three-parameter function defined by,
 
 $$
 f(r) = \begin{cases}
