@@ -295,6 +295,19 @@ $$
 
 with the function `p(r)` equivalent to `f(r)` except for different endpoints. The various parameters in the `EDIP/C` formulas are listed in a parameter file. Usually, it is called the `C.edip` parameter file.
 
+**NOTE:**
+
+To accurately model close-ranged interactions between atoms, the pair potential within the EDIP for carbon (EDIP/C) formalism is smoothly switched to the Ziegler-Biersacke-Littermark (ZBL) pair potential at small separations. However, due to the environmental dependence, this transition is less straightforward than pair potentials, where one can use interpolation functions to connect the potentials. Here, the approach is to use two Fermi-type scaling functions,
+
+$$
+  \begin{align*}
+  f(r)=\left[1+\exp{\frac{r-r_c+\delta}{s}}\right]^{-1},\\
+  c(r)=1-\left[1+\exp{\frac{r-r_c-\delta}{s}}\right]^{-1},
+  \end{align*}
+$$
+
+where $$r_c$$ is the cutoff distance, $$\delta$$ is the shift and $$s$$ is the skin (controls the sharpness of the transition).
+
 ### EDIP/C parameter file format
 
 The `EDIP/C` parameter file defines parameters coefficients,
