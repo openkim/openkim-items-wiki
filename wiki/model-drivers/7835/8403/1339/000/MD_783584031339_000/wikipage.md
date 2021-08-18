@@ -297,12 +297,12 @@ with the function `p(r)` equivalent to `f(r)` except for different endpoints. Th
 
 **NOTE:**
 
-To accurately model close-ranged interactions between atoms, the pair potential within the EDIP for carbon (EDIP/C) formalism is smoothly switched to the Ziegler-Biersacke-Littermark (ZBL) pair potential at small separations. However, due to the environmental dependence, this transition is less straightforward than pair potentials, where one can use interpolation functions to connect the potentials. Here, the approach is to use two Fermi-type scaling functions,
+To accurately model close-ranged interactions between atoms, the pair potential within the EDIP for carbon (EDIP/C) formalism is smoothly switched to the Ziegler-Biersacke-Littermark (ZBL) pair potential at small separations. However, due to the environmental dependence, this transition is less straightforward than pair potentials, where one can use interpolation functions to connect the potentials. Here [[3](#references)], the approach is to use two Fermi-type scaling functions,
 
 $$
   \begin{align*}
-  f(r)=\left[1+\exp{\left(\frac{r-r_c+\delta}{s}\right)}\right]^{-1},\\
-  c(r)=1-\left[1+\exp{\left(\frac{r-r_c-\delta}{s}\right)}\right]^{-1},
+  f_{zbl}(r)=\left[1+\exp{\left(\frac{r-r_c+\delta}{s}\right)}\right]^{-1},\\
+  f_{edip}(r)=1-\left[1+\exp{\left(\frac{r-r_c-\delta}{s}\right)}\right]^{-1},
   \end{align*}
 $$
 
