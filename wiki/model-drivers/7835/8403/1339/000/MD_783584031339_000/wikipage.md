@@ -301,8 +301,8 @@ To accurately model close-ranged interactions between atoms, the pair potential 
 
 $$
   \begin{align*}
-  f(r)=\left[1+\exp\left({\frac{r-r_c+\delta}{s}}\right)\right]^{-1},\\
-  c(r)=1-\left[1+\exp\left{\frac{r-r_c-\delta}{s}}\right)\right]^{-1},
+  f(r)=\left[1+\exp{\left(\frac{r-r_c+\delta}{s}\right)}\right]^{-1},\\
+  c(r)=1-\left[1+\exp{\left(\frac{r-r_c-\delta}{s}\right)}\right]^{-1},
   \end{align*}
 $$
 
