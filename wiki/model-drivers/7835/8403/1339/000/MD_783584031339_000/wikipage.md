@@ -301,12 +301,12 @@ To accurately model close-ranged interactions between atoms, the pair potential 
 
 $$
   \begin{align*}
-  f(r)=\left[1+\exp{\frac{r-r_c+\delta}{s}}\right]^{-1},\\
-  c(r)=1-\left[1+\exp{\frac{r-r_c-\delta}{s}}\right]^{-1},
+  f(r)=\left[1+\exp\left({\frac{r-r_c+\delta}{s}}\right)\right]^{-1},\\
+  c(r)=1-\left[1+\exp\left{\frac{r-r_c-\delta}{s}}\right)\right]^{-1},
   \end{align*}
 $$
 
-where $$r_c$$ is the cutoff distance, $$\delta$$ is the shift and $$s$$ is the skin (controls the sharpness of the transition).
+where $$r_c$$ is the cutoff distance, $$\delta$$ is the shift, and $$s$$ is the skin (controls the sharpness of the transition).
 
 ### EDIP/C parameter file format
 
