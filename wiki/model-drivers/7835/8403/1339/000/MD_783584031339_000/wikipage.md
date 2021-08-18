@@ -338,7 +338,7 @@ As an example, a KIM Portable Model (PM) for modeling carbon contains the follow
 where the `C.edip` parameter file contains,
 
 ```bash
-# DATE: 2021-07-20        Reference: N. A. Marks, Phys. Rev. B 63, 035401 (2000)
+# DATE: 2021-06-06         Reference: Marks, N.A., Phys. Rev.B, 63(3):035401, Dec 2000.
 
 # format of a single entry (one or more lines)
 #
@@ -349,7 +349,7 @@ where the `C.edip` parameter file contains,
 #
 # if zbl is 0, then \c cutoff, \c skin, \c shift are not necessary.
 #
-# units for each parameter:
+# units for each parameters:
 #
 #     eps, lambda0, Zdih, Zrep -> are in eV
 #     sigma, a, aprime, gamma, flow, fhigh, plow, phigh, c0 -> are in Angstrom
