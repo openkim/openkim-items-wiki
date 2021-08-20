@@ -4,21 +4,19 @@ This directory contains the environment-dependent interatomic potential (EDIP) m
 
 ## EDIP model driver
 
-This KIM model driver is written in C++ and implements three styles of environment-dependent interatomic potential (EDIP):
+This model driver provides a C++ implementation of the Environment Dependent Interatomic Potential (EDIP) [[1,2,3](#references)] and is based on the source code of the ['edip'](https://docs.lammps.org/pair_edip.html) and ['edip/multi'](https://docs.lammps.org/pair_edip.html) pair styles found in the LAMMPS software package [[4,5](#references)]. It additionally features an `edip/c` mode not found in any pair styles in LAMMPS, which is an extension of EDIP to carbon that accounts for pi-bonding effects [[2,3](#references)].
+
+The three modes of the EDIP driver are,
 
 - [edip](#edip-style)
 - [edip/multi](#edipmulti-style)
 - [edip/c](#edipc-style)
 
-The style of the potential is automatically detected based on the input files to the driver. The input files are ASCII text files formatted to be consistent with LAMMPS.
+The mode of the driver (`edip` for single-species models, `edip/multi` for multispecies models, or `edip/c` for carbon models with pi-bonding effects) is automatically detected based on the input files provided, which must be ASCII text files. For the `edip` and `edip/multi` modes of operation, the driver expects an [**element**](#edip-element-file-format) file and a [**parameter**](#edip-parameter-file-format) file. The element file contains a unique list of chemical elements. In the case of a single species, it automatically chooses the `edip` mode, whereas if multiple species are present, it automatically selects the `edip/multi` mode. However, this driver only expects a [**parameter**](#edipc-parameter-file-format) file for the `edip/c` mode, since only pure carbon is supported in that case.
 
-This driver has a design to mimic and reproduce the behavior of the [edip](https://docs.lammps.org/pair_edip.html), and [edip/multi](https://docs.lammps.org/pair_edip.html) pair styles in [LAMMPS](https://www.lammps.org) and the edip pair style [edip/c](#references) developed for carbon [[2,3](#references)].
+**NOTE:**
 
-We adapted the LAMMPS format from the LAMMPS [documentation](https://docs.lammps.org) as of `July 30, 2021`.
-
-For the two styles of `edip` and `edip/multi` [[4,5](#references)], the driver expects an [**element**](#edip-element-file-format) file and a [**parameter**](#edip-parameter-file-format) file.
-
-For the `edip/c` style [[2,3](#references)], which is a transferable empirical potential developed for carbon, the driver only expects a [**parameter**](#edipc-parameter-file-format) file.
+We adapted the LAMMPS format from the [LAMMPS documentation](https://docs.lammps.org) as of `July 30, 2021`.
 
 ## EDIP style
 
