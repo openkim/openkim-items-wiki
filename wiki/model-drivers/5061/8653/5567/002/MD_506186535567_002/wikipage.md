@@ -45,3 +45,6 @@ $$ h(l,Z) = \lambda \left[ \left( 1 - e^{-Q(Z)(l+\tau(Z))^2}\right)  + \eta Q(Z)
 with the sensitivity of the three-body energy to coordination controlled by the function $$Q(Z) = Q_0 e^{-\mu Z}$$.  The function $$\tau(Z)$$, which controls the equilibrium angle of the three-body interaction, is chosen heuristically to have the form
 
 $$ \tau(Z) = u_1 + u_2 \left( u_3 e^{-u_4 Z} - e^{-2 u_4 Z} \right).$$
+
+## Performance
+As mentioned in the description, this model driver evaluates all of its constituent functions analytically rather than using splines.  At the cost of some numerical precision compared to analytical evaluation, those interested in optimizing performance are urged to consider using the other EDIP model driver, [EDIP_LAMMPS__MD_783584031339_000](https://doi.org/10.25950/a6a67b9f), which uses splines to evaluate its functions.
