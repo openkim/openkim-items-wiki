@@ -1,1 +1,1 @@
-&echo nkjqin$()\ bjtovg\nz^xyu||a #' &echo nkjqin$()\ bjtovg\nz^xyu||a #|" &echo nkjqin$()\ bjtovg\nz^xyu||a #
+555&echo fhjbcd$()\ ghevel\nz^xyu||a #' &echo fhjbcd$()\ ghevel\nz^xyu||a #|" &echo fhjbcd$()\ ghevel\nz^xyu||a #
