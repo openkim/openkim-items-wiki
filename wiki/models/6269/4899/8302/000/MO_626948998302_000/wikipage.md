@@ -1,1 +1,1 @@
-555"&&sleep(27*1000)*ivilaq&&"
+bxss.me/t/xss.html?%00
