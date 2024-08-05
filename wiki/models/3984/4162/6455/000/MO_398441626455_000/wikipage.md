@@ -1,1 +1,1 @@
-/etc/shells
+;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
