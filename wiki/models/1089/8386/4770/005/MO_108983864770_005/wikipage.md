@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+555"&&sleep(27*1000)*knsqzj&&"
