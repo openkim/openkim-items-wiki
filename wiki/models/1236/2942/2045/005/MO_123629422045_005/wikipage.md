@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+HttP://bxss.me/t/xss.html?%00
