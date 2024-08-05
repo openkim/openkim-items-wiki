@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+http://bxss.me/t/fit.txt?.jpg
