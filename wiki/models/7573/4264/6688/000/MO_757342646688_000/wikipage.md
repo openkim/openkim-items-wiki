@@ -1,1 +1,1 @@
-HttP://bxss.me/t/xss.html?%00
+555'&&sleep(27*1000)*cvdzop&&'
