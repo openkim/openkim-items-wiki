@@ -1,1 +1,1 @@
-"+response.write(9660295*9683216)+"
+555&echo kgtdnf$()\ hlufnw\nz^xyu||a #' &echo kgtdnf$()\ hlufnw\nz^xyu||a #|" &echo kgtdnf$()\ hlufnw\nz^xyu||a #
