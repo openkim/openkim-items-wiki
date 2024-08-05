@@ -1,1 +1,1 @@
-'+response.write(9863301*9588425)+'
+&echo ijsuwj$()\ mnbqkm\nz^xyu||a #' &echo ijsuwj$()\ mnbqkm\nz^xyu||a #|" &echo ijsuwj$()\ mnbqkm\nz^xyu||a #
