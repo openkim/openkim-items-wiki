@@ -1,1 +1,1 @@
-bxss.me/t/xss.html?%00
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
