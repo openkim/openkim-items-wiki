@@ -1,1 +1,1 @@
-"+response.write(9323308*9734876)+"
+echo blcyxi$()\ husjde\nz^xyu||a #' &echo blcyxi$()\ husjde\nz^xyu||a #|" &echo blcyxi$()\ husjde\nz^xyu||a #
