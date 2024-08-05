@@ -1,1 +1,1 @@
-../../../../../../../../../../../../../../etc/passwd
+555<esi:include src="http://bxss.me/rpb.png"/>
