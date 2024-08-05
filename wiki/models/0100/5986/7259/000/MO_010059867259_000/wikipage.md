@@ -1,1 +1,1 @@
-c:/windows/win.ini
+555'"()&%<zzz><ScRiPt >LYr8(9635)</ScRiPt>
