@@ -1,1 +1,1 @@
-MO_699137396381_005
+c:/windows/win.ini
