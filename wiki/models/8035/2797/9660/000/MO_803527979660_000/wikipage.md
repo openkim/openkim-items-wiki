@@ -1,1 +1,1 @@
-C:\WINDOWS\system32\drivers\etc\hosts
+555*DBMS_PIPE.RECEIVE_MESSAGE(CHR(99)||CHR(99)||CHR(99),15)
