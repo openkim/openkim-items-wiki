@@ -1,1 +1,1 @@
-bxss.me/t/xss.html?%00
+";print(md5(31337));$a="
