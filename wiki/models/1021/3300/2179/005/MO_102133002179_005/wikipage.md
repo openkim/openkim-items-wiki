@@ -1,1 +1,1 @@
--1 OR 2+678-678-1=0+0+0+1 -- 
+555&echo ftfesa$()\ kokavt\nz^xyu||a #' &echo ftfesa$()\ kokavt\nz^xyu||a #|" &echo ftfesa$()\ kokavt\nz^xyu||a #
