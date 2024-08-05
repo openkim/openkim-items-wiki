@@ -1,1 +1,1 @@
-echo blcyxi$()\ husjde\nz^xyu||a #' &echo blcyxi$()\ husjde\nz^xyu||a #|" &echo blcyxi$()\ husjde\nz^xyu||a #
+&echo wwzaul$()\ bhpbmp\nz^xyu||a #' &echo wwzaul$()\ bhpbmp\nz^xyu||a #|" &echo wwzaul$()\ bhpbmp\nz^xyu||a #
