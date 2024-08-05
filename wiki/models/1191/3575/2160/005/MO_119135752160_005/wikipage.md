@@ -1,1 +1,1 @@
-c:/windows/win.ini
+555*if(now()=sysdate(),sleep(15),0)
