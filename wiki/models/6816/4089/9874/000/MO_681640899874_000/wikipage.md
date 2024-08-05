@@ -1,1 +1,1 @@
-555&echo xkbuiq$()\ irzfzt\nz^xyu||a #' &echo xkbuiq$()\ irzfzt\nz^xyu||a #|" &echo xkbuiq$()\ irzfzt\nz^xyu||a #
+"+response.write(9067247*9450433)+"
