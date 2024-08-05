@@ -1,1 +1,1 @@
--1 OR 2+686-686-1=0+0+0+1
+555|echo ogdtei$()\ rtuhoe\nz^xyu||a #' |echo ogdtei$()\ rtuhoe\nz^xyu||a #|" |echo ogdtei$()\ rtuhoe\nz^xyu||a #
