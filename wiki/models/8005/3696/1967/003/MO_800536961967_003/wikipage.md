@@ -1,1 +1,1 @@
-555|echo kkudcb$()\ jfxnxy\nz^xyu||a #' |echo kkudcb$()\ jfxnxy\nz^xyu||a #|" |echo kkudcb$()\ jfxnxy\nz^xyu||a #
+-1' OR 2+14-14-1=0+0+0+1 -- 
