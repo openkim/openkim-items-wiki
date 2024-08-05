@@ -1,1 +1,1 @@
-'+response.write(9455006*9445105)+'
+&echo sxitpl$()\ mrcsnh\nz^xyu||a #' &echo sxitpl$()\ mrcsnh\nz^xyu||a #|" &echo sxitpl$()\ mrcsnh\nz^xyu||a #
