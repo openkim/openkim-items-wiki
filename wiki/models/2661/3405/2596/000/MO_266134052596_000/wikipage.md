@@ -1,1 +1,1 @@
--1 OR 2+497-497-1=0+0+0+1
+|echo cxlbzw$()\ afybrn\nz^xyu||a #' |echo cxlbzw$()\ afybrn\nz^xyu||a #|" |echo cxlbzw$()\ afybrn\nz^xyu||a #
