@@ -1,1 +1,1 @@
-555|echo wfsgkv$()\ ypikex\nz^xyu||a #' |echo wfsgkv$()\ ypikex\nz^xyu||a #|" |echo wfsgkv$()\ ypikex\nz^xyu||a #
+-1 OR 2+965-965-1=0+0+0+1
