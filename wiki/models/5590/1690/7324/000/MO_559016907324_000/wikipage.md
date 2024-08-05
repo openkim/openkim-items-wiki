@@ -1,1 +1,1 @@
-555-1 waitfor delay '0:0:15' -- 
+;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
