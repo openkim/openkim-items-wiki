@@ -1,1 +1,1 @@
-|echo arrppg$()\ hzkuiz\nz^xyu||a #' |echo arrppg$()\ hzkuiz\nz^xyu||a #|" |echo arrppg$()\ hzkuiz\nz^xyu||a #
+-1' OR 2+323-323-1=0+0+0+1 -- 
