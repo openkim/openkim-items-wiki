@@ -1,1 +1,1 @@
-&echo oeyqlf$()\ zqlvbp\nz^xyu||a #' &echo oeyqlf$()\ zqlvbp\nz^xyu||a #|" &echo oeyqlf$()\ zqlvbp\nz^xyu||a #
+'+response.write(9940676*9988275)+'
