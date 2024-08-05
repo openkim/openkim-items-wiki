@@ -1,1 +1,1 @@
-openkim.org
+c:/windows/win.ini
