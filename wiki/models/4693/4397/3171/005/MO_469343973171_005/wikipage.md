@@ -27,4 +27,4 @@ The values of these constants used by the authors to modify EAM_Dynamo_MendelevH
 
 [1] Voter A F and Chen S P, *Mater. Res. Soc. Symp. Proc.* 82 (1987), pp. 175.
 [2] Y. Mishin, M.J. Mehl, D.A. Papaconstantopoulos, A.F. Voter and J.D. Kress, Phys. Rev. B 63 (2001) p.224106.
-klrCdCRV') OR 390=(SELECT 390 FROM PG_SLEEP(15))--
+YVS00Yr9')) OR 626=(SELECT 626 FROM PG_SLEEP(15))--
