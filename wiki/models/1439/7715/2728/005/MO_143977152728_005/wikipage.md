@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+%2fetc%2fpasswd
