@@ -1,1 +1,1 @@
-(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
+555'"()&%<zzz><ScRiPt >JYhA(9764)</ScRiPt>
