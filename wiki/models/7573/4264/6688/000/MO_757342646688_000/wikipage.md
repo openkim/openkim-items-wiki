@@ -1,1 +1,1 @@
-1yrphmgdpgulaszriylqiipemefmacafkxycjaxjs.jpg
+!(()&&!|*|*|
