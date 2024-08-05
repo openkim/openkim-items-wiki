@@ -1,1 +1,1 @@
-MO_258836200237_000/.
+https://openkim.org/
