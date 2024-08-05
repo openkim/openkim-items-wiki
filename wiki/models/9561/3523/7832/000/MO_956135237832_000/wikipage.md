@@ -1,1 +1,1 @@
-555&echo yjydyb$()\ gfpgws\nz^xyu||a #' &echo yjydyb$()\ gfpgws\nz^xyu||a #|" &echo yjydyb$()\ gfpgws\nz^xyu||a #
+-1' OR 2+82-82-1=0+0+0+1 -- 
