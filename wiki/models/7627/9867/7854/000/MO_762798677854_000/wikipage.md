@@ -1,1 +1,1 @@
-5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
+'"()&%<zzz><ScRiPt >iYna(9684)</ScRiPt>
