@@ -1,1 +1,1 @@
-|echo eownbr$()\ brevfz\nz^xyu||a #' |echo eownbr$()\ brevfz\nz^xyu||a #|" |echo eownbr$()\ brevfz\nz^xyu||a #
+-1 OR 2+411-411-1=0+0+0+1 -- 
