@@ -1,1 +1,1 @@
-555|echo lyrhsr$()\ jmullg\nz^xyu||a #' |echo lyrhsr$()\ jmullg\nz^xyu||a #|" |echo lyrhsr$()\ jmullg\nz^xyu||a #
+-1 OR 2+106-106-1=0+0+0+1 -- 
