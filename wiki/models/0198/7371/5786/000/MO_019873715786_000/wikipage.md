@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+";print(md5(31337));$a="
