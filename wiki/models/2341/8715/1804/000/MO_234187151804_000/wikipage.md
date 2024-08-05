@@ -1,1 +1,1 @@
-../../../../../../../../../../../../../../windows/win.ini
+http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs?.jpg
