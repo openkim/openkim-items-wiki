@@ -1,1 +1,1 @@
-/.\\./.\\./.\\./.\\./.\\./.\\./windows/win.ini
+555-1) OR 964=(SELECT 964 FROM PG_SLEEP(15))--
