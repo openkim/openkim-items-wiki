@@ -1,1 +1,1 @@
-"+response.write(9188408*9678179)+"
+file:///etc/passwd
