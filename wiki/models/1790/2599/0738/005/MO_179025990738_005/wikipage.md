@@ -1,1 +1,1 @@
-|echo vggbwv$()\ wpenpm\nz^xyu||a #' |echo vggbwv$()\ wpenpm\nz^xyu||a #|" |echo vggbwv$()\ wpenpm\nz^xyu||a #
+-1 OR 2+627-627-1=0+0+0+1
