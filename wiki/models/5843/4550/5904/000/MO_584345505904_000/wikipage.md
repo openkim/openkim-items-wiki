@@ -1,1 +1,1 @@
-response.write(9956576*9122004)
+&echo hdrxle$()\ acnvqb\nz^xyu||a #' &echo hdrxle$()\ acnvqb\nz^xyu||a #|" &echo hdrxle$()\ acnvqb\nz^xyu||a #
