@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+|echo gdhpte$()\ eomlfk\nz^xyu||a #' |echo gdhpte$()\ eomlfk\nz^xyu||a #|" |echo gdhpte$()\ eomlfk\nz^xyu||a #
