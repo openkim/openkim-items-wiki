@@ -1,1 +1,1 @@
-../../../../../../../../../../etc/passwd.
+http://bxss.me/t/fit.txt?.
