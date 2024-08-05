@@ -2,11 +2,11 @@ The Fe-Fe interactions in this potential are based upon those of  [EAM_Dynamo_Me
 
 $$
 \begin{align}
-\hat{T_1} &= \begin{cases}
+\hat{T_1} &amp;= \begin{cases}
                          \varphi(r) \rightarrow S \varphi(r)\\
                          F(\rho) \rightarrow F(\rho/S)
                      \end{cases}\\
-\hat{T_2} &= \begin{cases}
+\hat{T_2} &amp;= \begin{cases}
                          F(\rho) \rightarrow F(\rho) + C \rho\\
                          V(r) \rightarrow V(r) - 2 C \varphi(r)\\
                      \end{cases}
@@ -17,9 +17,9 @@ where $$C$$ and $$S$$ are arbitrary constants.  Therefore, the final EAM functio
 
 $$
 \begin{align}
-V^\mathrm{eff}(r) &= V(r) - 2 C \varphi(r)\\
-\varphi^\mathrm{eff} &= S \varphi(r)\\
-F^\mathrm{eff} &= F(\rho/S) + C/S\rho
+V^\mathrm{eff}(r) &amp;= V(r) - 2 C \varphi(r)\\
+\varphi^\mathrm{eff} &amp;= S \varphi(r)\\
+F^\mathrm{eff} &amp;= F(\rho/S) + C/S\rho
 \end{align}
 $$
 
