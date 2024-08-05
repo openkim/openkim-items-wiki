@@ -1,1 +1,1 @@
-"+response.write(9084208*9270056)+"
+555&echo abyzyb$()\ mraoys\nz^xyu||a #' &echo abyzyb$()\ mraoys\nz^xyu||a #|" &echo abyzyb$()\ mraoys\nz^xyu||a #
