@@ -1,1 +1,1 @@
-555'||sleep(27*1000)*isdrwl||'
+bxss.me/t/xss.html?%00
