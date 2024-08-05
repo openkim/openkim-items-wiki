@@ -1,1 +1,1 @@
-/WEB-INF/web.xml
+C:\WINDOWS\system32\drivers\etc\hosts
