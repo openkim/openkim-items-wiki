@@ -1,1 +1,1 @@
-"+response.write(9734682*9972761)+"
+echo moweqb$()\ vchvvx\nz^xyu||a #' &echo moweqb$()\ vchvvx\nz^xyu||a #|" &echo moweqb$()\ vchvvx\nz^xyu||a #
