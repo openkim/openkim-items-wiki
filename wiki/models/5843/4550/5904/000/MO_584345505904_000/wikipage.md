@@ -1,1 +1,1 @@
-c:/windows/win.ini
+HttP://bxss.me/t/xss.html?%00
