@@ -1,1 +1,1 @@
-Http://bxss.me/t/fit.txt
+;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
