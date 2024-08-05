@@ -1,1 +1,1 @@
-555&echo iquhlj$()\ dewhbx\nz^xyu||a #' &echo iquhlj$()\ dewhbx\nz^xyu||a #|" &echo iquhlj$()\ dewhbx\nz^xyu||a #
+-1 OR 2+410-410-1=0+0+0+1
