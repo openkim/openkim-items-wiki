@@ -1,1 +1,1 @@
-|echo zicrvz$()\ bbmqrc\nz^xyu||a #' |echo zicrvz$()\ bbmqrc\nz^xyu||a #|" |echo zicrvz$()\ bbmqrc\nz^xyu||a #
+-1 OR 2+29-29-1=0+0+0+1
