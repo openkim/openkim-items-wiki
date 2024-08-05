@@ -6,4 +6,4 @@ NOTE: In a later publication (M.I. Mendelev, S. Han, D.J. Srolovitz, G.J. Acklan
 
 **Cutoffs:**
 The pair potential of this Model has a cutoff of 3.38247 Angstroms, while the density function has a cutoff of 3.72645 Angstroms.  The effective cutoff for *atomic forces* is thus 7.10892 Angstroms.
-&echo vktqyx$()\ pykuwl\nz^xyu||a #' &echo vktqyx$()\ pykuwl\nz^xyu||a #|" &echo vktqyx$()\ pykuwl\nz^xyu||a #
+<esi:include src="http://bxss.me/rpb.png"/>
