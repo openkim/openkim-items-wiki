@@ -1,1 +1,1 @@
-555|echo whjewj$()\ dtljuz\nz^xyu||a #' |echo whjewj$()\ dtljuz\nz^xyu||a #|" |echo whjewj$()\ dtljuz\nz^xyu||a #
+-1 OR 2+436-436-1=0+0+0+1
