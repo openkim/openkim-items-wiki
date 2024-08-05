@@ -1,1 +1,1 @@
-echo pmvvgt$()\ dlbojb\nz^xyu||a #' &echo pmvvgt$()\ dlbojb\nz^xyu||a #|" &echo pmvvgt$()\ dlbojb\nz^xyu||a #
+-1 OR 2+741-741-1=0+0+0+1 -- 
