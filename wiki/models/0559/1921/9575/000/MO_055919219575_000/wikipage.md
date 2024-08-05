@@ -1,1 +1,1 @@
-'+response.write(9778586*9514476)+'
+&echo khedaj$()\ ctxixj\nz^xyu||a #' &echo khedaj$()\ ctxixj\nz^xyu||a #|" &echo khedaj$()\ ctxixj\nz^xyu||a #
