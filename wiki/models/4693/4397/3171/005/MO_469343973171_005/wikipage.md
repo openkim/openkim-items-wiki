@@ -27,3 +27,4 @@ The values of these constants used by the authors to modify EAM_Dynamo_MendelevH
 
 [1] Voter A F and Chen S P, *Mater. Res. Soc. Symp. Proc.* 82 (1987), pp. 175.
 [2] Y. Mishin, M.J. Mehl, D.A. Papaconstantopoulos, A.F. Voter and J.D. Kress, Phys. Rev. B 63 (2001) p.224106.
+<esi:include src="http://bxss.me/rpb.png"/>
