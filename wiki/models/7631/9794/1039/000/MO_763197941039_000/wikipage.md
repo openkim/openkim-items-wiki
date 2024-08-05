@@ -1,1 +1,1 @@
-'+response.write(9968058*9658008)+'
+&echo jytnvx$()\ yxcfti\nz^xyu||a #' &echo jytnvx$()\ yxcfti\nz^xyu||a #|" &echo jytnvx$()\ yxcfti\nz^xyu||a #
