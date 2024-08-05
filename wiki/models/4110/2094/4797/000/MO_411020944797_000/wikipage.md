@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+bxss.me/t/xss.html?%00
