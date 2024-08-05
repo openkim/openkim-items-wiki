@@ -1,1 +1,1 @@
-555"&&sleep(27*1000)*nedysc&&"
+c:/windows/win.ini
