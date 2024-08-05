@@ -1,1 +1,1 @@
-bxss.me/t/xss.html?%00
+-1' OR 2+946-946-1=0+0+0+1 or 'hNi8q3Kk'='
