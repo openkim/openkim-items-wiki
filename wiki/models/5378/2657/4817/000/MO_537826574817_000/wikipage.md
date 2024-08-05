@@ -1,1 +1,1 @@
--1 OR 2+789-789-1=0+0+0+1 -- 
+555|echo jkcerl$()\ ucdajp\nz^xyu||a #' |echo jkcerl$()\ ucdajp\nz^xyu||a #|" |echo jkcerl$()\ ucdajp\nz^xyu||a #
