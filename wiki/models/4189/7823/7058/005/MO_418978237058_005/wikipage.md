@@ -22,4 +22,4 @@ NOTE: There is one important reference currently missing (as of 9/8/2016) from t
 
 * M.I. Baskes, J.E. Angelo, and N.R. Moody, &quot;Atomistic calculations of hydrogen interactions with Ni3Al grain boundaries and Ni/Ni3Al interfaces,&quot; p.77-90, Hydrogen Effects in Materials, Edited by A.W. Thompson and N.R. Moody (1996).
     - http://dx.doi.org/10.1002/9781118803363.ch6
-RE2OHzHL'; waitfor delay '0:0:15' -- 
+aKOj0zcY' OR 702=(SELECT 702 FROM PG_SLEEP(15))--
