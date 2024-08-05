@@ -1,1 +1,1 @@
-/etc/shells
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.
