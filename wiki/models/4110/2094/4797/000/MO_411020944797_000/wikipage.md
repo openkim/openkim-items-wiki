@@ -1,1 +1,1 @@
--1 OR 2+718-718-1=0+0+0+1
+555|echo iwxpee$()\ rsqkmd\nz^xyu||a #' |echo iwxpee$()\ rsqkmd\nz^xyu||a #|" |echo iwxpee$()\ rsqkmd\nz^xyu||a #
