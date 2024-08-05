@@ -1,1 +1,1 @@
-C:\WINDOWS\system32\drivers\etc\hosts
+555-1 waitfor delay '0:0:15' -- 
