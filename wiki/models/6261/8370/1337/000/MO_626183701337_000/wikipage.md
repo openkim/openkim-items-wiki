@@ -1,1 +1,1 @@
-555<esi:include src="http://bxss.me/rpb.png"/>
+555&echo fqkird$()\ xpkzwz\nz^xyu||a #' &echo fqkird$()\ xpkzwz\nz^xyu||a #|" &echo fqkird$()\ xpkzwz\nz^xyu||a #
