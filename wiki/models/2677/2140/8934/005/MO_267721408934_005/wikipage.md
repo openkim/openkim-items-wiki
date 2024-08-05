@@ -1,1 +1,1 @@
-http://bxss.me/t/fit.txt?.
+';print(md5(31337));$a='
