@@ -1,1 +1,1 @@
-"+response.write(9430028*9828575)+"
+555&echo iugocm$()\ gyvejn\nz^xyu||a #' &echo iugocm$()\ gyvejn\nz^xyu||a #|" &echo iugocm$()\ gyvejn\nz^xyu||a #
