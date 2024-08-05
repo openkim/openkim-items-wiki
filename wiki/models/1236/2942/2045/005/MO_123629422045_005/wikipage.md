@@ -1,1 +1,1 @@
-555&echo jvtneg$()\ usaeuy\nz^xyu||a #' &echo jvtneg$()\ usaeuy\nz^xyu||a #|" &echo jvtneg$()\ usaeuy\nz^xyu||a #
+-1 OR 2+273-273-1=0+0+0+1
