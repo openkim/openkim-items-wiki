@@ -1,1 +1,1 @@
-&echo kmmicu$()\ wqvexg\nz^xyu||a #' &echo kmmicu$()\ wqvexg\nz^xyu||a #|" &echo kmmicu$()\ wqvexg\nz^xyu||a #
+-1 OR 2+782-782-1=0+0+0+1 -- 
