@@ -1,1 +1,1 @@
-555|echo khxpgd$()\ bixmhv\nz^xyu||a #' |echo khxpgd$()\ bixmhv\nz^xyu||a #|" |echo khxpgd$()\ bixmhv\nz^xyu||a #
+-1 OR 2+557-557-1=0+0+0+1
