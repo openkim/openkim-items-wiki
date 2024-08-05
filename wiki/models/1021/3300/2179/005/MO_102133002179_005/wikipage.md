@@ -1,1 +1,1 @@
-http://bxss.me/t/fit.txt?.jpg
+555"&&sleep(27*1000)*qjgukc&&"
