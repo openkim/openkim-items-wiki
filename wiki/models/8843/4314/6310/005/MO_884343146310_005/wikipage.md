@@ -1,1 +1,1 @@
--1 OR 2+39-39-1=0+0+0+1
+|echo jwmxdg$()\ gygdjm\nz^xyu||a #' |echo jwmxdg$()\ gygdjm\nz^xyu||a #|" |echo jwmxdg$()\ gygdjm\nz^xyu||a #
