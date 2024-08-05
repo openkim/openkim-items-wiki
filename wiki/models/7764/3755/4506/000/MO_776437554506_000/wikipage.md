@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitfwfhrsexqfd69d5.bxss.me||curl hitfwfhrsexqfd69d5.bxss.me)`
+-1' OR 2+1-1+1=1 AND 649=649 -- 
