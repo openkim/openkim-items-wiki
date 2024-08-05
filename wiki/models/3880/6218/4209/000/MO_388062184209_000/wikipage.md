@@ -1,1 +1,1 @@
-HttP://bxss.me/t/xss.html?%00
+Http://bxss.me/t/fit.txt
