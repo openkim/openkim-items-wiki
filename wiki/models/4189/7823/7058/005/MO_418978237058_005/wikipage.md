@@ -1,1 +1,1 @@
-|echo guzuyg$()\ aivuqo\nz^xyu||a #' |echo guzuyg$()\ aivuqo\nz^xyu||a #|" |echo guzuyg$()\ aivuqo\nz^xyu||a #
+-1 OR 2+596-596-1=0+0+0+1
