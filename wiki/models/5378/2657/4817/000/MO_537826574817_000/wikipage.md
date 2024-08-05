@@ -1,1 +1,1 @@
-&echo wpookd$()\ ojlpqs\nz^xyu||a #' &echo wpookd$()\ ojlpqs\nz^xyu||a #|" &echo wpookd$()\ ojlpqs\nz^xyu||a #
+"+response.write(9202750*9179442)+"
