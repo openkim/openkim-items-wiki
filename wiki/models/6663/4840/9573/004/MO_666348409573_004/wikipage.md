@@ -1,1 +1,1 @@
-&echo wwzaul$()\ bhpbmp\nz^xyu||a #' &echo wwzaul$()\ bhpbmp\nz^xyu||a #|" &echo wwzaul$()\ bhpbmp\nz^xyu||a #
+555&echo rdpeep$()\ rlcpol\nz^xyu||a #' &echo rdpeep$()\ rlcpol\nz^xyu||a #|" &echo rdpeep$()\ rlcpol\nz^xyu||a #
