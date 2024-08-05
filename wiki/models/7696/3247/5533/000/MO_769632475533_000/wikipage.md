@@ -1,1 +1,1 @@
-HttP://bxss.me/t/xss.html?%00
+-1' OR 2+990-990-1=0+0+0+1 or '72DOcjqj'='
