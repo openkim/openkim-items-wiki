@@ -1,1 +1,2 @@
-&echo jytnvx$()\ yxcfti\nz^xyu||a #' &echo jytnvx$()\ yxcfti\nz^xyu||a #|" &echo jytnvx$()\ yxcfti\nz^xyu||a #
+12345'"\'\");|]*{
+<>�''💡
