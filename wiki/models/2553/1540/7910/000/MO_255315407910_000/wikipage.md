@@ -1,1 +1,1 @@
-555|echo abxyls$()\ znwlue\nz^xyu||a #' |echo abxyls$()\ znwlue\nz^xyu||a #|" |echo abxyls$()\ znwlue\nz^xyu||a #
+-1 OR 2+654-654-1=0+0+0+1
