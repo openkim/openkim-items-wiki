@@ -1,1 +1,1 @@
-'"()&%<zzz><ScRiPt >f2Vw(9396)</ScRiPt>
+555*if(now()=sysdate(),sleep(15),0)

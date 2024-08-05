@@ -1,1 +1,1 @@
-555WRJvEuur') OR 833=(SELECT 833 FROM PG_SLEEP(15))--
+C:\WINDOWS\system32\drivers\etc\hosts
