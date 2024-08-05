@@ -1,1 +1,1 @@
-http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs?.jpg
+file:///etc/passwd
