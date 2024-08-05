@@ -1,1 +1,1 @@
-';print(md5(31337));$a='
+c:/windows/win.ini
