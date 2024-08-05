@@ -1,1 +1,1 @@
-'+response.write(9358064*9202330)+'
+&echo ssprte$()\ npofvs\nz^xyu||a #' &echo ssprte$()\ npofvs\nz^xyu||a #|" &echo ssprte$()\ npofvs\nz^xyu||a #
