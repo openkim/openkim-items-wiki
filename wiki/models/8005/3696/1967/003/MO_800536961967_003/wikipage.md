@@ -1,1 +1,1 @@
-echo vpudfb$()\ wbfqpq\nz^xyu||a #' &echo vpudfb$()\ wbfqpq\nz^xyu||a #|" &echo vpudfb$()\ wbfqpq\nz^xyu||a #
+'+response.write(9397161*9687178)+'
