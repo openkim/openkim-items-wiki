@@ -1,1 +1,1 @@
-'"()&%<zzz><ScRiPt >8IvO(9870)</ScRiPt>
+555-1; waitfor delay '0:0:15' -- 
