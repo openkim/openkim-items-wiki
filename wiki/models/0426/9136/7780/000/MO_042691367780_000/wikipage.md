@@ -1,1 +1,1 @@
-c:/windows/win.ini
+555"||sleep(27*1000)*ikklvp||"
