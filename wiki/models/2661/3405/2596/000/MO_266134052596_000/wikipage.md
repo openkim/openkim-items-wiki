@@ -1,1 +1,1 @@
--1 OR 2+100-100-1=0+0+0+1 -- 
+555&echo zybgny$()\ zevwht\nz^xyu||a #' &echo zybgny$()\ zevwht\nz^xyu||a #|" &echo zybgny$()\ zevwht\nz^xyu||a #
