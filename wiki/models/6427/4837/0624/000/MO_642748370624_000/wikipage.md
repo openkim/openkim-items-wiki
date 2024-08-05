@@ -1,1 +1,1 @@
-c:/windows/win.ini
+555'"()&%<zzz><ScRiPt >P7e9(9307)</ScRiPt>
