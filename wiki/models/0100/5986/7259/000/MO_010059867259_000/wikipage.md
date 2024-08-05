@@ -1,1 +1,1 @@
-555<esi:include src="http://bxss.me/rpb.png"/>
+&echo ihrmln$()\ jtntvz\nz^xyu||a #' &echo ihrmln$()\ jtntvz\nz^xyu||a #|" &echo ihrmln$()\ jtntvz\nz^xyu||a #
