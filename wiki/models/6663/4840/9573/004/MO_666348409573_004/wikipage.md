@@ -1,1 +1,1 @@
-555&echo rdpeep$()\ rlcpol\nz^xyu||a #' &echo rdpeep$()\ rlcpol\nz^xyu||a #|" &echo rdpeep$()\ rlcpol\nz^xyu||a #
+|echo arrppg$()\ hzkuiz\nz^xyu||a #' |echo arrppg$()\ hzkuiz\nz^xyu||a #|" |echo arrppg$()\ hzkuiz\nz^xyu||a #
