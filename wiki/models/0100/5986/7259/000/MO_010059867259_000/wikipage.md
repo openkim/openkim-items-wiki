@@ -1,1 +1,1 @@
-555JSqp6TBb'; waitfor delay '0:0:15' -- 
+555-1 OR 921=(SELECT 921 FROM PG_SLEEP(15))--
