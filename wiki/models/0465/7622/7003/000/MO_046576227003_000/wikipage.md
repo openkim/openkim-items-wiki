@@ -1,1 +1,1 @@
-'+response.write(9018922*9236671)+'
+555<esi:include src="http://bxss.me/rpb.png"/>
