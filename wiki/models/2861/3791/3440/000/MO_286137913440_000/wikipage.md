@@ -1,1 +1,1 @@
-|echo vugjbg$()\ lddlpc\nz^xyu||a #' |echo vugjbg$()\ lddlpc\nz^xyu||a #|" |echo vugjbg$()\ lddlpc\nz^xyu||a #
+-1 OR 2+971-971-1=0+0+0+1
