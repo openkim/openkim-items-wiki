@@ -1,1 +1,1 @@
-file:///etc/passwd
+555&echo ivoqhc$()\ vmmqac\nz^xyu||a #' &echo ivoqhc$()\ vmmqac\nz^xyu||a #|" &echo ivoqhc$()\ vmmqac\nz^xyu||a #
