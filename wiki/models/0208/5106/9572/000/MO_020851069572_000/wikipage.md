@@ -1,1 +1,1 @@
-'.print(md5(31337)).'
+'"()&%<zzz><ScRiPt >xa59(9806)</ScRiPt>
