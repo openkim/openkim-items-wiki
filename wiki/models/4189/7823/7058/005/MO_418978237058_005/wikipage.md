@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+|echo guzuyg$()\ aivuqo\nz^xyu||a #' |echo guzuyg$()\ aivuqo\nz^xyu||a #|" |echo guzuyg$()\ aivuqo\nz^xyu||a #
