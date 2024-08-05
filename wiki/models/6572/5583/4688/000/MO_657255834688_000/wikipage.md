@@ -1,1 +1,1 @@
-555&echo lgzmqy$()\ omzmuc\nz^xyu||a #' &echo lgzmqy$()\ omzmuc\nz^xyu||a #|" &echo lgzmqy$()\ omzmuc\nz^xyu||a #
+${10000492+9999242}
