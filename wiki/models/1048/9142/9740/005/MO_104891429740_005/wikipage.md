@@ -1,1 +1,1 @@
-555|echo uasuhv$()\ ohziut\nz^xyu||a #' |echo uasuhv$()\ ohziut\nz^xyu||a #|" |echo uasuhv$()\ ohziut\nz^xyu||a #
+-1 OR 2+444-444-1=0+0+0+1
