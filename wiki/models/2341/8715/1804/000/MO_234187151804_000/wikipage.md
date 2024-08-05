@@ -1,1 +1,2 @@
-555<esi:include src="http://bxss.me/rpb.png"/>
+12345'"\'\");|]*{
+<>�''💡
