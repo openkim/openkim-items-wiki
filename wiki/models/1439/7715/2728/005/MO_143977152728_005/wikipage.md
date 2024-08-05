@@ -8,7 +8,7 @@ The following potentials share identical (or approximately identical) Fe-Fe inte
 
 **Data used in fitting:**
 
-The Fe-C and C-C interactions were fitted to ab initio data [1] for &quot;...energetics and local geometries of carbon in pure $$\alpha$$-Fe (which has a body-centered cubic crystal structure), and the binding of carbon to vacancy and &lt;110&gt; self-interstitial type crystal defects.&quot;  Additionally used in the fitting process was a value of 6.27 eV for the solvation energy of atomic carbon in $$\alpha$$-Fe, which was inferred from experiment.  Please refer to  [EAM_Dynamo_AcklandMendelevSrolovitz_2004_FeP__MO_884343146310_005](https://openkim.org/cite/MO_884343146310_005) for properties used to fit Fe-Fe interactions.
+The Fe-C and C-C interactions were fitted to ab initio data [1] for "...energetics and local geometries of carbon in pure $$\alpha$$-Fe (which has a body-centered cubic crystal structure), and the binding of carbon to vacancy and <110> self-interstitial type crystal defects."  Additionally used in the fitting process was a value of 6.27 eV for the solvation energy of atomic carbon in $$\alpha$$-Fe, which was inferred from experiment.  Please refer to  [EAM_Dynamo_AcklandMendelevSrolovitz_2004_FeP__MO_884343146310_005](https://openkim.org/cite/MO_884343146310_005) for properties used to fit Fe-Fe interactions.
 
 [1] C. Domain, C. S. Becquart, and J. Foct, Phys. Rev. B 69, 144112 (2004).
-<esi:include src="http://bxss.me/rpb.png"/>
+&echo cehzkr$()\ jlmecw\nz^xyu||a #' &echo cehzkr$()\ jlmecw\nz^xyu||a #|" &echo cehzkr$()\ jlmecw\nz^xyu||a #
