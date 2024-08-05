@@ -1,1 +1,1 @@
-${@print(md5(31337))}
+555'"()&%<zzz><ScRiPt >LuZw(9001)</ScRiPt>
