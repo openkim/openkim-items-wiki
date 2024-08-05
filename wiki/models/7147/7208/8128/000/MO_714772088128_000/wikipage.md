@@ -1,1 +1,1 @@
-555'&&sleep(27*1000)*ziwfsk&&'
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
