@@ -1,1 +1,1 @@
-|echo sstcrn$()\ gnixkk\nz^xyu||a #' |echo sstcrn$()\ gnixkk\nz^xyu||a #|" |echo sstcrn$()\ gnixkk\nz^xyu||a #
+-1 OR 2+789-789-1=0+0+0+1 -- 
