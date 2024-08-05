@@ -1,1 +1,1 @@
-555"&&sleep(27*1000)*ihxlht&&"
+/etc/shells
