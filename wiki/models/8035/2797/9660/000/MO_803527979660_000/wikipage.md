@@ -1,1 +1,1 @@
-555JeLRxdYw')) OR 141=(SELECT 141 FROM PG_SLEEP(15))--
+C:\WINDOWS\system32\drivers\etc\hosts
