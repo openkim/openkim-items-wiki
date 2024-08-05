@@ -26,3 +26,4 @@ $$
 The values of these constants used by the authors to modify EAM_Dynamo_MendelevHanSrolovitz_2003Potential2_Fe__MO_769582363439_005 to describe interactions in pure Fe are $$C$$ = 0.116093429 and $$S$$ = 0.0380008812.  For pure Ni interactions, the authors modify the Voter--Chen potential [1] using the above transformations with $$C$$ = −24.3575774 and $$S$$ = 2.84007616.  For details on how the cross-interactions (Fe/Ni) were fit, please see the source article.
 
 [1] Voter A F and Chen S P, *Mater. Res. Soc. Symp. Proc.* 82 (1987), pp. 175.
+&n950030=v950061
