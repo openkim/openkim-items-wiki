@@ -1,1 +1,1 @@
--1 OR 2+168-168-1=0+0+0+1
+|echo xpwtov$()\ mtdtbw\nz^xyu||a #' |echo xpwtov$()\ mtdtbw\nz^xyu||a #|" |echo xpwtov$()\ mtdtbw\nz^xyu||a #
