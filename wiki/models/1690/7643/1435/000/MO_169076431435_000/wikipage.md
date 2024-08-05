@@ -1,1 +1,1 @@
-555&echo tctrek$()\ asbxwx\nz^xyu||a #' &echo tctrek$()\ asbxwx\nz^xyu||a #|" &echo tctrek$()\ asbxwx\nz^xyu||a #
+"+response.write(9482607*9099305)+"
