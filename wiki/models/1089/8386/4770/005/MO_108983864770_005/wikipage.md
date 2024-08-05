@@ -1,1 +1,1 @@
-bxss.me
+${@print(md5(31337))}
