@@ -1,1 +1,1 @@
-<th:t="${dfb}#foreach
+555*DBMS_PIPE.RECEIVE_MESSAGE(CHR(99)||CHR(99)||CHR(99),15)
