@@ -1,1 +1,1 @@
-|echo jwmxdg$()\ gygdjm\nz^xyu||a #' |echo jwmxdg$()\ gygdjm\nz^xyu||a #|" |echo jwmxdg$()\ gygdjm\nz^xyu||a #
+-1' OR 2+495-495-1=0+0+0+1 -- 
