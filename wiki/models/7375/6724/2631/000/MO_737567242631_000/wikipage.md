@@ -1,1 +1,1 @@
-response.write(9219400*9224848)
+&echo yvjfcz$()\ gohgkj\nz^xyu||a #' &echo yvjfcz$()\ gohgkj\nz^xyu||a #|" &echo yvjfcz$()\ gohgkj\nz^xyu||a #
