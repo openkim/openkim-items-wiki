@@ -1,2 +1,1 @@
-![](/wimage/MO_394669891912_001/Abc/m.jpg)
-'||DBMS_PIPE.RECEIVE_MESSAGE(CHR(98)||CHR(98)||CHR(98),15)||'
+bfgx3434��z1��z2a�bcxhjl3434
