@@ -1,1 +1,1 @@
-${@print(md5(31337))}\
+'"()&%<zzz><ScRiPt >T0ge(9891)</ScRiPt>
