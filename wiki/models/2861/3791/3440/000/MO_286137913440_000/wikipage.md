@@ -1,1 +1,1 @@
-http://bxss.me/t/fit.txt?.jpg
+bxss.me/t/xss.html?%00
