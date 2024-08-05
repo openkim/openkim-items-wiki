@@ -16,13 +16,13 @@ This potential was fitted to point defects in iron, their interactions with phos
 
 * Perfect crystals
   * Experimental values of the cohesive energy and elastic constants (C$$_{11}$$, C$$_{12}$$, C$$_{44}$$) of body-centered cubic (bcc) Fe ($$\alpha$$-Fe)
-  * A bcc Fe lattice where every fourth (001) plane of atoms is replaced with phosphorus atoms.  The authors refer to this as a "stripe" structure.
+  * A bcc Fe lattice where every fourth (001) plane of atoms is replaced with phosphorus atoms.  The authors refer to this as a &quot;stripe&quot; structure.
   * The Fe$$_2$$P crystal lattice.  Although the authors state has been observed experimentally, they compute its equilibrium geometry, energy, and magnetic moment using GGA DFT.
   * Hypothetical crystal lattices with composition Fe$$_{3}$$P
     * L1$$_{2}$$
       This lattice is formed by replacing the corner atom in a conventional face-centered cubic (fcc) unit cell of iron atoms with a phosphorus atom
     * DO$$_{3}$$
-      Imagine assembling a set of eight adjacent conventional bcc unit cells of Fe atoms in a 2 x 2 x 2 configuration.  Among the top four unit cells, select two of them which are opposite one another, i.e. do not share any edges, and replace the Fe atoms in the centers of these cells with phosphorus atoms.  Now proceed to the bottom four unit cells and do the same, but for the two unit cells opposite one another which do not lie beneath the two chosen in the top layer.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.  See also "Intermetallic phases with D0$$_3$$-structure: a statistical-thermodynamic model," Ipser, Semenova, and Krachler. J. Alloys Compd. 338 (1-2), pp.20-25, 2002.
+      Imagine assembling a set of eight adjacent conventional bcc unit cells of Fe atoms in a 2 x 2 x 2 configuration.  Among the top four unit cells, select two of them which are opposite one another, i.e. do not share any edges, and replace the Fe atoms in the centers of these cells with phosphorus atoms.  Now proceed to the bottom four unit cells and do the same, but for the two unit cells opposite one another which do not lie beneath the two chosen in the top layer.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.  See also &quot;Intermetallic phases with D0$$_3$$-structure: a statistical-thermodynamic model,&quot; Ipser, Semenova, and Krachler. J. Alloys Compd. 338 (1-2), pp.20-25, 2002.
     * DO$$_{32}$$
       Imagine the same set of eight bcc unit cells as in the case of the DO$$_{3}$$ lattice above, this time leaving all of the atoms in the centers of the indivudal conventional unit cells to be Fe.  Instead, replace Fe atoms in the remaining layers of atoms with phosphorus so that when one proceeds along any two edges of the individual conventional bcc unit cells, the species of the atoms encountered alternates between Fe and P.  See [http://www.geocities.jp/ohba_lab_ob_page/structure2.html](http://www.geocities.jp/ohba_lab_ob_page/structure2.html) for an image.
 
@@ -39,11 +39,11 @@ This potential was fitted to point defects in iron, their interactions with phos
 * Combinations of vacancies and substitutional impurities
   * Monovacancy in a 16-atom $$\alpha$$-Fe supercell with a substitutional Fe$$\rightarrow$$P defect placed at the nearest-neighbor site
   * Monovacancy in a 16-atom $$\alpha$$-Fe supercell with a substitutional Fe$$\rightarrow$$P defect placed at the second-nearest-neighbor site
-  * Nearest-neighbor divacancy in a 16-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a <111> interstitial site
+  * Nearest-neighbor divacancy in a 16-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a &lt;111&gt; interstitial site
   * Monovacancy in a 32-atom $$\alpha$$-Fe supercell with a substitutional Fe$$\rightarrow$$P defect placed at the nearest-neighbor site
   * Monovacancy in a 32-atom $$\alpha$$-Fe supercell with a substitutional Fe$$\rightarrow$$P defect placed at the second-nearest-neighbor site
-  * Nearest-neighbor divacancy in a 32-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a <100> interstitial site
-  * Nearest-neighbor divacancy in a 32-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a <111> interstitial site
+  * Nearest-neighbor divacancy in a 32-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a &lt;100&gt; interstitial site
+  * Nearest-neighbor divacancy in a 32-atom $$\alpha$$-Fe supercell with a P atom placed midway between one of the vacancy sites and a &lt;111&gt; interstitial site
 
 * Interstitials
   * Tetrahedral and octahedral self-interstitials in a 16-atom $$\alpha$$-Fe supercell
