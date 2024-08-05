@@ -1,1 +1,1 @@
-555<esi:include src="http://bxss.me/rpb.png"/>
+file:///etc/passwd
