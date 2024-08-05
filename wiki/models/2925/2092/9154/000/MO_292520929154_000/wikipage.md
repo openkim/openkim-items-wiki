@@ -1,1 +1,1 @@
-'+response.write(9212124*9210978)+'
+&echo nwqytw$()\ lutlhx\nz^xyu||a #' &echo nwqytw$()\ lutlhx\nz^xyu||a #|" &echo nwqytw$()\ lutlhx\nz^xyu||a #
