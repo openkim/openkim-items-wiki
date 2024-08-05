@@ -1,1 +1,1 @@
-|echo breclz$()\ oronvz\nz^xyu||a #' |echo breclz$()\ oronvz\nz^xyu||a #|" |echo breclz$()\ oronvz\nz^xyu||a #
+-1 OR 2+290-290-1=0+0+0+1 -- 
