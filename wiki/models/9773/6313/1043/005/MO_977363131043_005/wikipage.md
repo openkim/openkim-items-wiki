@@ -1,1 +1,1 @@
-&echo hawsge$()\ aerfdc\nz^xyu||a #' &echo hawsge$()\ aerfdc\nz^xyu||a #|" &echo hawsge$()\ aerfdc\nz^xyu||a #
+-1 OR 2+440-440-1=0+0+0+1 -- 
