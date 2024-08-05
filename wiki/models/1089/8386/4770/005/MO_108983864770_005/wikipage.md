@@ -1,1 +1,1 @@
-|echo zfwxwr$()\ jqkoba\nz^xyu||a #' |echo zfwxwr$()\ jqkoba\nz^xyu||a #|" |echo zfwxwr$()\ jqkoba\nz^xyu||a #
+-1 OR 2+344-344-1=0+0+0+1
