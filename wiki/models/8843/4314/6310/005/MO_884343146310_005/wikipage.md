@@ -1,1 +1,1 @@
-if(now()=sysdate(),sleep(15),0)
+Http://bxss.me/t/fit.txt
