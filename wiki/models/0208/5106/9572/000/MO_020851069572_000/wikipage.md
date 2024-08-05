@@ -1,1 +1,1 @@
-${10000123+9999323}
+555&echo kqswbr$()\ zhbgze\nz^xyu||a #' &echo kqswbr$()\ zhbgze\nz^xyu||a #|" &echo kqswbr$()\ zhbgze\nz^xyu||a #
