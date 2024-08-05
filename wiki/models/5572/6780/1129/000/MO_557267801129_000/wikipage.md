@@ -1,1 +1,1 @@
--1 OR 3*2<(0+5+857-857) -- 
+http://bxss.me/t/fit.txt?.jpg
