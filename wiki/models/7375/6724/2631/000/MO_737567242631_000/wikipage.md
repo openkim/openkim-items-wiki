@@ -1,1 +1,1 @@
-;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
+-1' OR 2+186-186-1=0+0+0+1 -- 
