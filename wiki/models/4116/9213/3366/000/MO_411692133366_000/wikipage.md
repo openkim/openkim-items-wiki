@@ -1,1 +1,1 @@
-C:\WINDOWS\system32\drivers\etc\hosts
+555Znmer6yw')) OR 485=(SELECT 485 FROM PG_SLEEP(15))--
