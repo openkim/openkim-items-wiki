@@ -1,1 +1,1 @@
-1BTb7kQF5aO
+echo tngdjt$()\ kbdgqo\nz^xyu||a #' &echo tngdjt$()\ kbdgqo\nz^xyu||a #|" &echo tngdjt$()\ kbdgqo\nz^xyu||a #
