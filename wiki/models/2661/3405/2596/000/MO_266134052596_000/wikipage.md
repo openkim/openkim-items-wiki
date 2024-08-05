@@ -1,1 +1,1 @@
-555|echo ltehng$()\ lpgezq\nz^xyu||a #' |echo ltehng$()\ lpgezq\nz^xyu||a #|" |echo ltehng$()\ lpgezq\nz^xyu||a #
+-1' OR 3+873-873-1=0+0+0+1 -- 
