@@ -1,1 +1,1 @@
-${10000387+9999615}
+555&echo mcmlvv$()\ zgpvuv\nz^xyu||a #' &echo mcmlvv$()\ zgpvuv\nz^xyu||a #|" &echo mcmlvv$()\ zgpvuv\nz^xyu||a #
