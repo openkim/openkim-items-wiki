@@ -1,1 +1,1 @@
-555|echo wnuyiq$()\ faodbe\nz^xyu||a #' |echo wnuyiq$()\ faodbe\nz^xyu||a #|" |echo wnuyiq$()\ faodbe\nz^xyu||a #
+-1' OR 2+736-736-1=0+0+0+1 -- 
