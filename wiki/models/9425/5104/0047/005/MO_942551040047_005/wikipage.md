@@ -1,1 +1,1 @@
-"+response.write(9591956*9293910)+"
+|echo hvbdfv$()\ bpdjrh\nz^xyu||a #' |echo hvbdfv$()\ bpdjrh\nz^xyu||a #|" |echo hvbdfv$()\ bpdjrh\nz^xyu||a #
