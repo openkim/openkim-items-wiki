@@ -1,1 +1,1 @@
-"+response.write(9647083*9961217)+"
+555&echo lagjac$()\ rudami\nz^xyu||a #' &echo lagjac$()\ rudami\nz^xyu||a #|" &echo lagjac$()\ rudami\nz^xyu||a #
